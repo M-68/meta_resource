@@ -1944,7 +1944,157 @@ Complementary Collections
 
 https://sgfin.github.io/learning-resources/
 
+https://www.tensorflow.org/resources/learn-ml
 
+https://deepmind.com/learning-resources
+
+https://developer.nvidia.com/deep-learning
+
+TUTORIALS / COURSES
+CS231n: Convolutional Neural Networks for Visual Recognition by Fei-Fei Li, Andrej Karpathy and Justin Johnson, 2016. [Stanford]
+Deep Learning for Computer Vision by Rob Fergus, NIPS 2013 tutorial.
+Deep Learning for Computer Vision by Prof. C. V. Jawahar, NCVPRIPG 2015 tutorial.
+Neural Networks for Machine Learning by Geoffrey Hinton, 2012. [Coursera]
+Lecture notes from Geoffrey Hinton's classes on neural networks 2013.
+Deep Learning Course by Nando de Freitas, 2015. [Oxford]
+Deep Learning Course [CILVR lab, NYU]
+Deep Learning by Vincent Vanhoucke and Arpan Chakraborty, 2016. [Udacity/Google]
+CS224d: Deep Learning for Natural Language Processing by Richard Socher. [Stanford]
+A Deep Learning Tutorial: From Perceptrons to Deep Networks by Ivan Vasilev.
+VIDEOS/TALKS
+The Next Generation of Neural Networks by Geoffrey Hinton at GoogleTechTalks 2007.
+Deep Learning, Self-Taught Learning and Unsupervised Feature Learning by Andrew Ng, Graduate Summer School: Deep Learning, Feature Learning 2013.
+Recent Developments in Deep Learning by Geoffrey Hinton, UBC Department of Computer Science's Distinguished Lecture Series, 2013.
+The Unreasonable Effectiveness of Deep Learning by Yann LeCun Johns Hopkins University, Center for Language and Speech Processing, 2014.
+Deep Learning of Representations by Yoshua Bengio at GoogleTechTalks 2012.
+A Beginners Guide to Deep Neural Networks by Natalie Hammel and Lorraine Yurshansky, Google Research Blog 2015.
+Deep Learning RNNaissance with Dr. Juergen Schmidhuber at NYC ML Meetup 2014
+Deep Learning: Theoretical Motivations by Yoshua Bengio, DLSS 2015.
+Deep Learning for Vision: Tricks of the trade Facebook, Bay Area Vision Meeting 2013.
+SELECTED PAPERS
+FUNDAMENTALS
+Efficient BackProp, LeCun YA, Bottou L, Orr GB, Müller KR. Efficient backprop. InNeural networks: Tricks of the trade 2012.
+Learning representations by back-propagating errors, (The original article on back-propagation), DE Rumelhart, GE Hinton, RJ Williams - Cognitive modeling, 1988.
+Minimizing description length in an unsupervised neural network, Hinton GE, Zemel RS. Minimizing description length in an unsupervised neural network. Preprint. 1997.
+Dimensionality Reduction by Learning an Invariant Mapping, Hadsell R, Chopra S, LeCun Y, CVPR 2006.
+PRACTICAL TRICKS
+Learning Deep Architectures for AI, Y Bengio - Foundations and trends in Machine Learning, 2009.
+Understanding the Difficulty of Training Deep Feedforward Neural Networks, Glorot X, Bengio Y, In International conference on artificial intelligence and statistics 2010.
+Practical Recommendations for Gradient-Based Training of Deep Architectures, Y Bengio - Neural Networks: Tricks of the Trade, 2012 - Springer.
+Improving Neural Networks by Preventing Co-adaptation of Feature Detectors, Hinton GE, Srivastava N, Krizhevsky A, Sutskever I, Salakhutdinov RR, arXiv preprint arXiv:1207.0580, 2012.
+On the Importance of Initialization and Momentum in Deep Learning, Sutskever I, Martens J, Dahl G, Hinton G, ICML 2013.
+AUTOENCODERS
+Reducing the dimensionality of data with neural networks, GE Hinton, RR Salakhutdinov - Science, 2006.
+Disentangling factors of variation for facial expression recognition, S Rifai, Y Bengio, A Courville, P Vincent, M Mirza, ECCV 2012.
+Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion, Vincent P, Larochelle H, Lajoie I, Bengio Y, Manzagol PA, JMLR 2010.
+CONVOLUTIONAL NEURAL NETWORKS
+Gradient-Based Learning Applied to Document Recognition, LeCun Y, Bottou L, Bengio Y, Haffner P, Proceedings of the IEEE. 1998.
+Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis, Simard PY, Steinkraus D, Platt JC, ICDAR 2003.
+Network in Network, M Lin, Q Chen, S Yan - arXiv preprint arXiv:1312.4400, 2013.
+RECURRENT NEURAL NETWORKS
+Training Recurrent Neural Networks, Ilya Sutskever, PhD Thesis, 2012.
+Supervised Sequence Labelling with Recurrent Neural Networks, Textbook, Studies in Computational Intelligence, Springer, 2012.
+Training and Analyzing Deep Recurrent Neural Networks, M Hermans, B Schrauwen, NIPS 2013.
+Generating Sequences With Recurrent Neural Networks, A Graves - arXiv preprint arXiv:1308.0850, 2013.
+IMAGE CLASSIFICATION
+ImageNet Classification with Deep Convolutional Neural Networks, Alex Krizhevsky, Ilya Sutskever, Geoffrey E Hinton, NIPS 2012.
+Very Deep Convolutional Networks for Large-Scale Image Recognition, K Simonyan, A Zisserman - arXiv preprint arXiv:1409.1556, 2014.
+Going Deeper with Convolutions, Szegedy, Christian and Liu, Wei and Jia, Yangqing and Sermanet, Pierre and Reed, Scott and Anguelov, Dragomir and Erhan, Dumitru and Vanhoucke, Vincent and Rabinovich, Andrew, CVPR 2015.
+Deep Residual Learning for Image Recognition, K He, X Zhang, S Ren, J Sun - arXiv preprint arXiv:1512.03385, 2015.
+Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian, ICCV 2015.
+VISUALIZATION AND INVERSION
+Visualizing and Understanding Convolutional Networks, MD Zeiler, R Fergus, ECCV 2014.
+Understanding Deep Image Representations by Inverting Them, A Mahendran, A Vedaldi, CVPR 2015.
+Visualizing and Understanding Recurrent Networks, A Karpathy, J Johnson, FF Li - arXiv preprint arXiv:1506.02078, 2015.
+OBJECT DETECTION
+Fast R-CNN, R Girshick, ICCV 2015.
+Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, S Ren, K He, R Girshick, J Sun, NIPS 2015.
+Region-based Convolutional Networks for Accurate Object Detection and Segmentation, R Girshick, J Donahue, T Darrell, J Malik, PAMI 2016.
+SEMANTIC SEGMENTATION
+Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs, Chen LC, Papandreou G, Kokkinos I, Murphy K, Yuille AL, arXiv preprint arXiv:1412.7062. 2014.
+Fully Convolutional Networks for Semantic Segmentation, J Long, E Shelhamer, T Darrell, CVPR 2015.
+Semantic Image Segmentation via Deep Parsing Network, Z Liu, X Li, P Luo, CC Loy, X Tang, ICCV 2015.
+Conditional Random Fields as Recurrent Neural Networks, Zheng S, Jayasumana S, Romera-Paredes B, Vineet V, Su Z, Du D, Huang C, Torr PH, ICCV 2015.
+VISUAL CAPTIONING AND QUESTION-ANSWERING
+Long-term Recurrent Convolutional Networks for Visual Recognition and Description, Donahue J, Anne Hendricks L, Guadarrama S, Rohrbach M, Venugopalan S, Saenko K, Darrell T, CVPR 2015.
+Show and Tell: A Neural Image Caption Generator, Vinyals O, Toshev A, Bengio S, Erhan D, CVPR 2015
+Sequence to Sequence – Video to Text, Venugopalan S, Rohrbach M, Donahue J, Mooney R, Darrell T, Saenko K, ICCV 2015.
+VQA : Visual Question Answering, Antol S, Agrawal A, Lu J, Mitchell M, Batra D, Lawrence Zitnick C, Parikh D, ICCV 2105.
+Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering, H Xu, K Saenko - arXiv preprint arXiv:1511.05234, 2015.
+OPTIMIZATION
+Deep learning via Hessian-free optimization, Martens J, ICML 2010.
+On optimization Methods for Deep Learning, Ngiam J, Coates A, Lahiri A, Prochnow B, Le QV, Ng AY, ICML 2011.
+Adam: A Method for Stochastic Optimization, D Kingma, J Ba - arXiv preprint arXiv:1412.6980, 2014.
+On the saddle point problem for non-convex optimization, R Pascanu, YN Dauphin, S Ganguli, Y Bengio - arXiv preprint arXiv:1405.4604, 2014
+Identifying and attacking the saddle point problem in high-dimensional non-convex optimization, Dauphin YN, Pascanu R, Gulcehre C, Cho K, Ganguli S, Bengio Y, NIPS 2014.
+The Loss Surfaces of Multilayer Networks, Choromanska A, Henaff M, Mathieu M, Arous GB, LeCun Y, arXiv preprint arXiv:1412.0233. 2014.
+Gradient-based Hyperparameter Optimization through Reversible Learning, D Maclaurin, D Duvenaud, RP Adams - arXiv preprint arXiv:1502.03492, 2015
+REGULARIZATION
+Rectified Linear Units Improve Restricted Boltzmann Machines, Nair V, Hinton GE, ICML 2010.
+Maxout Networks, Goodfellow IJ, Warde-Farley D, Mirza M, Courville A, Bengio Y, arXiv preprint arXiv:1302.4389. 2013.
+Dropout: A Simple Way to Prevent Neural Networks from Overfitting, Srivastava N, Hinton G, Krizhevsky A, Sutskever I, Salakhutdinov R, JMLR 2014.
+Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, S Ioffe, C Szegedy - arXiv preprint arXiv:1502.03167, 2015.
+REINFORCEMENT LEARNING
+Human-level control through deep reinforcement learning, Mnih V, Kavukcuoglu K, Silver D, Rusu AA, Veness J, Bellemare MG, Graves A, Riedmiller M, Fidjeland AK, Ostrovski G, Petersen S, Nature 2015.
+Playing Atari with Deep Reinforcement Learning, Mnih V, Kavukcuoglu K, Silver D, Graves A, Antonoglou I, Wierstra D, Riedmiller M, arXiv preprint arXiv:1312.5602. 2013.
+RECENT ADVANCES, ARCHITECTURES AND OTHER APPLICATIONS
+DeepFace: Closing the Gap to Human-Level Performance in Face Verification, Taigman Y, Yang M, Ranzato MA, Wolf L, CVPR 2014.
+Large Scale Distributed Deep Networks, Dean J, Corrado G, Monga R, Chen K, Devin M, Mao M, Senior A, Tucker P, Yang K, Le QV, Ng AY, NIPS 2012.
+Predicting Parameters in Deep Learning, Denil M, Shakibi B, Dinh L, de Freitas N, NIPS 2013
+Distilling the Knowledge in a Neural Network, G Hinton, O Vinyals, J Dean, arXiv preprint arXiv:1503.02531, 2015.
+Spatial Transformer Networks, Jaderberg M, Simonyan K, Zisserman A, NIPS 2015.
+Generative Adversarial Networks, Goodfellow I, Pouget-Abadie J, Mirza M, Xu B, Warde-Farley D, Ozair S, Courville A, Bengio Y, NIPS 2014.
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, A Radford, L Metz, S Chintala, arXiv preprint arXiv:1511.06434, 2015.
+Semi-Supervised Learning with Ladder Networks, A Rasmus, M Berglund, M Honkala, H Valpola, T Raiko, NIPS 2015.
+Highway Networks, Srivastava RK, Greff K, Schmidhuber J, arXiv preprint arXiv:1505.00387, 2015.
+Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, He K, Zhang X, Ren S, Sun J, PAMI 2015.
+OTHER RESOURCES
+Deep Learning Summer School, Montreal 2015.
+LISA reading List
+Deep learning resources
+Awesome Deep Vision - a curated list of deep learning resources for computer vision.
+Awesome Deep Learning
+BOOKS
+Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+Deep Learning survey in Nature by Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
+
+https://cvit.iiit.ac.in/deeplearningcourse/resources.html
+https://cs.stanford.edu/people/karpathy/convnetjs/intro.html
+http://faculty.neu.edu.cn/yury/AAI/Textbook/DeepLearningBook.pdf
+https://openai.com/resources/
+https://developer.apple.com/machine-learning/
+https://www.csa.iisc.ac.in/academics/academics-courses-desc.php
+https://developer.ibm.com/linuxonpower/deep-learning-powerai/library/
+https://tensorflow.rstudio.com/learn/resources/
+https://project.inria.fr/deeplearning/references/
+https://www.rsna.org/en/education/ai-resources-and-training
+https://www.deeplearningbook.org
+https://unity3d.com/machine-learning
+https://www.microsoft.com/en-us/research/people/cmbishop/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fcmbishop%2Fprml%2F
+https://www.flir.in/support-center/iis/machine-vision/knowledge-base/firefly-deep-learning-resources/
+https://www.cfainstitute.org/en/membership/professional-development/refresher-readings/2020/machine-learning
+https://pytorch.org/resources/
+https://doc.arcgis.com/en/imagery/workflows/resources/using-deep-learning-for-feature-extraction.htm
+https://evilmartians.com/chronicles/learning-how-to-learn-deep-learning
+https://sgfin.github.io/learning-resources/
+
+
+
+
+https://www.cs.ubc.ca/~van/cpsc533/rl.html
+http://web.stanford.edu/class/cs234/index.html
+http://karpathy.github.io/2016/05/31/rl/
+https://www.nervanasys.com/demystifying-deep-reinforcement-learning/
+https://aikorea.org/awesome-rl/
+https://openai.com/projects/five/
+https://spinningup.openai.com/en/latest/
+http://www.depthfirstlearning.com/2018/AlphaGoZero
+http://web.stanford.edu/class/cs234/index.html
+https://www.davidsilver.uk/teaching/
+https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
+http://rail.eecs.berkeley.edu/deeprlcourse/
+http://www.wildml.com/2016/10/learning-reinforcement-learning/
+https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 
 
 
