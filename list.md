@@ -2095,9 +2095,153 @@ https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
 http://rail.eecs.berkeley.edu/deeprlcourse/
 http://www.wildml.com/2016/10/learning-reinforcement-learning/
 https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
+https://github.com/dennybritz/reinforcement-learning
+https://github.com/seungeunrho/minimalRL
+OpenAI	https://github.com/openai/baselines	6161	TF
+TensorForce	https://github.com/reinforceio/tensorforce	2064	TF
+RLLAB	https://github.com/rll/rllab	1926	Th
+TRFL	https://github.com/deepmind/trfl	1922	TF
+Udacity	https://github.com/udacity/deep-reinforcement-learning	1671	PT
+RL-Adventure	https://github.com/higgsfield/RL-Adventure-2	1477	PT
+ikostrikov	https://github.com/ikostrikov/pytorch-a2c-ppo-acktr	1022	PT
+ShangtongZhang	https://github.com/ShangtongZhang/DeepRL	962	PT
+Coach	https://github.com/NervanaSystems/coach	937	TF
+Stable Baselines	https://github.com/hill-a/stable-baselines	419	TF
+rlkit	https://github.com/vitchyr/rlkit	321	PT
+Vel	https://github.com/MillionIntegrals/vel	185	PT
+RLgraph	https://github.com/rlgraph/rlgraph
+
+https://github.com/rlgraph/rlgraph
+
+title	commits per week (for last year)	watchers	open issues	created	updated	contributors (up to 100)	forks	url
+RLgraph	59.385	35	13	2018-05-04	2018-11-30	3	2	https://github.com/rlgraph/rlgraph
+araffin/robotics-rl-srl	16.154	199	3	2018-01-18	2018-11-30	5	13	https://github.com/araffin/robotics-rl-srl
+Stable Baselines	11.538	427	24	2018-07-02	2018-11-30	49	46	https://github.com/hill-a/stable-baselines
+lcswillems/torch-rl	7.346	71	1	2018-04-11	2018-11-28	3	15	https://github.com/lcswillems/torch-rl
+TensorForce	6.788	2073	36	2017-03-19	2018-11-30	46	378	https://github.com/reinforceio/tensorforce
+Vel	6.615	186	8	2018-05-09	2018-11-30	4	17	https://github.com/MillionIntegrals/vel
+facebookresearch/Horizon	6.596	1369	5	2017-07-27	2018-11-30	15	148	https://github.com/facebookresearch/Horizon
+kengz/SLM-Lab	6.288	407	1	2017-10-02	2018-11-26	5	60	https://github.com/kengz/SLM-Lab
+navneet-nmk/pytorch-rl	5.692	161	0	2018-02-28	2018-11-30	1	18	https://github.com/navneet-nmk/pytorch-rl
+Coach	5.654	958	12	2017-10-01	2018-12-01	21	177	https://github.com/NervanaSystems/coach
+zuoxingdong/lagom	5.192	203	8	2017-12-21	2018-11-30	4	15	https://github.com/zuoxingdong/lagom
+ShangtongZhang	4.5	966	2	2017-04-20	2018-11-30	3	211	https://github.com/ShangtongZhang/DeepRL
+unixpickle/anyrl-py	4.135	94	9	2017-09-18	2018-11-29	4	20	https://github.com/unixpickle/anyrl-py
+inoryy/reaver-pysc2	3.769	274	3	2017-10-21	2018-11-30	1	45	https://github.com/inoryy/reaver-pysc2
+ikostrikov	2.462	1030	20	2017-08-22	2018-11-30	17	216	https://github.com/ikostrikov/pytorch-a2c-ppo-acktr
+rlkit	0.769	325	0	2018-01-25	2018-12-01	2	65	https://github.com/vitchyr/rlkit
+MorvanZhou/Reinforcement-learning-with-tensorflow	0.692	2678	7	2017-05-06	2018-11-30	4	1729	https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
+TRFL	0.558	1934	0	2018-08-08	2018-11-30	6	215	https://github.com/deepmind/trfl
+deepmind/scalable_agent	0.327	535	4	2018-06-06	2018-11-29	2	68	https://github.com/deepmind/scalable_agent
+RL-Adventure	0.212	1481	4	2018-05-26	2018-11-30	3	157	https://github.com/higgsfield/RL-Adventure-2
+Udacity	0.173	1683	3	2018-07-06	2018-11-30	1	519	https://github.com/udacity/deep-reinforcement-learning
+RLLAB
+
+
+https://github.com/openai/baselines	https://github.com/openai/baselines/tree/master/baselines
+https://github.com/reinforceio/tensorforce	https://github.com/reinforceio/tensorforce/tree/master/tensorforce/models
+https://github.com/rll/rllab	https://github.com/rll/rllab/tree/master/rllab/algos
+https://github.com/deepmind/trfl	https://github.com/deepmind/trfl/tree/master/trfl
+https://github.com/openai/spinningup	https://github.com/openai/spinningup/tree/master/spinup/algos
+https://github.com/udacity/deep-reinforcement-learning	https://github.com/udacity/deep-reinforcement-learning
+https://github.com/higgsfield/RL-Adventure-2	https://github.com/higgsfield/RL-Adventure-2
+https://github.com/ikostrikov/pytorch-a2c-ppo-acktr	https://github.com/ikostrikov/pytorch-a2c-ppo-acktr/tree/master/algo
+https://github.com/ShangtongZhang/DeepRL	https://github.com/ShangtongZhang/DeepRL/tree/master/deep_rl/agent
+https://github.com/NervanaSystems/coach	https://github.com/NervanaSystems/coach/tree/master/rl_coach/agents
+https://github.com/hill-a/stable-baselines	https://github.com/hill-a/stable-baselines/tree/master/stable_baselines
+https://github.com/Scitator/catalyst	
+https://github.com/vitchyr/rlkit	https://github.com/vitchyr/rlkit/tree/master/rlkit/torch
+https://github.com/MillionIntegrals/vel	https://github.com/MillionIntegrals/vel/tree/master/vel/rl/algo
+https://github.com/rlgraph/rlgraph	https://github.com/rlgraph/rlgraph/tree/master/rlgraph/agents
+https://github.com/tensorflow/agents	https://github.com/tensorflow/agents/tree/master/tf_agents/agents
+	
+	
+	https://github.com/ray-project/ray/tree/master/python/ray/rllib/agents
+
+https://github.com/ikostrikov/pytorch-a2c-ppo-acktr
+https://github.com/navneet-nmk/pytorch-rl
+https://github.com/dennybritz/reinforcement-learning
+https://github.com/medipixel/rl_algorithms
+https://github.com/Kaixhin/Rainbow
+https://github.com/joschu/modular_rl
+https://github.com/Khrylx/PyTorch-RL
+https://github.com/rlcode/reinforcement-learning
+https://github.com/seungeunrho/minimalRL
+https://github.com/PaddlePaddle/PARL
+https://github.com/medipixel/rl_algorithms
+https://github.com/cpnota/autonomous-learning-library
+https://github.com/opium-sh/prl
+https://github.com/keiohta/tf2rl
+https://github.com/Shmuma/ptan
+
+https://winderresearch.com/a-comparison-of-reinforcement-learning-frameworks-dopamine-rllib-keras-rl-coach-trfl-tensorforce-coach-and-more/		
+https://docs.google.com/spreadsheets/d/1EeFPd-XIQ3mq_9snTlAZSsFY7Hbnmd7P5bbT8LPuMn0/edit#gid=0		
+https://github.com/hengyuan-hu/rainbow		
+
+https://github.com/kengz/SLM-Lab
+
+https://github.com/inoryy/reaver-pysc2
+
+https://github.com/facebookresearch/Horizon
+
+https://github.com/unixpickle/anyrl-py
+
+https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
+
+https://github.com/tensorlayer/tensorlayer
+
+https://github.com/deepmind/scalable_agent
+
+https://github.com/araffin/robotics-rl-srl
+
+https://github.com/zuoxingdong/lagom
+
+https://github.com/tensorpack/tensorpack
+
+https://github.com/navneet-nmk/pytorch-rl
+
+https://github.com/lcswillems/torch-rl
+
+https://github.com/reinforceio/tensorforce
+
+https://github.com/NervanaSystems/coach
+
+https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
+
+http://www.wildml.com/2016/10/learning-reinforcement-learning/
+
+Spinning up deep learning - probably the best one if you wish to really dive into the RL (and potentially thinking of becoming an RL researcher). Well explained and very importantly - well structured. For me, it was extremely helpful for 'putting all the pieces together' (where pieces were medium articles, tutorials etc. read over months). I would say this should be your nr 1, although it is not highly practical.
+
+David Silver course - probably the best explanatory course, which gives you a holistic view of the RL fundamentals. However, not very practical. After the course, you know what algorithms are about, but you probably won't be able to comfortably implement them yourself. Silver is a great lecturer tho and the videos are nice to watch!
+
+CS 294-112 at UC Berkeley - Deep Reinforcement Learning - great course, which in contrary to other resources, gives you a good understanding of all of the branches of RL, from MPC to model-free RL. Plenty of nice real-life examples and case studies of the algorithms and methods discussed. Definitely worth to watch, also I found it annoying that some of the crucial proofs were omitted. However, width-wise, it's amazing. It was nice to learn more about things as robotic RL etc., which you sometimes forget about due to all the noise on model-free RL usually.
+
+Advanced Deep Learning and Reinforcement Learning - UCL and DeepMind + slides - good one, but I would put it at the bottom of my priority list If I have gone through the resources I have mentioned above firstly.
+
+Learning Reinforcement Learning by WildML - highly practical, sometimes I find the explanations slightly confusing, but if you start doing it already with some coding/RL experience, it's a nice one to improve your RL coding skills.
+
+https://github.com/dennybritz/reinforcement-learning - useful repo, used it for checking the exercises from Sutton & Barto. I find the code not really clean and easy to read sometimes.
+
+https://github.com/seungeunrho/minimalRL - for somebody with RL experience, I really liked the repo. Would not recommend it to a newbie tho. It's short, clean code, but no comments and might be tough if you are not fluent with pytorch.
 
 
 
+
+
+
+
+
+
+http://www.depthfirstlearning.com/2018/AlphaGoZero
+
+https://neuronline.sfn.org/scientific-research/machine-learning-in-neuroscience-fundamentals-and-possibilities
+
+https://wcarvalho.github.io/ML-Brain-Resources/
+
+https://www.simonsfoundation.org/collaborations/global-brain/online-resources-for-systems-and-computational-neuroscience/
+
+
+    
 
 
 
