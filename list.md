@@ -8,6 +8,7 @@ https://github.com/jonatasbaldin/awesome-awesome-awesome
 * [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
 * [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch)
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
+    https://github.com/jbhuang0604/awesome-computer-vision
     https://github.com/ChristosChristofidis/awesome-deep-learning
     https://github.com/sdukshis/awesome-ml
     https://github.com/EthicalML/awesome-production-machine-learning
@@ -362,10 +363,7 @@ Selected Papers:
 - [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/RLbook2018.pdf)
 - [David Silver's Reinforcement Learning Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
-
-
-
-
+https://research.google/teams/brain/pair/
 
 
 
