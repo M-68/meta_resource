@@ -5,6 +5,7 @@
  - https://github.com/thunlp/GNNPapers
  - https://github.com/huggingface/awesome-papers
  - https://github.com/tomohideshibata/BERT-related-papers
+ - https://github.com/explosion/spacy-transformers
  - https://github.com/PengboLiu/NLP-Papers
  - https://github.com/jessevig/bertviz
  - https://github.com/Separius/awesome-sentence-embedding
