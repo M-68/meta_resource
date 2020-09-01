@@ -14,7 +14,7 @@
 
 ## Semantic Search
 - https://github.com/NTMC-Community/awesome-neural-models-for-semantic-match
-- SentenceBERT
+- https://github.com/UKPLab/sentence-transformers
 - LaBSE
 - LASER (Language Agnostic)
 - fasText
