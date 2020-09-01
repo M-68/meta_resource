@@ -33,6 +33,7 @@
 ## Explainablitity
 - https://github.com/marcotcr/lime
 - https://github.com/PAIR-code/lit
+- https://github.com/RasaHQ/whatlies
 
   
 ## Researchers
