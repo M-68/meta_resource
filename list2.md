@@ -9,6 +9,7 @@
  - https://github.com/jessevig/bertviz
  - https://github.com/Separius/awesome-sentence-embedding
  - https://github.com/microsoft/nlp-recipes
+ - https://github.com/makcedward/nlp
 
 ## Semantic Search
 - https://github.com/NTMC-Community/awesome-neural-models-for-semantic-match
@@ -49,6 +50,7 @@
 - https://github.com/Rudrabha/Lip2Wav
 - https://github.com/Rudrabha/LipGAN
 - https://github.com/Rudrabha/Wav2Lip
+
 
 
 ## Awesome
