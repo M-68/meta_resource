@@ -77,3 +77,6 @@
 ## ML Production / Full Stack
 - https://github.com/alirezadir/Production-Level-Deep-Learning
 - https://github.com/chiphuyen/machine-learning-systems-design
+
+## Privacy
+- https://github.com/brighter-ai/awesome-privacy-papers
