@@ -55,6 +55,7 @@
 
 ## Quantum Machine Learning 
 - https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
+- https://github.com/vishwesh5/Quantum-Machine-Learning
 
 
 ## Awesome
