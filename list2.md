@@ -62,7 +62,6 @@
 
 ## Awesome
 - https://github.com/sql-machine-learning/sqlflow
-- FastApi
 - https://github.com/huggingface/transformers
 - https://github.com/lvwerra/trl
 - https://github.com/noahtren/awesome-research
@@ -83,6 +82,7 @@
 - https://github.com/alirezadir/Production-Level-Deep-Learning
 - https://github.com/chiphuyen/machine-learning-systems-design
 - https://github.com/cortexlabs/cortex
+- https://github.com/tiangolo/fastapi
 
 ## Privacy
 - https://github.com/brighter-ai/awesome-privacy-papers
