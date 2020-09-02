@@ -53,6 +53,7 @@
 - https://github.com/Rudrabha/LipGAN
 - https://github.com/Rudrabha/Wav2Lip
 
+## Quantum Machine Learning 
 
 
 ## Awesome
