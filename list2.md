@@ -62,7 +62,6 @@
 
 ## Awesome
 - https://github.com/sql-machine-learning/sqlflow
-- Cortex
 - FastApi
 - https://github.com/huggingface/transformers
 - https://github.com/lvwerra/trl
@@ -75,6 +74,7 @@
 - https://github.com/anderskm/gputil 
 - https://github.com/visual-ml-notes/visual-machine-learning-notes
 - https://github.com/N-4-V/VariousNumbers
+- https://github.com/Whadup/arxiv_library
 ## Zero Shot Learning
 - https://github.com/sbharadwajj/awesome-zero-shot-learning
 
@@ -82,6 +82,7 @@
 ## ML Production / Full Stack
 - https://github.com/alirezadir/Production-Level-Deep-Learning
 - https://github.com/chiphuyen/machine-learning-systems-design
+- https://github.com/cortexlabs/cortex
 
 ## Privacy
 - https://github.com/brighter-ai/awesome-privacy-papers
