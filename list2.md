@@ -54,6 +54,7 @@
 - https://github.com/Rudrabha/Wav2Lip
 
 ## Quantum Machine Learning 
+- https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
 
 
 ## Awesome
