@@ -9,6 +9,7 @@
  - https://github.com/PengboLiu/NLP-Papers
  - https://github.com/jessevig/bertviz
  - https://github.com/Separius/awesome-sentence-embedding
+ - https://github.com/mhagiwara/100-nlp-papers
  - https://github.com/microsoft/nlp-recipes
  - https://github.com/makcedward/nlp
 
