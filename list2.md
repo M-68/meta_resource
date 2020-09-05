@@ -36,6 +36,7 @@
 - https://github.com/marcotcr/lime
 - https://github.com/PAIR-code/lit
 - https://github.com/RasaHQ/whatlies
+- https://github.com/yzhao062/anomaly-detection-resources
 
   
 ## Researchers
@@ -75,6 +76,8 @@
 - https://github.com/visual-ml-notes/visual-machine-learning-notes
 - https://github.com/N-4-V/VariousNumbers
 - https://github.com/Whadup/arxiv_library
+- https://github.com/js05212/BayesianDeepLearning-Survey
+
 ## Zero Shot Learning
 - https://github.com/sbharadwajj/awesome-zero-shot-learning
 
