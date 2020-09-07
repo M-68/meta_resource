@@ -89,6 +89,7 @@
 - https://github.com/tiangolo/fastapi
 - https://github.com/mlflow/mlflow
 - https://github.com/sql-machine-learning/sqlflow
+- https://github.com/Netflix/metaflow
 
 ## Privacy
 - https://github.com/brighter-ai/awesome-privacy-papers
