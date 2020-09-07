@@ -1,3 +1,5 @@
+ ## Uncategorized
+ - https://github.com/skrish13/ml-contests-conf
  ## NLP 
 
  - https://github.com/mhagiwara/100-nlp-papers
