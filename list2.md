@@ -82,11 +82,13 @@
 - https://github.com/sbharadwajj/awesome-zero-shot-learning
 
 
-## ML Production / Full Stack
+## ML Production / Ops
 - https://github.com/alirezadir/Production-Level-Deep-Learning
 - https://github.com/chiphuyen/machine-learning-systems-design
 - https://github.com/cortexlabs/cortex
 - https://github.com/tiangolo/fastapi
+- https://github.com/mlflow/mlflow
+- https://github.com/sql-machine-learning/sqlflow
 
 ## Privacy
 - https://github.com/brighter-ai/awesome-privacy-papers
