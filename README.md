@@ -3,17 +3,15 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+Create folder with your name --> add links and resources any other information potentially useful to any developer/designer/enfineer/researcher.   
 
-CREATE FOLDER WITH YOUR NAME --> ADD LINKS AND RESOURCES ANY OTHER INFORMATION POTENTIALLY USEFUL TO ANY DEVELOPER/DESIGNER/ENFINEER/RESEARCHER.   
+Please cite all of the sources/developers-- the links/resources are from **clearly**
 
+**Do not edit others content_files -- crete new files for contributing**
 
-PLEASE CITE ALL OF THE SOURCES/DEVELOPERS-- THE LINKS/RESOURCES ARE FROM **CLEARLY**
+When in doubt open a issue.
 
-**DO NOT EDIT OTHERS CONTENT_FILES -- CRETE NEW FILES FOR CONTRIBUTING**
-
-WHEN IN DOUBT OPEN A ISSUE.
-
-OR ASK HERE: https://chat.whatsapp.com/Ff2Qbyc7PmcHaiOYLwxywV COME SAY HI!
+Or ask here: https://chat.Whatsapp.Com/ff2qbyc7pmchaioylwxywv come say Hi!
 
 ## Contributors ✨
 
