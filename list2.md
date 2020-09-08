@@ -1,4 +1,4 @@
- ## Uncategorized
+ ## Upcoming Conferences/Events/Submission Deadlines
  - https://github.com/skrish13/ml-contests-conf
  ## NLP 
 
