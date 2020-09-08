@@ -13,7 +13,7 @@ Please cite all of the sources/developers-- the links/resources are from **clear
 
 When in doubt open a issue.
 
-Or ask here: [Whatsapp Link](https://chat.Whatsapp.Com/ff2qbyc7pmchaioylwxywv) come say Hi!
+Or ask [here](https://chat.Whatsapp.Com/ff2qbyc7pmchaioylwxywv) come say Hi!
 
 ## Contributors ✨
 
