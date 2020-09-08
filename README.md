@@ -3,7 +3,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Create folder with your name --> add links and resources any other information potentially useful to any developer/designer/engineer/researcher.   
+## Getting Started
+
+Create folder with **list_your_name --> add links and resources** any other information potentially useful to any developer/designer/engineer/researcher.   
 
 Please cite all of the sources/developers-- the links/resources are from **clearly**
 
