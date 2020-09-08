@@ -7,7 +7,7 @@ Create folder with your name --> add links and resources any other information p
 
 Please cite all of the sources/developers-- the links/resources are from **clearly**
 
-**Do not edit others content_files -- crete new files for contributing**
+**Do not edit others content_files -- create new files for contributing**
 
 When in doubt open a issue.
 
