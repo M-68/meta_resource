@@ -80,6 +80,7 @@
 - https://github.com/Whadup/arxiv_library
 - https://github.com/js05212/BayesianDeepLearning-Survey
 - https://github.com/deepklarity/jupyter-text2code
+- https://github.com/yassouali/awesome-semi-supervised-learning
 
 ## Zero Shot Learning
 - https://github.com/sbharadwajj/awesome-zero-shot-learning
