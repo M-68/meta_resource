@@ -47,6 +47,7 @@
 ## Computer Vision
 - https://github.com/microsoft/computervision-recipes
 - https://github.com/jbhuang0604/awesome-computer-vision
+- https://github.com/zck119/3dgan-release
 
 ## Recommenders 
 - https://github.com/microsoft/recommenders
