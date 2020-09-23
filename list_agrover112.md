@@ -95,6 +95,6 @@
 - https://github.com/mlflow/mlflow
 - https://github.com/sql-machine-learning/sqlflow
 - https://github.com/Netflix/metaflow
-
+- https://github.com/bentoml/BentoML
 ## Privacy
 - https://github.com/brighter-ai/awesome-privacy-papers
