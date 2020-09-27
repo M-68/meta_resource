@@ -49,6 +49,7 @@
 - https://github.com/jbhuang0604/awesome-computer-vision
 - https://github.com/zck119/3dgan-release
 - https://github.com/Yijunmaverick/UniversalStyleTransfer?utm_source=catalyzex.com
+- https://github.com/ycjing/Neural-Style-Transfer-Papers?utm_source=catalyzex.com
 
 ## Recommenders 
 - https://github.com/microsoft/recommenders
