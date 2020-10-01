@@ -1081,124 +1081,10 @@ https://www.wunderground.com/history/index.html
 https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 https://zenodo.org/collection/datasets
 https://zenodo.org/record/3723940
-
-
 https://sgfin.github.io/learning-resources/
-
 https://www.tensorflow.org/resources/learn-ml
-
 https://deepmind.com/learning-resources
-
 https://developer.nvidia.com/deep-learning
-
-TUTORIALS / COURSES
-CS231n: Convolutional Neural Networks for Visual Recognition by Fei-Fei Li, Andrej Karpathy and Justin Johnson, 2016. [Stanford]
-Deep Learning for Computer Vision by Rob Fergus, NIPS 2013 tutorial.
-Deep Learning for Computer Vision by Prof. C. V. Jawahar, NCVPRIPG 2015 tutorial.
-Neural Networks for Machine Learning by Geoffrey Hinton, 2012. [Coursera]
-Lecture notes from Geoffrey Hinton's classes on neural networks 2013.
-Deep Learning Course by Nando de Freitas, 2015. [Oxford]
-Deep Learning Course [CILVR lab, NYU]
-Deep Learning by Vincent Vanhoucke and Arpan Chakraborty, 2016. [Udacity/Google]
-CS224d: Deep Learning for Natural Language Processing by Richard Socher. [Stanford]
-A Deep Learning Tutorial: From Perceptrons to Deep Networks by Ivan Vasilev.
-VIDEOS/TALKS
-The Next Generation of Neural Networks by Geoffrey Hinton at GoogleTechTalks 2007.
-Deep Learning, Self-Taught Learning and Unsupervised Feature Learning by Andrew Ng, Graduate Summer School: Deep Learning, Feature Learning 2013.
-Recent Developments in Deep Learning by Geoffrey Hinton, UBC Department of Computer Science's Distinguished Lecture Series, 2013.
-The Unreasonable Effectiveness of Deep Learning by Yann LeCun Johns Hopkins University, Center for Language and Speech Processing, 2014.
-Deep Learning of Representations by Yoshua Bengio at GoogleTechTalks 2012.
-A Beginners Guide to Deep Neural Networks by Natalie Hammel and Lorraine Yurshansky, Google Research Blog 2015.
-Deep Learning RNNaissance with Dr. Juergen Schmidhuber at NYC ML Meetup 2014
-Deep Learning: Theoretical Motivations by Yoshua Bengio, DLSS 2015.
-Deep Learning for Vision: Tricks of the trade Facebook, Bay Area Vision Meeting 2013.
-SELECTED PAPERS
-FUNDAMENTALS
-Efficient BackProp, LeCun YA, Bottou L, Orr GB, Müller KR. Efficient backprop. InNeural networks: Tricks of the trade 2012.
-Learning representations by back-propagating errors, (The original article on back-propagation), DE Rumelhart, GE Hinton, RJ Williams - Cognitive modeling, 1988.
-Minimizing description length in an unsupervised neural network, Hinton GE, Zemel RS. Minimizing description length in an unsupervised neural network. Preprint. 1997.
-Dimensionality Reduction by Learning an Invariant Mapping, Hadsell R, Chopra S, LeCun Y, CVPR 2006.
-PRACTICAL TRICKS
-Learning Deep Architectures for AI, Y Bengio - Foundations and trends in Machine Learning, 2009.
-Understanding the Difficulty of Training Deep Feedforward Neural Networks, Glorot X, Bengio Y, In International conference on artificial intelligence and statistics 2010.
-Practical Recommendations for Gradient-Based Training of Deep Architectures, Y Bengio - Neural Networks: Tricks of the Trade, 2012 - Springer.
-Improving Neural Networks by Preventing Co-adaptation of Feature Detectors, Hinton GE, Srivastava N, Krizhevsky A, Sutskever I, Salakhutdinov RR, arXiv preprint arXiv:1207.0580, 2012.
-On the Importance of Initialization and Momentum in Deep Learning, Sutskever I, Martens J, Dahl G, Hinton G, ICML 2013.
-AUTOENCODERS
-Reducing the dimensionality of data with neural networks, GE Hinton, RR Salakhutdinov - Science, 2006.
-Disentangling factors of variation for facial expression recognition, S Rifai, Y Bengio, A Courville, P Vincent, M Mirza, ECCV 2012.
-Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion, Vincent P, Larochelle H, Lajoie I, Bengio Y, Manzagol PA, JMLR 2010.
-CONVOLUTIONAL NEURAL NETWORKS
-Gradient-Based Learning Applied to Document Recognition, LeCun Y, Bottou L, Bengio Y, Haffner P, Proceedings of the IEEE. 1998.
-Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis, Simard PY, Steinkraus D, Platt JC, ICDAR 2003.
-Network in Network, M Lin, Q Chen, S Yan - arXiv preprint arXiv:1312.4400, 2013.
-RECURRENT NEURAL NETWORKS
-Training Recurrent Neural Networks, Ilya Sutskever, PhD Thesis, 2012.
-Supervised Sequence Labelling with Recurrent Neural Networks, Textbook, Studies in Computational Intelligence, Springer, 2012.
-Training and Analyzing Deep Recurrent Neural Networks, M Hermans, B Schrauwen, NIPS 2013.
-Generating Sequences With Recurrent Neural Networks, A Graves - arXiv preprint arXiv:1308.0850, 2013.
-IMAGE CLASSIFICATION
-ImageNet Classification with Deep Convolutional Neural Networks, Alex Krizhevsky, Ilya Sutskever, Geoffrey E Hinton, NIPS 2012.
-Very Deep Convolutional Networks for Large-Scale Image Recognition, K Simonyan, A Zisserman - arXiv preprint arXiv:1409.1556, 2014.
-Going Deeper with Convolutions, Szegedy, Christian and Liu, Wei and Jia, Yangqing and Sermanet, Pierre and Reed, Scott and Anguelov, Dragomir and Erhan, Dumitru and Vanhoucke, Vincent and Rabinovich, Andrew, CVPR 2015.
-Deep Residual Learning for Image Recognition, K He, X Zhang, S Ren, J Sun - arXiv preprint arXiv:1512.03385, 2015.
-Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian, ICCV 2015.
-VISUALIZATION AND INVERSION
-Visualizing and Understanding Convolutional Networks, MD Zeiler, R Fergus, ECCV 2014.
-Understanding Deep Image Representations by Inverting Them, A Mahendran, A Vedaldi, CVPR 2015.
-Visualizing and Understanding Recurrent Networks, A Karpathy, J Johnson, FF Li - arXiv preprint arXiv:1506.02078, 2015.
-OBJECT DETECTION
-Fast R-CNN, R Girshick, ICCV 2015.
-Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, S Ren, K He, R Girshick, J Sun, NIPS 2015.
-Region-based Convolutional Networks for Accurate Object Detection and Segmentation, R Girshick, J Donahue, T Darrell, J Malik, PAMI 2016.
-SEMANTIC SEGMENTATION
-Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs, Chen LC, Papandreou G, Kokkinos I, Murphy K, Yuille AL, arXiv preprint arXiv:1412.7062. 2014.
-Fully Convolutional Networks for Semantic Segmentation, J Long, E Shelhamer, T Darrell, CVPR 2015.
-Semantic Image Segmentation via Deep Parsing Network, Z Liu, X Li, P Luo, CC Loy, X Tang, ICCV 2015.
-Conditional Random Fields as Recurrent Neural Networks, Zheng S, Jayasumana S, Romera-Paredes B, Vineet V, Su Z, Du D, Huang C, Torr PH, ICCV 2015.
-VISUAL CAPTIONING AND QUESTION-ANSWERING
-Long-term Recurrent Convolutional Networks for Visual Recognition and Description, Donahue J, Anne Hendricks L, Guadarrama S, Rohrbach M, Venugopalan S, Saenko K, Darrell T, CVPR 2015.
-Show and Tell: A Neural Image Caption Generator, Vinyals O, Toshev A, Bengio S, Erhan D, CVPR 2015
-Sequence to Sequence – Video to Text, Venugopalan S, Rohrbach M, Donahue J, Mooney R, Darrell T, Saenko K, ICCV 2015.
-VQA : Visual Question Answering, Antol S, Agrawal A, Lu J, Mitchell M, Batra D, Lawrence Zitnick C, Parikh D, ICCV 2105.
-Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering, H Xu, K Saenko - arXiv preprint arXiv:1511.05234, 2015.
-OPTIMIZATION
-Deep learning via Hessian-free optimization, Martens J, ICML 2010.
-On optimization Methods for Deep Learning, Ngiam J, Coates A, Lahiri A, Prochnow B, Le QV, Ng AY, ICML 2011.
-Adam: A Method for Stochastic Optimization, D Kingma, J Ba - arXiv preprint arXiv:1412.6980, 2014.
-On the saddle point problem for non-convex optimization, R Pascanu, YN Dauphin, S Ganguli, Y Bengio - arXiv preprint arXiv:1405.4604, 2014
-Identifying and attacking the saddle point problem in high-dimensional non-convex optimization, Dauphin YN, Pascanu R, Gulcehre C, Cho K, Ganguli S, Bengio Y, NIPS 2014.
-The Loss Surfaces of Multilayer Networks, Choromanska A, Henaff M, Mathieu M, Arous GB, LeCun Y, arXiv preprint arXiv:1412.0233. 2014.
-Gradient-based Hyperparameter Optimization through Reversible Learning, D Maclaurin, D Duvenaud, RP Adams - arXiv preprint arXiv:1502.03492, 2015
-REGULARIZATION
-Rectified Linear Units Improve Restricted Boltzmann Machines, Nair V, Hinton GE, ICML 2010.
-Maxout Networks, Goodfellow IJ, Warde-Farley D, Mirza M, Courville A, Bengio Y, arXiv preprint arXiv:1302.4389. 2013.
-Dropout: A Simple Way to Prevent Neural Networks from Overfitting, Srivastava N, Hinton G, Krizhevsky A, Sutskever I, Salakhutdinov R, JMLR 2014.
-Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, S Ioffe, C Szegedy - arXiv preprint arXiv:1502.03167, 2015.
-REINFORCEMENT LEARNING
-Human-level control through deep reinforcement learning, Mnih V, Kavukcuoglu K, Silver D, Rusu AA, Veness J, Bellemare MG, Graves A, Riedmiller M, Fidjeland AK, Ostrovski G, Petersen S, Nature 2015.
-Playing Atari with Deep Reinforcement Learning, Mnih V, Kavukcuoglu K, Silver D, Graves A, Antonoglou I, Wierstra D, Riedmiller M, arXiv preprint arXiv:1312.5602. 2013.
-RECENT ADVANCES, ARCHITECTURES AND OTHER APPLICATIONS
-DeepFace: Closing the Gap to Human-Level Performance in Face Verification, Taigman Y, Yang M, Ranzato MA, Wolf L, CVPR 2014.
-Large Scale Distributed Deep Networks, Dean J, Corrado G, Monga R, Chen K, Devin M, Mao M, Senior A, Tucker P, Yang K, Le QV, Ng AY, NIPS 2012.
-Predicting Parameters in Deep Learning, Denil M, Shakibi B, Dinh L, de Freitas N, NIPS 2013
-Distilling the Knowledge in a Neural Network, G Hinton, O Vinyals, J Dean, arXiv preprint arXiv:1503.02531, 2015.
-Spatial Transformer Networks, Jaderberg M, Simonyan K, Zisserman A, NIPS 2015.
-Generative Adversarial Networks, Goodfellow I, Pouget-Abadie J, Mirza M, Xu B, Warde-Farley D, Ozair S, Courville A, Bengio Y, NIPS 2014.
-Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, A Radford, L Metz, S Chintala, arXiv preprint arXiv:1511.06434, 2015.
-Semi-Supervised Learning with Ladder Networks, A Rasmus, M Berglund, M Honkala, H Valpola, T Raiko, NIPS 2015.
-Highway Networks, Srivastava RK, Greff K, Schmidhuber J, arXiv preprint arXiv:1505.00387, 2015.
-Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, He K, Zhang X, Ren S, Sun J, PAMI 2015.
-OTHER RESOURCES
-Deep Learning Summer School, Montreal 2015.
-LISA reading List
-Deep learning resources
-Awesome Deep Vision - a curated list of deep learning resources for computer vision.
-Awesome Deep Learning
-BOOKS
-Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
-Deep Learning survey in Nature by Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
-
 https://cvit.iiit.ac.in/deeplearningcourse/resources.html
 https://cs.stanford.edu/people/karpathy/convnetjs/intro.html
 http://faculty.neu.edu.cn/yury/AAI/Textbook/DeepLearningBook.pdf
@@ -1218,10 +1104,6 @@ https://pytorch.org/resources/
 https://doc.arcgis.com/en/imagery/workflows/resources/using-deep-learning-for-feature-extraction.htm
 https://evilmartians.com/chronicles/learning-how-to-learn-deep-learning
 https://sgfin.github.io/learning-resources/
-
-
-
-
 https://www.cs.ubc.ca/~van/cpsc533/rl.html
 http://web.stanford.edu/class/cs234/index.html
 http://karpathy.github.io/2016/05/31/rl/
@@ -1238,47 +1120,19 @@ http://www.wildml.com/2016/10/learning-reinforcement-learning/
 https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 https://github.com/dennybritz/reinforcement-learning
 https://github.com/seungeunrho/minimalRL
-OpenAI	https://github.com/openai/baselines	6161	TF
-TensorForce	https://github.com/reinforceio/tensorforce	2064	TF
-RLLAB	https://github.com/rll/rllab	1926	Th
-TRFL	https://github.com/deepmind/trfl	1922	TF
-Udacity	https://github.com/udacity/deep-reinforcement-learning	1671	PT
-RL-Adventure	https://github.com/higgsfield/RL-Adventure-2	1477	PT
-ikostrikov	https://github.com/ikostrikov/pytorch-a2c-ppo-acktr	1022	PT
-ShangtongZhang	https://github.com/ShangtongZhang/DeepRL	962	PT
-Coach	https://github.com/NervanaSystems/coach	937	TF
-Stable Baselines	https://github.com/hill-a/stable-baselines	419	TF
-rlkit	https://github.com/vitchyr/rlkit	321	PT
-Vel	https://github.com/MillionIntegrals/vel	185	PT
-RLgraph	https://github.com/rlgraph/rlgraph
-
+https://github.com/openai/baselines	
+https://github.com/reinforceio/tensorforce
+https://github.com/rll/rllab	
+https://github.com/deepmind/trfl	
+https://github.com/udacity/deep-reinforcement-learning	
+https://github.com/higgsfield/RL-Adventure-2	
+https://github.com/ikostrikov/pytorch-a2c-ppo-acktr	
+https://github.com/ShangtongZhang/DeepRL	
+https://github.com/NervanaSystems/coach	
+https://github.com/hill-a/stable-baselines	
+https://github.com/vitchyr/rlkit	
+https://github.com/MillionIntegrals/vel	
 https://github.com/rlgraph/rlgraph
-
-title	commits per week (for last year)	watchers	open issues	created	updated	contributors (up to 100)	forks	url
-RLgraph	59.385	35	13	2018-05-04	2018-11-30	3	2	https://github.com/rlgraph/rlgraph
-araffin/robotics-rl-srl	16.154	199	3	2018-01-18	2018-11-30	5	13	https://github.com/araffin/robotics-rl-srl
-Stable Baselines	11.538	427	24	2018-07-02	2018-11-30	49	46	https://github.com/hill-a/stable-baselines
-lcswillems/torch-rl	7.346	71	1	2018-04-11	2018-11-28	3	15	https://github.com/lcswillems/torch-rl
-TensorForce	6.788	2073	36	2017-03-19	2018-11-30	46	378	https://github.com/reinforceio/tensorforce
-Vel	6.615	186	8	2018-05-09	2018-11-30	4	17	https://github.com/MillionIntegrals/vel
-facebookresearch/Horizon	6.596	1369	5	2017-07-27	2018-11-30	15	148	https://github.com/facebookresearch/Horizon
-kengz/SLM-Lab	6.288	407	1	2017-10-02	2018-11-26	5	60	https://github.com/kengz/SLM-Lab
-navneet-nmk/pytorch-rl	5.692	161	0	2018-02-28	2018-11-30	1	18	https://github.com/navneet-nmk/pytorch-rl
-Coach	5.654	958	12	2017-10-01	2018-12-01	21	177	https://github.com/NervanaSystems/coach
-zuoxingdong/lagom	5.192	203	8	2017-12-21	2018-11-30	4	15	https://github.com/zuoxingdong/lagom
-ShangtongZhang	4.5	966	2	2017-04-20	2018-11-30	3	211	https://github.com/ShangtongZhang/DeepRL
-unixpickle/anyrl-py	4.135	94	9	2017-09-18	2018-11-29	4	20	https://github.com/unixpickle/anyrl-py
-inoryy/reaver-pysc2	3.769	274	3	2017-10-21	2018-11-30	1	45	https://github.com/inoryy/reaver-pysc2
-ikostrikov	2.462	1030	20	2017-08-22	2018-11-30	17	216	https://github.com/ikostrikov/pytorch-a2c-ppo-acktr
-rlkit	0.769	325	0	2018-01-25	2018-12-01	2	65	https://github.com/vitchyr/rlkit
-MorvanZhou/Reinforcement-learning-with-tensorflow	0.692	2678	7	2017-05-06	2018-11-30	4	1729	https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
-TRFL	0.558	1934	0	2018-08-08	2018-11-30	6	215	https://github.com/deepmind/trfl
-deepmind/scalable_agent	0.327	535	4	2018-06-06	2018-11-29	2	68	https://github.com/deepmind/scalable_agent
-RL-Adventure	0.212	1481	4	2018-05-26	2018-11-30	3	157	https://github.com/higgsfield/RL-Adventure-2
-Udacity	0.173	1683	3	2018-07-06	2018-11-30	1	519	https://github.com/udacity/deep-reinforcement-learning
-RLLAB
-
-
 https://github.com/openai/baselines	https://github.com/openai/baselines/tree/master/baselines
 https://github.com/reinforceio/tensorforce	https://github.com/reinforceio/tensorforce/tree/master/tensorforce/models
 https://github.com/rll/rllab	https://github.com/rll/rllab/tree/master/rllab/algos
@@ -1295,10 +1149,7 @@ https://github.com/vitchyr/rlkit	https://github.com/vitchyr/rlkit/tree/master/rl
 https://github.com/MillionIntegrals/vel	https://github.com/MillionIntegrals/vel/tree/master/vel/rl/algo
 https://github.com/rlgraph/rlgraph	https://github.com/rlgraph/rlgraph/tree/master/rlgraph/agents
 https://github.com/tensorflow/agents	https://github.com/tensorflow/agents/tree/master/tf_agents/agents
-	
-	
-	https://github.com/ray-project/ray/tree/master/python/ray/rllib/agents
-
+https://github.com/ray-project/ray/tree/master/python/ray/rllib/agents
 https://github.com/ikostrikov/pytorch-a2c-ppo-acktr
 https://github.com/navneet-nmk/pytorch-rl
 https://github.com/dennybritz/reinforcement-learning
@@ -1314,71 +1165,30 @@ https://github.com/cpnota/autonomous-learning-library
 https://github.com/opium-sh/prl
 https://github.com/keiohta/tf2rl
 https://github.com/Shmuma/ptan
-
 https://winderresearch.com/a-comparison-of-reinforcement-learning-frameworks-dopamine-rllib-keras-rl-coach-trfl-tensorforce-coach-and-more/		
 https://docs.google.com/spreadsheets/d/1EeFPd-XIQ3mq_9snTlAZSsFY7Hbnmd7P5bbT8LPuMn0/edit#gid=0		
 https://github.com/hengyuan-hu/rainbow		
-
 https://github.com/kengz/SLM-Lab
-
 https://github.com/inoryy/reaver-pysc2
-
 https://github.com/facebookresearch/Horizon
-
 https://github.com/unixpickle/anyrl-py
-
 https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
-
 https://github.com/tensorlayer/tensorlayer
-
 https://github.com/deepmind/scalable_agent
-
 https://github.com/araffin/robotics-rl-srl
-
 https://github.com/zuoxingdong/lagom
-
 https://github.com/tensorpack/tensorpack
-
 https://github.com/navneet-nmk/pytorch-rl
-
 https://github.com/lcswillems/torch-rl
-
 https://github.com/reinforceio/tensorforce
-
 https://github.com/NervanaSystems/coach
-
 https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
-
-http://www.wildml.com/2016/10/learning-reinforcement-learning/
-
-Spinning up deep learning - probably the best one if you wish to really dive into the RL (and potentially thinking of becoming an RL researcher). Well explained and very importantly - well structured. For me, it was extremely helpful for 'putting all the pieces together' (where pieces were medium articles, tutorials etc. read over months). I would say this should be your nr 1, although it is not highly practical.
-
-David Silver course - probably the best explanatory course, which gives you a holistic view of the RL fundamentals. However, not very practical. After the course, you know what algorithms are about, but you probably won't be able to comfortably implement them yourself. Silver is a great lecturer tho and the videos are nice to watch!
-
-CS 294-112 at UC Berkeley - Deep Reinforcement Learning - great course, which in contrary to other resources, gives you a good understanding of all of the branches of RL, from MPC to model-free RL. Plenty of nice real-life examples and case studies of the algorithms and methods discussed. Definitely worth to watch, also I found it annoying that some of the crucial proofs were omitted. However, width-wise, it's amazing. It was nice to learn more about things as robotic RL etc., which you sometimes forget about due to all the noise on model-free RL usually.
-
-Advanced Deep Learning and Reinforcement Learning - UCL and DeepMind + slides - good one, but I would put it at the bottom of my priority list If I have gone through the resources I have mentioned above firstly.
-
-Learning Reinforcement Learning by WildML - highly practical, sometimes I find the explanations slightly confusing, but if you start doing it already with some coding/RL experience, it's a nice one to improve your RL coding skills.
-
-https://github.com/dennybritz/reinforcement-learning - useful repo, used it for checking the exercises from Sutton & Barto. I find the code not really clean and easy to read sometimes.
-
-https://github.com/seungeunrho/minimalRL - for somebody with RL experience, I really liked the repo. Would not recommend it to a newbie tho. It's short, clean code, but no comments and might be tough if you are not fluent with pytorch.
-
-
-
-
-
-
-
-
-
+http://www.wildml.com/2016/10/learning-reinforcement-learning
+https://github.com/dennybritz/reinforcement-learning 
+https://github.com/seungeunrho/minimalRL 
 http://www.depthfirstlearning.com/2018/AlphaGoZero
-
 https://neuronline.sfn.org/scientific-research/machine-learning-in-neuroscience-fundamentals-and-possibilities
-
 https://wcarvalho.github.io/ML-Brain-Resources/
-
 https://www.simonsfoundation.org/collaborations/global-brain/online-resources-for-systems-and-computational-neuroscience/
 
 
@@ -1438,7 +1248,7 @@ https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmar
 https://covid19challenge.mit.edu/
 https://groups.io/g/MedicalEthics/topics
 https://getusppe.org/give/
-https://cdn2.hubspot.net/hubfs/5005023/Documents/COVID Response/EN_COVID Response.pdf
+https://cdn2.hubspot.net/hubfs/5005023/Documents/COVID 
 http://lavazza.captivsales.com/
 https://www.futurelearn.com/courses/introduction-to-bacterial-genomics/5/steps/657536
 https://science.nasa.gov/citizenscience
@@ -1568,7 +1378,6 @@ https://stackoverflow.com/questions/12200580/numpy-function-for-simultaneous-max
 https://www.techstars.com/apply/
 https://morioh.com/p/deabd3cf8eb8?sfns=mo
 http://openaccess.thecvf.com/ICCV2019.py
-Intel® Edge AI Scholarship
 
 
 
@@ -1584,7 +1393,6 @@ https://arxiv.org/pdf/quant-ph/9806088.pdf
 https://pages.consensys.net/blockchain-developer-job-kit?utm_source=facebook&utm_medium=cpc&utm_campaign=Eth+Dev+Portal&hsa_net=facebook&hsa_ver=3&hsa_src=fb&hsa_grp=23844344587550508&hsa_cam=23844344582920508&hsa_acc=1922073338034382&hsa_ad=23844344602980508&sfns=mo
 https://www.facebook.com/27228877081/posts/10157857813647082?d=n&sfns=mo
 https://www.technologyreview.com/s/613508/ai-fairer-than-judge-criminal-risk-assessment-algorithm/
-Incentives for Alexa Skill Builders - Amazon Echo Developers
 https://www.google.co.in/search?client=safari&hl=en-in&sxsrf=ACYBGNQ3nD6TU9BFmXJFtJHFDyjjL8yCTQ:1575872202154&ei=yubtXczyCL-b4-EPmIyXgAQ&q=q#+microsoft&oq=q#+micro&gs_l=mobile-gws-wiz-serp.1.1.0l2j0i22i30l5j0i22i10i30.5147.66097731.0.00.574.1639.0j4j2j5-101.46i39i275j0i7i30j0i20i263j0i10.a7WCvYGscJA
 https://www.linkedin.com/in/austinkodra
 https://www.quantamagazine.org/abstractions/
@@ -1603,7 +1411,7 @@ http://rail.eecs.berkeley.edu/deeprlcourse/?fbclid=IwAR3sqqeNMtClYv2wsUqGEiiJrXR
 https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/goals.html
 https://medium.com/@banerjee.siddhartha.sb/aws-deepracer-looking-under-the-hood-for-design-of-the-reward-function-and-adjusting-e9dd3805ebbf
 https://codelikeamother.uk/using-jupyter-notebook-for-analysing-deepracer-s-logs
-https://github.com/aws-samples/aws-deepracer-workshops/blob/master/log-analysis/DeepRacer Log Analysis.ipynb
+https://github.com/aws-samples/aws-deepracer-workshops/blob/master/log-analysis/DeepRacer
 https://stats.stackexchange.com/questions/221402/understanding-the-role-of-the-discount-factor-in-reinforcement-learning
 https://adventuresinmachinelearning.com/reinforcement-learning-tensorflow/
 https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc
@@ -1614,15 +1422,8 @@ https://www.cs.cmu.edu/~katef/DeepRLFall2018/lecture1_intro.pdf
 https://awsdeepracercourse.slack.com/files/UMXBPS0R5/FQ77S4Q83/reinforcement_leraning.pdf
 https://www.youtube.com/watch?v=ugA0HRq5xXk&list=PL-tWvTpyd1VAvDpxukup6w-SuZQQ7e8K8
 https://forum.khadas.com/t/vim3-crypto-currency-miner-build/4943
-Contact us to get Google at your institution | Google for Education
-
-
-
-
 https://www.bachelorsportal.com/articles/2500/4-reasons-why-a-gap-year-before-your-bachelors-is-not-the-end-of-the-world.html
 https://ai.facebook.com/blog/building-ai-that-can-master-complex-cooperative-games-with-hidden-information/
-
-
 https://bdtechtalks.com/write-for-tech-talks/
 https://arxiv.org/pdf/1911.01547.pdf?sfns=mo
 https://www.mbed.com/en?sfns=mo
@@ -1633,10 +1434,9 @@ https://academy.hubspot.com/courses/artificial-intelligence-and-machine-learning
 https://cognitiveclass.ai/partner-courses/data-science-high-school-vhs
 https://cognitiveclass.ai/partner-courses/data-science-high-school-blyth
 https://ibm.conference.bemyapp.com/ibmz
-Data Science and Cognitive Computing Courses - Cognitive Class
 https://stepik.org/catalog
-https://open.sap.com/courses?category=Data Scientist
-https://open.sap.com/courses?category=Data Scientist
+https://open.sap.com/courses?category=DataScientist
+https://open.sap.com/courses?category=DataScientist
 https://competition.bitgrit.net/login?next=/competition/3
 https://res.mdpi.com/d_attachment/symmetry/symmetry-09-00263/article_deploy/symmetry-09-00263.pdf
 https://paperswithcode.com/task/iris-recognition/codeless
@@ -1652,12 +1452,6 @@ https://securitylab.github.com/
 https://www.garyvaynerchuk.com/how-to-create-64-pieces-of-content-in-a-day?sfns=mo
 https://www.garyvaynerchuk.com/download/how-to-make-64-pieces-of-content-in-a-day-pdf?wpdmdl=10057&refresh=5de95467523e61575572583&sfns=mo
 https://www.youtube.com/watch?v=4FGlIGYcBos
-
-
-
-
-
-
 http://ai.googleblog.com/2019/08/an-interactive-automated-3d.html
 https://blog.willbish.com/
 https://www.microsoft.com/en-us/research/blog/microsoft-research-open-data-project-evolving-our-standards-for-data-access-and-reproducible-research/
@@ -1665,19 +1459,10 @@ https://devfolio.co/blog/online-hackathons-come-to-devfolio/
 https://online.ethindia.co/
 http://news.mit.edu/2019/ai-model-atlas-patient-brain-analysis-1126
 https://eos.org/articles/virtual-super-instrument-enhances-solar-spacecraft
-Internet Of Brain (IoT) - Hackster.io
 https://dsbyprateekg.blogspot.com/2019/12/how-can-i-install-and-use-darknet.html?m=1&sfns=mo
 https://dl.acm.org/citation.cfm?doid=3332165.3347907
-https://modelunitednation.org/join/?utm_campaign=AYIMUN 2020 / NV / Hot Country / Conversion - Copy&utm_source=FACEBOOK ADS&utm_medium=INTEREST UTAMA&utm_content=Single Image / Have you found / Widen your horizon / Daffa PJ - Copy 2
+https://modelunitednation.org/join/?utm_campaign=AYIMUN 
 https://www.freecodecamp.org/news/quincy-larson-net-worth/
-
-
-
-
-
-
-
-
 https://www.nasa.gov/solve/explore_opportunities
 https://eol.jsc.nasa.gov/BeyondThePhotography/ImageDetective/
 https://www.missionjuno.swri.edu/junocam
@@ -1713,19 +1498,14 @@ https://github.com/tensorflow/tfjs-models/tree/master/body-pix
 https://camembert-model.fr/
 https://www.theguardian.com/lifeandstyle/2019/nov/13/the-female-problem-male-bias-in-medical-trials
 https://startupxs.com/fund/seed-grant-opportunity-2020?sfns=mo
-
-
 https://medium.com/omdena/using-ai-to-identify-environmental-conflict-events-from-scrapping-news-to-map-visualisation-c9c74fb57169?source=friends_link&sk=b805ccc2fb9a5c79d62a15f6ebb2a331&sfns=mo
 https://www.thestar.com.my/tech/tech-news/2019/11/29/mobile-games-make-39-year-old-singapores-latest-billionaire?sfns=mo
 https://business.twitter.com/en/resources/agency-playbook.html
 https://azeria-labs.com/about/
-
-
 https://gogreen.se.com/en
 https://gogreen.se.com/?utm_medium=email&utm_source=apsis-anp-3
 http://bair.berkeley.edu/blog/
 http://bair.berkeley.edu/blog/2019/11/26/robo-net/
-DLRM: An advanced, open source deep learning recommendation model
 https://ai.facebook.com/blog/powered-by-ai-oculus-insight/
 https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/
 https://www.intel.com/content/www/us/en/research/neuromorphic-community.html?sfns=mo
@@ -1788,17 +1568,12 @@ https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&fbclid=
 http://www.hultprizeat.com/
 https://software.seek.intel.com/DataCenter_to_Edge_REG?cid=psm&source=Facebook&campid=2019_q4_dcg_in_dcgai3_dcgai4_machine-learning&content=AI-Journey-Begins&fbclid=IwAR2WLUJONyC_Zvw4bQnOjPTuUtnq0ZVJWiCMVW472Z6CLyQj-Wwod-2nb6E
 https://miro.com/features/?utm_source=twitter&utm_medium=cpc&utm_campaign=collaboration_campaign&utm_content=miro_collab_tools
-Machine Learning for Cybersecurity 101 - Towards Data Science
-Beak-man (Miguel Del Castillo)
 https://m.youtube.com/watch?v=SKNZJk9z6mA&feature=youtu.be&sfns=mo
 https://www.scilab.org/news/esa-summer-code-space
 https://www.google.com/search?client=firefox-b-d&q=sutherland
 https://iotdatathons.com/registration?sfns=mo
 https://trailhead.salesforce.com/quests?sfdc_modal=&utm_source=trailhead&utm_medium=facebook&utm_campaign=quests_campaign&dclid=CMmRvNL7oeUCFX0NtwAdysIIYw&sfns=mo
 https://www.sonyged.com/
-
-
-
 https://www.statslife.org.uk/news/4292-rss-and-ifoa-publish-new-ethical-guidance-on-data-science?sfns=mo
 https://hackernoon.com/series-papers-that-indicate-the-future-of-computer-vision-from-iccv-2019-hbfg3tv5?sfns=mo
 https://philanthropyu.org/learning-platform?utm_source=facebook&utm_medium=social&utm_campaign=awareness&utm_term=profile_cta&sfns=mo
@@ -1814,18 +1589,11 @@ https://idealabsinnov8.incubatehub.com/p/traffic-and-road-safety-hackathon?ref=2
 http://www.latinxinai.org/gtc-dc-2019?sfns=mo
 https://static.mlh.io/docs/mlh-member-event-guidelines.pdf?sfns=mo
 https://news.mlh.io/mlh-is-coming-to-apac-09-29-2019?utm_content=bufferd6824&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer&sfns=mo
-Home | University of Colorado Boulder
-CS 285
 https://ai.google/tools/datasets/coached-conversational-preference-elicitation
 https://summit.shaastra.org/?fbclid=IwAR354t3Xc1-rIFfMM75n1_1ImmTmgnS94fwgXXdIZIvD3R8vl2q_Un7pkRo
 https://github.com/topics/search-engine
-semantic searching - Google Search
-manufacturing data on data.world | 40 datasets available
 https://jaipur.manipal.edu/content/dam/manipal/muj/documents/Time-Table-B-Tech-First-Year-2019.pdf
 https://developer.amazon.com/en-in/alexa/alexa-student-influencer
-
-
-
 https://anil.cchmc.org/BioInfoRes.html
 https://bbsrc.ukri.org/research/resources/
 http://www.systems-biology.com/links/
@@ -1868,7 +1636,6 @@ https://www.clarifai.com/
 https://algorithmia.com/
 https://ai.google/tools/
 https://github.com/google/deepdream
-Facets - Visualizations for ML datasets
 https://github.com/openai/roboschool
 https://spinningup.openai.com/en/latest/
 https://openai.com/blog/better-language-models/
@@ -1925,7 +1692,6 @@ https://developers.redhat.com/coderland/reactive/
 https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/
 https://avs.auto/#/
 https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/
-Unity Real-Time Development Platform | 3D, 2D VR & AR Visualizations
 https://www.warpproject.org/trac/wiki/WARPLab/Requirements
 http://warpproject.org/trac/wiki/WARPLab/Downloads
 https://nips.cc/Conferences/2019/Dates
@@ -2036,7 +1802,6 @@ https://www.nasa.gov/stem/forstudents
 https://mars.nasa.gov/mars2020/
 https://www.nasa.gov/artemis-1
 https://www.nasa.gov/moontomars/
-WAC | 2019 Workshop Series at IIT Bombay in Association with WnCC IIT Bomba
 https://www.intel.ai/rl-coach-new-release/#gs.saexdr
 https://dare2compete.com/o/ai-hackathon-2019-artificial-intelligence-hackathon-2019-symbiosis-institute-of-technology-sit-pune-84730
 http://scpd.stanford.edu/free-stuff/free-stuff
