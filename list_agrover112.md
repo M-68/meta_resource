@@ -50,6 +50,7 @@
 - https://github.com/zck119/3dgan-release
 - https://github.com/Yijunmaverick/UniversalStyleTransfer?utm_source=catalyzex.com
 - https://github.com/ycjing/Neural-Style-Transfer-Papers?utm_source=catalyzex.com
+- https://github.com/yinyunie/3D-Shape-Analysis-Paper-List
 
 ## Recommenders 
 - https://github.com/microsoft/recommenders
