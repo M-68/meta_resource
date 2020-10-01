@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "518bb6dd4ae3afc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aef40e53c4ff1253",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "list_rish_do_not_change.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9d4c6be70e482274",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "list_rish_do_not_change.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "149d51879420b17d",
+    "type": "split",
+    "children": [
+      {
+        "id": "46eea218cf2770c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a01ab9d265219dbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f7f120dc8f1830b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "baf68ae1a89474c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "88a77415e1b5a814",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6830b8402ce0b4d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "list_rish_do_not_change.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "list_rish_do_not_change.md",
+    "list_vikram.md",
+    "Untitled_links.md.md",
+    "Untitled.md"
+  ]
+}
