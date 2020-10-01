@@ -1,38 +1,44 @@
 
+
+## Awesome list of Awesome lists
 https://github.com/sindresorhus/awesome
 https://github.com/jonatasbaldin/awesome-awesome-awesome
-* [jonatasbaldin/awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome)
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [orsinium/generated-awesomeness](https://github.com/orsinium/generated-awesomeness)
-* [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
-* [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch)
-* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
-    https://github.com/desireevl/awesome-quantum-computing
+[jonatasbaldin/awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome)
+[sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+[orsinium/generated-awesomeness](https://github.com/orsinium/generated-awesomeness)
+[t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
+[lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch)
+[emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
+https://github.com/desireevl/awesome-quantum-computing
+https://github.com/jbhuang0604/awesome-computer-vision
+https://github.com/ChristosChristofidis/awesome-deep-learning
+https://github.com/sdukshis/awesome-ml
+https://github.com/EthicalML/awesome-production-machine-learning
+https://ai.google/education/
+https://github.com/awesomedata/awesome-public-datasets
+https://github.com/ananyaarun/deeplearning-biology
+https://github.com/gokceneraslan/awesome-deepbio
 
-    https://github.com/jbhuang0604/awesome-computer-vision
-    https://github.com/ChristosChristofidis/awesome-deep-learning
-    https://github.com/sdukshis/awesome-ml
-    https://github.com/EthicalML/awesome-production-machine-learning
-    https://ai.google/education/
-    https://github.com/awesomedata/awesome-public-datasets
-    https://github.com/ananyaarun/deeplearning-biology
-    https://github.com/gokceneraslan/awesome-deepbio
-    http://deeplearning.net
 
+## Misc Links 
+
+http://deeplearning.net
+https://www.archiactvr.com/careers
 https://github.com/emijrp/all-human-knowledge
 https://github.com/fastai/numerical-linear-algebra
 https://github.com/fastai
 http://timroughgarden.org/notes.html
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/ 
+https://github.com/search?q=topic%3Aneural-network&type=Repositories
+https://archive.ics.uci.edu/ml/datasets.php
+https://www.cs.utexas.edu/~mooney/gnlp/
+https://pair-code.github.io/facets/
+https://storage.googleapis.com/openimages/web/factsfigures.html
 
 
 
-
-
-
-
-
+## Researcher Profiles 
 
 Hagai Attias: http://www.convexaudio.com/htattias.php
 Peter Bartlett: http://www.stat.berkeley.edu/~bartlett/
@@ -137,9 +143,6 @@ David Waltz: http://www1.cs.columbia.edu/~waltz/
 Manfred Warmuth: http://users.soe.ucsc.edu/~manfred/
 Yair Weiss: http://www.cs.huji.ac.il/~yweiss/
 Tong Zhang: http://stat.rutgers.edu/home/tzhang/
-
-not in Jebara's list:
-
 Gunnar Martinsson: http://amath.colorado.edu/faculty/martinss/
 Joel Tropp: http://users.cms.caltech.edu/~jtropp/
 Naoki Saito: http://www.math.ucdavis.edu/~saito/
@@ -222,109 +225,10 @@ DD people: http://ccom.ucsd.edu/~dd20/program.html
 NYAS people: http://www.nyas.org/whatwedo/fos/machine.aspx
 MMDS people: http://www.stanford.edu/group/mmds/
 
-Topic 1: Gaussians, Linear Models and PCA
-Gaussian/PCA Face Recognition by Moghaddam, Jebara & Pentland
-PCA on Natural Images by Rao & Ballard
-
-Topic 2: Nonlinear Manifold Learning
-Locally Linear Embedding by Saul & Roweis
-Kernel PCA by Scholkopf, Smola & Muller
-Semidefinite Embedding by Weinberger, Sha & Saul
-Minimum Volume Embedding by Shaw & Jebara
-
-Topic 3: Maximum Entropy, Discrimination and SVMs
-A Maximum Entropy Approach to Natural Language Processing by Berger, Della Pietra & Della Pietra
-Multitask Sparsity via Maximum Entropy Discrimination by Jebara (only need to read until pages 75-83 for now)
-
-Topic 4: Logistic Regression and Conditional Random Fields
-Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data by Lafferty, McCallum & Pereira
-Majorization for CRFs by Jebara & Choromanska
-
-Topic 5: Graphical Models and Structured Output Prediction
-Review Chapters 11, 16 and 17 of Jordan
-Cutting-Plane Training of Structural SVMs by Joachims, Finley & Yu
-Structured Prediction with Relative Margin by Shivaswamy & Jebara
-
-Topic 6: Beyond Junction Tree: High Tree-Width Models
-Loopy Belief Propagation for Bipartite Maximum Weight b-Matching by Huang and Jebara
-Perfect Graphs and Graphical Modeling by Jebara
-
-Topic 7: Kernels and Structured Input Spacess
-Exploiting generative models in discriminative classifiers by Jaakkola and Haussler
-Probability Product Kernels by Jebara, Kondor and Howard
-
-Topic 8: Feature and Kernel Selection
-Feature Selection for SVMs by Weston, Mukherjee, Chapelle, Pontil, Poggio and Vapnik
-Learning the Kernel for SVMs by Lanckriet et al.
-
-Topic 9: Multi-Task Learning
-Multitask Sparsity via Maximum Entropy Discrimination by Jebara (read rest of it)
-
-Topic 10: Semi-Supervised Learning
-Transductive Inference using SVMs by Joachims
-Text Classification from Labeled and Unlabeled Documents using EM by K. Nigam, A. McCallum, S. Thrun and T. Mitchell
-Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions by Zhu, Ghahramani and Lafferty
-Local and Global Consistency by Zhou et al.
-Graph Construction and b-Matching for Semi-Supervised Learning by Jebara, Wang and Chang
-
-Topic 11: Clustering, Graphs, Spectra and Matching
-Spectral Clustering by U. Von Luxburg
-B-Matching for Spectral Clustering by Jebara and Shchogolev
-Geometry, Flows, and Graph-Partitioning Algorithms by Arora, Rao and Vazirani
-
-Topic 12: Boosting
-A Short Introduction to Boosting by Y. Freund and R. Schapire
-Rapid Object Detection using a Boosted Cascade of Simple Features by P. Viola and M. Jones
-
-https://github.com/search?q=topic%3Aneural-network&type=Repositories
-https://archive.ics.uci.edu/ml/datasets.php
-https://www.cs.utexas.edu/~mooney/gnlp/
-https://pair-code.github.io/facets/
-https://storage.googleapis.com/openimages/web/factsfigures.html
 
 
 
-
-
-### Table of Contents
-
-- [Introduction to RL problems & OpenAI Gym](Introduction/)
-- [MDPs and Bellman Equations](MDP/)
-- [Dynamic Programming: Model-Based RL, Policy Iteration and Value Iteration](DP/)
-- [Monte Carlo Model-Free Prediction & Control](MC/)
-- [Temporal Difference Model-Free Prediction & Control](TD/)
-- [Function Approximation](FA/)
-- [Deep Q Learning](DQN/) (WIP)
-- [Policy Gradient Methods](PolicyGradient/) (WIP)
-- Learning and Planning (WIP)
-- Exploration and Exploitation (WIP)
-
-
-### List of Implemented Algorithms
-
-- [Dynamic Programming Policy Evaluation](DP/Policy%20Evaluation%20Solution.ipynb)
-- [Dynamic Programming Policy Iteration](DP/Policy%20Iteration%20Solution.ipynb)
-- [Dynamic Programming Value Iteration](DP/Value%20Iteration%20Solution.ipynb)
-- [Monte Carlo Prediction](MC/MC%20Prediction%20Solution.ipynb)
-- [Monte Carlo Control with Epsilon-Greedy Policies](MC/MC%20Control%20with%20Epsilon-Greedy%20Policies%20Solution.ipynb)
-- [Monte Carlo Off-Policy Control with Importance Sampling](MC/Off-Policy%20MC%20Control%20with%20Weighted%20Importance%20Sampling%20Solution.ipynb)
-- [SARSA (On Policy TD Learning)](TD/SARSA%20Solution.ipynb)
-- [Q-Learning (Off Policy TD Learning)](TD/Q-Learning%20Solution.ipynb)
-- [Q-Learning with Linear Function Approximation](FA/Q-Learning%20with%20Value%20Function%20Approximation%20Solution.ipynb)
-- [Deep Q-Learning for Atari Games](DQN/Deep%20Q%20Learning%20Solution.ipynb)
-- [Double Deep-Q Learning for Atari Games](DQN/Double%20DQN%20Solution.ipynb)
-- Deep Q-Learning with Prioritized Experience Replay (WIP)
-- [Policy Gradient: REINFORCE with Baseline](PolicyGradient/CliffWalk%20REINFORCE%20with%20Baseline%20Solution.ipynb)
-- [Policy Gradient: Actor Critic with Baseline](PolicyGradient/CliffWalk%20Actor%20Critic%20Solution.ipynb)
-- [Policy Gradient: Actor Critic with Baseline for Continuous Action Spaces](PolicyGradient/Continuous%20MountainCar%20Actor%20Critic%20Solution.ipynb)
-- Deterministic Policy Gradients for Continuous Action Spaces (WIP)
-- Deep Deterministic Policy Gradients (DDPG) (WIP)
-- [Asynchronous Advantage Actor Critic (A3C)](PolicyGradient/a3c)
-
-
-### Resources
-
-Textbooks:
+## Textbooks
 
 - [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/RLbook2018.pdf)
 
@@ -402,6 +306,7 @@ https://github.com/mikesprague/udacity-nanodegrees
 
 
 
+<<<<<<< HEAD
 Awesome Public Datasets
 =======================
 
@@ -427,6 +332,16 @@ Other amazingly awesome lists can be found in `sindresorhus's awesome <https://g
 
 
  contents:: **Table of Contents**
+=======
+## Awesome Public Datasets
+
+
+ https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+https://github.com/sindresorhus/awesome
+https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
+https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
+
+>>>>>>> 9c392b5a634449f5a26055bed9c9346bcd7cdc2c
 
     
 Agriculture
