@@ -18,10 +18,10 @@
 ## Semantic Search
 - https://github.com/NTMC-Community/awesome-neural-models-for-semantic-match
 - https://github.com/UKPLab/sentence-transformers
-- LaBSE
-- LASER (Language Agnostic)
-- fasText
-- DSSM
+- https://github.com/bojone/labse
+- https://github.com/facebookresearch/LASER/tree/master/tasks/embed
+- https://github.com/facebookresearch/fastText
+- https://github.com/airalcorn2/Deep-Semantic-Similarity-Model
 - convDSSM
 - https://github.com/terrifyzhao/text_matching
 - https://github.com/UROP-X/context_rank
@@ -33,12 +33,14 @@
 - https://github.com/holoviz/holoviews
 - https://github.com/graphistry/pygraphistry
 - https://github.com/facebookresearch/hiplot
+- https://github.com/PAIR-code/facets
 
 ## Explainablitity
 - https://github.com/marcotcr/lime
 - https://github.com/PAIR-code/lit
 - https://github.com/RasaHQ/whatlies
 - https://github.com/yzhao062/anomaly-detection-resources
+- https://github.com/PAIR-code/what-if-tool
 
   
 ## Researchers
@@ -50,6 +52,9 @@
 - https://github.com/zck119/3dgan-release
 - https://github.com/Yijunmaverick/UniversalStyleTransfer?utm_source=catalyzex.com
 - https://github.com/ycjing/Neural-Style-Transfer-Papers?utm_source=catalyzex.com
+- https://github.com/yinyunie/3D-Shape-Analysis-Paper-List
+- https://github.com/avijit9/awesome-computer-vision-in-sports
+- https://github.com/lmb-freiburg/mv3d
 
 ## Recommenders 
 - https://github.com/microsoft/recommenders
