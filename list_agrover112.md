@@ -20,8 +20,8 @@
 - https://github.com/UKPLab/sentence-transformers
 - https://github.com/bojone/labse
 - https://github.com/facebookresearch/LASER/tree/master/tasks/embed
-- fasText
-- DSSM
+- https://github.com/facebookresearch/fastText
+- https://github.com/airalcorn2/Deep-Semantic-Similarity-Model
 - convDSSM
 - https://github.com/terrifyzhao/text_matching
 - https://github.com/UROP-X/context_rank
@@ -51,6 +51,8 @@
 - https://github.com/Yijunmaverick/UniversalStyleTransfer?utm_source=catalyzex.com
 - https://github.com/ycjing/Neural-Style-Transfer-Papers?utm_source=catalyzex.com
 - https://github.com/yinyunie/3D-Shape-Analysis-Paper-List
+- https://github.com/avijit9/awesome-computer-vision-in-sports
+- https://github.com/lmb-freiburg/mv3d
 
 ## Recommenders 
 - https://github.com/microsoft/recommenders
