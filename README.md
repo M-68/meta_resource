@@ -5,9 +5,9 @@
 
 ## Getting Started
 
-Create folder with **list_your_name --> add links and resources** any other information potentially useful to any developer/designer/engineer/researcher.   
+Create a folder with **list_your_name --> add links and resources** any other information potentially useful to any developer/designer/engineer/researcher.   
 
-Please cite all of the sources/developers-- the links/resources are from **clearly**
+Please cite all of the **developers and sources** from where the links/resources originate **clearly**
 
 **Do not edit others content_files -- create new files for contributing**
 
