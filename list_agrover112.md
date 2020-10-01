@@ -33,12 +33,14 @@
 - https://github.com/holoviz/holoviews
 - https://github.com/graphistry/pygraphistry
 - https://github.com/facebookresearch/hiplot
+- https://github.com/PAIR-code/facets
 
 ## Explainablitity
 - https://github.com/marcotcr/lime
 - https://github.com/PAIR-code/lit
 - https://github.com/RasaHQ/whatlies
 - https://github.com/yzhao062/anomaly-detection-resources
+- https://github.com/PAIR-code/what-if-tool
 
   
 ## Researchers
