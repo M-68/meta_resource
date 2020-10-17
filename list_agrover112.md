@@ -34,6 +34,7 @@
 - https://github.com/graphistry/pygraphistry
 - https://github.com/facebookresearch/hiplot
 - https://github.com/PAIR-code/facets
+- https://github.com/jupyter-widgets/ipyleaflet
 
 ## Explainablitity
 - https://github.com/marcotcr/lime
@@ -89,6 +90,7 @@
 - https://github.com/js05212/BayesianDeepLearning-Survey
 - https://github.com/deepklarity/jupyter-text2code
 - https://github.com/yassouali/awesome-semi-supervised-learning
+- 
 
 ## Zero Shot Learning
 - https://github.com/sbharadwajj/awesome-zero-shot-learning
@@ -103,5 +105,7 @@
 - https://github.com/sql-machine-learning/sqlflow
 - https://github.com/Netflix/metaflow
 - https://github.com/bentoml/BentoML
+- https://github.com/elyra-ai/elyra
+- https://github.com/quantumblacklabs/kedro
 ## Privacy
 - https://github.com/brighter-ai/awesome-privacy-papers
