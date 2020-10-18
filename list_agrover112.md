@@ -56,6 +56,7 @@
 - https://github.com/yinyunie/3D-Shape-Analysis-Paper-List
 - https://github.com/avijit9/awesome-computer-vision-in-sports
 - https://github.com/lmb-freiburg/mv3d
+- https://github.com/aimagelab/meshed-memory-transformer
 
 ## Recommenders 
 - https://github.com/microsoft/recommenders
