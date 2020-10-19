@@ -108,5 +108,6 @@
 - https://github.com/bentoml/BentoML
 - https://github.com/elyra-ai/elyra
 - https://github.com/quantumblacklabs/kedro
+- https://github.com/ahkarami/Deep-Learning-in-Production
 ## Privacy
 - https://github.com/brighter-ai/awesome-privacy-papers
