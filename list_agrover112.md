@@ -14,6 +14,7 @@
  - https://github.com/mhagiwara/100-nlp-papers
  - https://github.com/microsoft/nlp-recipes
  - https://github.com/makcedward/nlp
+ - https://github.com/dmmiller612/lecture-summarizer
 
 ## Semantic Search
 - https://github.com/NTMC-Community/awesome-neural-models-for-semantic-match
