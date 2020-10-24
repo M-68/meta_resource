@@ -15,6 +15,7 @@
  - https://github.com/microsoft/nlp-recipes
  - https://github.com/makcedward/nlp
  - https://github.com/dmmiller612/lecture-summarizer
+-  https://github.com/idiap/fast-transformers
 
 ## Semantic Search
 - https://github.com/NTMC-Community/awesome-neural-models-for-semantic-match
