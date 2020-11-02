@@ -1,4 +1,5 @@
  ## Upcoming Conferences/Events/Submission Deadlines
+ Subject to change
  - https://github.com/skrish13/ml-contests-conf
  ## NLP 
 
@@ -78,8 +79,8 @@
 
 
 ## Awesome
-- https://github.com/sql-machine-learning/sqlflow
 - https://github.com/huggingface/transformers
+- https://github.com/ThilinaRajapakse/simpletransformers
 - https://github.com/lvwerra/trl
 - https://github.com/noahtren/awesome-research
 - https://github.com/kritiksoman/GIMP-ML
@@ -94,7 +95,7 @@
 - https://github.com/js05212/BayesianDeepLearning-Survey
 - https://github.com/deepklarity/jupyter-text2code
 - https://github.com/yassouali/awesome-semi-supervised-learning
-- 
+- https://github.com/microsoft/MMdnn 
 
 ## Zero Shot Learning
 - https://github.com/sbharadwajj/awesome-zero-shot-learning
