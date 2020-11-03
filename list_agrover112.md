@@ -7,6 +7,7 @@
  - https://github.com/madrugado/deep-learning-nlp-rl-papers
  - https://github.com/thunlp/GNNPapers
  - https://github.com/huggingface/awesome-papers
+-  https://github.com/bplank/awesome-neural-adaptation-in-NLP
  - https://github.com/tomohideshibata/BERT-related-papers
  - https://github.com/explosion/spacy-transformers
  - https://github.com/PengboLiu/NLP-Papers
