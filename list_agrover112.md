@@ -30,7 +30,8 @@
 - convDSSM
 - https://github.com/terrifyzhao/text_matching
 - https://github.com/UROP-X/context_rank
-- https://github.com/jackalhan/MatchZoo_local
+- https://github.com/jina-ai/jina
+- https://github.com/NTMC-Community/MatchZoo
 
 
 ## DataViz
