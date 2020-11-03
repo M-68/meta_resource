@@ -10,6 +10,7 @@
 -  https://github.com/bplank/awesome-neural-adaptation-in-NLP
  - https://github.com/tomohideshibata/BERT-related-papers
  - https://github.com/explosion/spacy-transformers
+ - https://github.com/microsoft/fastformers
  - https://github.com/PengboLiu/NLP-Papers
  - https://github.com/jessevig/bertviz
  - https://github.com/Separius/awesome-sentence-embedding
@@ -60,6 +61,7 @@
 - https://github.com/yinyunie/3D-Shape-Analysis-Paper-List
 - https://github.com/avijit9/awesome-computer-vision-in-sports
 - https://github.com/lmb-freiburg/mv3d
+- https://github.com/Yang7879/3D-BoNet
 - https://github.com/aimagelab/meshed-memory-transformer
 - https://github.com/google-research/vision_transformer
 
