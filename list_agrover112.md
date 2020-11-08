@@ -1,6 +1,7 @@
  ## Upcoming Conferences/Events/Submission Deadlines
- Subject to change
+ 
  - https://github.com/skrish13/ml-contests-conf
+-  https://github.com/yzhao062/data-mining-conferences
  ## NLP 
 
  - https://github.com/mhagiwara/100-nlp-papers
