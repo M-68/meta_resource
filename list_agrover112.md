@@ -1,19 +1,25 @@
  ## Upcoming Conferences/Events/Submission Deadlines
+ 
  - https://github.com/skrish13/ml-contests-conf
+-  https://github.com/yzhao062/data-mining-conferences
  ## NLP 
 
  - https://github.com/mhagiwara/100-nlp-papers
  - https://github.com/madrugado/deep-learning-nlp-rl-papers
  - https://github.com/thunlp/GNNPapers
  - https://github.com/huggingface/awesome-papers
+-  https://github.com/bplank/awesome-neural-adaptation-in-NLP
  - https://github.com/tomohideshibata/BERT-related-papers
  - https://github.com/explosion/spacy-transformers
+ - https://github.com/microsoft/fastformers
  - https://github.com/PengboLiu/NLP-Papers
  - https://github.com/jessevig/bertviz
  - https://github.com/Separius/awesome-sentence-embedding
  - https://github.com/mhagiwara/100-nlp-papers
  - https://github.com/microsoft/nlp-recipes
  - https://github.com/makcedward/nlp
+ - https://github.com/dmmiller612/lecture-summarizer
+-  https://github.com/idiap/fast-transformers
 
 ## Semantic Search
 - https://github.com/NTMC-Community/awesome-neural-models-for-semantic-match
@@ -25,7 +31,8 @@
 - convDSSM
 - https://github.com/terrifyzhao/text_matching
 - https://github.com/UROP-X/context_rank
-- https://github.com/jackalhan/MatchZoo_local
+- https://github.com/jina-ai/jina
+- https://github.com/NTMC-Community/MatchZoo
 
 
 ## DataViz
@@ -34,6 +41,7 @@
 - https://github.com/graphistry/pygraphistry
 - https://github.com/facebookresearch/hiplot
 - https://github.com/PAIR-code/facets
+- https://github.com/jupyter-widgets/ipyleaflet
 
 ## Explainablitity
 - https://github.com/marcotcr/lime
@@ -55,12 +63,16 @@
 - https://github.com/yinyunie/3D-Shape-Analysis-Paper-List
 - https://github.com/avijit9/awesome-computer-vision-in-sports
 - https://github.com/lmb-freiburg/mv3d
+- https://github.com/Yang7879/3D-BoNet
+- https://github.com/aimagelab/meshed-memory-transformer
+- https://github.com/google-research/vision_transformer
 
 ## Recommenders 
 - https://github.com/microsoft/recommenders
 
 ## MultiModal
 - https://github.com/pliang279/awesome-multimodal-ml
+- https://github.com/vector-ai/vectorhub
 - https://github.com/Rudrabha/Lip2Wav
 - https://github.com/Rudrabha/LipGAN
 - https://github.com/Rudrabha/Wav2Lip
@@ -73,8 +85,8 @@
 
 
 ## Awesome
-- https://github.com/sql-machine-learning/sqlflow
 - https://github.com/huggingface/transformers
+- https://github.com/ThilinaRajapakse/simpletransformers
 - https://github.com/lvwerra/trl
 - https://github.com/noahtren/awesome-research
 - https://github.com/kritiksoman/GIMP-ML
@@ -89,6 +101,7 @@
 - https://github.com/js05212/BayesianDeepLearning-Survey
 - https://github.com/deepklarity/jupyter-text2code
 - https://github.com/yassouali/awesome-semi-supervised-learning
+- https://github.com/microsoft/MMdnn 
 
 ## Zero Shot Learning
 - https://github.com/sbharadwajj/awesome-zero-shot-learning
@@ -103,5 +116,8 @@
 - https://github.com/sql-machine-learning/sqlflow
 - https://github.com/Netflix/metaflow
 - https://github.com/bentoml/BentoML
+- https://github.com/elyra-ai/elyra
+- https://github.com/quantumblacklabs/kedro
+- https://github.com/ahkarami/Deep-Learning-in-Production
 ## Privacy
 - https://github.com/brighter-ai/awesome-privacy-papers
