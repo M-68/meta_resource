@@ -71,6 +71,7 @@
 
 ## MultiModal
 - https://github.com/pliang279/awesome-multimodal-ml
+- https://github.com/vector-ai/vectorhub
 - https://github.com/Rudrabha/Lip2Wav
 - https://github.com/Rudrabha/LipGAN
 - https://github.com/Rudrabha/Wav2Lip
