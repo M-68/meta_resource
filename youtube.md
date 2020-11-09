@@ -90,7 +90,11 @@ https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid
 
 
 https://www.youtube.com/watch?v=Zc54gFhdpLA
+<<<<<<< HEAD
 https://www.youtube.com/watch?v=nUwT7PEQ49o
+=======
+
+>>>>>>> 83d31f7c6b9057570280128b5ab82d74f2c18c89
 https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA
 https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E
 https://www.youtube.com/watch?v=feAOZuID1HM&list=WL&index=24&t=998s 
