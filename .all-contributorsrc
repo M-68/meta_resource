@@ -13,10 +13,19 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "VikramxD",
+      "name": "Vikramjeet Singh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/72499426?v=4",
+      "profile": "https://github.com/VikramxD",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "resources",
+  "projectName": "meta_resource",
   "projectOwner": "EXYNOS-999",
   "repoType": "github",
   "repoHost": "https://github.com",
