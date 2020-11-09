@@ -55,6 +55,16 @@ ML Playlists (Univ of Washington)
 
 https://m.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50
 
+
+
+Introduction to Database Systems CMU 15-445/645 2020
+
+https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
+
+Advanced Database Systems CMU 15-721 2020
+
+https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O
+
 ML Basics (Stats etc)
 
 https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
@@ -84,8 +94,7 @@ https://deep-learning-drizzle.github.io/index.html#probgm
 
 Springer Free Books:
 
-https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-discipline=%22Computer+Science%22
->>>>>>> 5bc9fd226ba999c462949ca6d08f1fb48d652065
+https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-discipline=%22Computer+Science%225bc9fd226ba999c462949ca6d08f1fb48d652065
 
 
 
