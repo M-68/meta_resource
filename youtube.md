@@ -144,6 +144,19 @@ https://www.youtube.com/watch?v=Dp-mQ3HxgDE&list=WL&index=139&t=16s
 https://www.youtube.com/watch?v=cUTMhmVh1qs&t=15s 
 
 
+https://www.youtube.com/watch?v=juPY486IhWc&list=PLyNtYk9vKcP7B22KU4oP8reNohpEhssik 
+https://simons.berkeley.edu/ 
+http://videolectures.net/ 
+http://videolectures.net/mlss2011_bordeaux/ 
+https://www.youtube.com/watch?v=2Op3QLzMgSY 
+https://www.youtube.com/watch?v=90NsjKvz9Ns
+https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w 
+https://www.youtube.com/watch?v=wmiD5J8Dw9E 
+https://www.youtube.com/watch?v=pTeZP-XfuKI 
+https://www.youtube.com/watch?v=JxAXlJEmNMg&app=desktop 
+http://www.aduni.org/courses/ 
+
+
 
 
 
