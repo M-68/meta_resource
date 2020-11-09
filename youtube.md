@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 (Other than Andrew Ng )
 Resources for ML,DL,RL,NLP,etc.
 
@@ -97,8 +95,10 @@ Springer Free Books:
 https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-discipline=%22Computer+Science%225bc9fd226ba999c462949ca6d08f1fb48d652065
 
 
+Introduction to Algorithms MIT OCW
 
 https://www.youtube.com/watch?v=Zc54gFhdpLA
+
 https://www.youtube.com/watch?v=nUwT7PEQ49o
 https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA
 https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E
