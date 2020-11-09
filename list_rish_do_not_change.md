@@ -1766,6 +1766,22 @@ https://functionalcs.github.io/curriculum/
 
 
 
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials 
+https://github.com/josephmisiti/awesome-machine-learning 
+https://github.com/collections/machine-learning
+https://github.com/datascienceid/machine-learning-resources 
+https://github.com/ChristosChristofidis/awesome-deep-learning 
+https://github.com/jissac/Machine-Learning-Resources 
+https://github.com/yanshengjia/ml-road 
+  https://github.com/chrisorm/Machine-Learning-Resources 
+  https://github.com/NajiElKotob/Awesome-ML 
+  https://sgfin.github.io/learning-resources/ 
+  https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524 
+  
+
+
+
+
 https://twitter.com/mit_csail/status/1160221769002881037
 https://twitter.com/kdnuggets/status/1160284186755969026
 https://twitter.com/tunguz/status/1160344564978221056
