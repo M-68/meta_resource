@@ -1813,6 +1813,14 @@ https://www.opera.com/escape
 http://paulgraham.com/
 https://developer.amazon.com/blogs/alexa/post/b66bf85d-b194-4e24-a5f1-302592074a22/with-alexa-developer-rewards-david-markey-says-alexa-changed-his-life
 https://developer.amazon.com/blogs/alexa/tag/Developer+storie
+https://www.nasa.gov/audience/foreducators/computer-science-educational-resources.html 
+https://teachyourselfcs.com/ 
+http://www.computersciencestudent.com/ 
+https://code.org/athome 
+https://edu.google.com/intl/en_in/computer-science/ 
+https://github.com/the-akira/Computer-Science-Resources 
+https://engineeringonline.vanderbilt.edu/resources/computer-science-resources/ 
+https://computerscienceuk.com/ 
 
 
 
