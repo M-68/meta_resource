@@ -85,11 +85,11 @@ Springer Free Books:
 https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-discipline=%22Computer+Science%22
 
 
+Mit the Missing Semester IAP.
+
 https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J
 
-
-
-Mit the Missing Semester IAP.
+Introduction to Algorithms MIT OCW
 
 https://www.youtube.com/watch?v=Zc54gFhdpLA
 
