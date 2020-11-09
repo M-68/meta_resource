@@ -1902,6 +1902,9 @@ https://stanfordpython.com/#/
 https://cs4good.com/
 https://cs233.github.io/ 
 https://courses.engr.illinois.edu/cs225/fa2020/resources/ 
+https://cs61c.org/fa20/ 
+https://atcold.github.io/pytorch-Deep-Learning/ 
+
 
 
 
