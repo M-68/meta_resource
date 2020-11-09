@@ -1822,6 +1822,9 @@ https://github.com/the-akira/Computer-Science-Resources
 https://engineeringonline.vanderbilt.edu/resources/computer-science-resources/ 
 https://computerscienceuk.com/ 
 http://www.aduni.org/
+https://github.com/Developer-Y/math-science-video-lectures
+https://github.com/Developer-Y 
+https://github.com/Developer-Y
 
 
 
