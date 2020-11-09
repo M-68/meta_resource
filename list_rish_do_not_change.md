@@ -1732,6 +1732,37 @@ https://spark.apache.org/docs/latest/rdd-programming-guide.html
 https://spark.apache.org/docs/latest/ml-pipeline.html
 https://application.opendata.aws/
 http://www.paulgraham.com/ 
+http://ai.berkeley.edu/home.html 
+https://ai.googleblog.com/2020/10/experimenting-with-automatic-video.html 
+https://distill.pub/2017/research-debt/ 
+https://bost.ocks.org/mike/algorithms/ 
+https://baicsworkshop.github.io/ 
+https://cneuro-web01.s.uw.edu/news-and-events/neuroscience-ai-and-society/ 
+https://slideslive.com/icml-2020#!feed=popular 
+http://people.csail.mit.edu/fredo/student.html 
+https://github.com/ossu/computer-science 
+https://github.com/shiv4nsh/awesome-computer-science-resources 
+https://github.com/darkf/cs-resources
+https://github.com/vicky002/AlgoWiki
+https://github.com/boniverski/computer-science 
+https://github.com/microsoft/AcademicContent
+https://github.com/PizzaPokerGuy/ultimate-coding-resources 
+https://gist.github.com/shubhambhattar/8f47141d5b89cfbc818e45176249e1be 
+https://github.com/anu0012/awesome-computer-science-opportunities 
+https://github.com/anu0012/awesome-computer-science-opportunities
+https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md 
+https://github.com/Spacial/csstuff 
+http://cslibrary.stanford.edu/ 
+https://github.com/kottans/computer-science 
+https://github.com/prakhar1989/awesome-courses 
+https://github.com/leonardomso/33-js-concepts 
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit 
+https://github.com/aviaryan/learn-for-free 
+https://github.com/EbookFoundation/free-programming-books 
+https://github.com/sonusourav/A-to-Z-Resources-for-Students 
+https://github.com/vicky002/AlgoWiki 
+https://functionalcs.github.io/curriculum/ 
+
 
 
 
