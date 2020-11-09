@@ -1731,6 +1731,8 @@ https://datahub.io/blog/attribute-relation-file-format-arff
 https://spark.apache.org/docs/latest/rdd-programming-guide.html
 https://spark.apache.org/docs/latest/ml-pipeline.html
 https://application.opendata.aws/
+http://www.paulgraham.com/ 
+
 
 
 https://twitter.com/mit_csail/status/1160221769002881037
@@ -1845,6 +1847,9 @@ https://www.youtube.com/watch?v=0eO2TSVVP1Y&list=WL&index=126&t=6s
 https://www.youtube.com/watch?v=Yr1mOzC93xs&list=WL&index=128&t=13s 
 https://www.youtube.com/watch?v=Dp-mQ3HxgDE&list=WL&index=139&t=16s 
 https://www.youtube.com/watch?v=cUTMhmVh1qs&t=15s 
+
+
+https://www.classcentral.com/subject/cs 
 
 
 
