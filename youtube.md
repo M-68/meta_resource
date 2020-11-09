@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 (Other than Andrew Ng )
 Resources for ML,DL,RL,NLP,etc.
 
@@ -86,18 +84,17 @@ Springer Free Books:
 
 https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-discipline=%22Computer+Science%22
 
->>>>>>> 5bc9fd226ba999c462949ca6d08f1fb48d652065
 
 https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J
+
+
+
 Mit the Missing Semester IAP.
 
-
 https://www.youtube.com/watch?v=Zc54gFhdpLA
-<<<<<<< HEAD
-https://www.youtube.com/watch?v=nUwT7PEQ49o
-=======
 
->>>>>>> 83d31f7c6b9057570280128b5ab82d74f2c18c89
+https://www.youtube.com/watch?v=nUwT7PEQ49o
+
 https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA
 https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E
 https://www.youtube.com/watch?v=feAOZuID1HM&list=WL&index=24&t=998s 
