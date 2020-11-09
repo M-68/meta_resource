@@ -95,7 +95,10 @@ https://www.youtube.com/watch?v=Zc54gFhdpLA
 
 https://www.youtube.com/watch?v=nUwT7PEQ49o
 
+CMU group
 https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA
+
+UCSD Computer Graphics
 https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E
 https://www.youtube.com/watch?v=feAOZuID1HM&list=WL&index=24&t=998s 
 https://www.youtube.com/watch?v=LBpqoj2nOQo&list=WL&index=29&t=1410s
