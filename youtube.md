@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 (Other than Andrew Ng )
 Resources for ML,DL,RL,NLP,etc.
 
@@ -55,6 +53,17 @@ ML Playlists (Univ of Washington)
 
 https://m.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50
 
+CMU Database Group 
+https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA
+
+Introduction to Database Systems CMU 15-445/645 2020
+
+https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
+
+Advanced Database Systems CMU 15-721 2020
+
+https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O
+
 ML Basics (Stats etc)
 
 https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
@@ -84,31 +93,13 @@ https://deep-learning-drizzle.github.io/index.html#probgm
 
 Springer Free Books:
 
-https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-discipline=%22Computer+Science%22
->>>>>>> 5bc9fd226ba999c462949ca6d08f1fb48d652065
+https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-discipline=%22Computer+Science%225bc9fd226ba999c462949ca6d08f1fb48d652065
 
 
+Introduction to Algorithms MIT OCW
 
 https://www.youtube.com/watch?v=Zc54gFhdpLA
-<<<<<<< HEAD
-https://www.youtube.com/watch?v=nUwT7PEQ49o
-=======
 
->>>>>>> 83d31f7c6b9057570280128b5ab82d74f2c18c89
-https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA
+UCSD Computer Graphics
+
 https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E
-https://www.youtube.com/watch?v=feAOZuID1HM&list=WL&index=24&t=998s 
-https://www.youtube.com/watch?v=LBpqoj2nOQo&list=WL&index=29&t=1410s
-https://www.youtube.com/watch?v=gxAaO2rsdIs&list=WL&index=33&t=66s
-https://www.youtube.com/watch?v=QyjyWUrHsFc&list=WL&index=35&t=45s
-https://www.youtube.com/watch?v=QyjyWUrHsFc&list=WL&index=35&t=45s 
-https://www.youtube.com/watch?v=0JUN9aDxVmI&list=WL&index=50&t=147s 
-https://www.youtube.com/watch?v=vi7lACKOUao&list=WL&index=61 
-https://www.youtube.com/watch?v=fRjFwTbJfes&list=WL&index=67 
-https://www.youtube.com/watch?v=2A6ITKWJFCo&list=WL&index=78&t=212s
-https://www.youtube.com/watch?v=IAiNqQi30-Y&list=WL&index=82&t=3s 
-https://www.youtube.com/watch?v=rYz83XPxiZo&list=WL&index=96 
-https://www.youtube.com/watch?v=0eO2TSVVP1Y&list=WL&index=126&t=6s 
-https://www.youtube.com/watch?v=Yr1mOzC93xs&list=WL&index=128&t=13s 
-https://www.youtube.com/watch?v=Dp-mQ3HxgDE&list=WL&index=139&t=16s 
-https://www.youtube.com/watch?v=cUTMhmVh1qs&t=15s 
