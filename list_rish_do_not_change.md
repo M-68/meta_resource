@@ -1898,10 +1898,10 @@ https://www.youtube.com/watch?v=cUTMhmVh1qs&t=15s
 
 https://www.classcentral.com/subject/cs 
 https://learninglab.si.edu/about/research
-
-
-
-
+https://stanfordpython.com/#/ 
+https://cs4good.com/
+https://cs233.github.io/ 
+https://courses.engr.illinois.edu/cs225/fa2020/resources/ 
 
 
 
