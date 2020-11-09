@@ -1832,6 +1832,33 @@ https://computerscienceuk.com/
 
 
 
+https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA
+https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E
+https://www.youtube.com/watch?v=feAOZuID1HM&list=WL&index=24&t=998s 
+https://www.youtube.com/watch?v=LBpqoj2nOQo&list=WL&index=29&t=1410s
+https://www.youtube.com/watch?v=gxAaO2rsdIs&list=WL&index=33&t=66s
+https://www.youtube.com/watch?v=QyjyWUrHsFc&list=WL&index=35&t=45s
+https://www.youtube.com/watch?v=QyjyWUrHsFc&list=WL&index=35&t=45s 
+https://www.youtube.com/watch?v=0JUN9aDxVmI&list=WL&index=50&t=147s 
+https://www.youtube.com/watch?v=vi7lACKOUao&list=WL&index=61 
+https://www.youtube.com/watch?v=fRjFwTbJfes&list=WL&index=67 
+https://www.youtube.com/watch?v=2A6ITKWJFCo&list=WL&index=78&t=212s
+https://www.youtube.com/watch?v=IAiNqQi30-Y&list=WL&index=82&t=3s 
+https://www.youtube.com/watch?v=rYz83XPxiZo&list=WL&index=96 
+https://www.youtube.com/watch?v=0eO2TSVVP1Y&list=WL&index=126&t=6s 
+https://www.youtube.com/watch?v=Yr1mOzC93xs&list=WL&index=128&t=13s 
+https://www.youtube.com/watch?v=Dp-mQ3HxgDE&list=WL&index=139&t=16s 
+https://www.youtube.com/watch?v=cUTMhmVh1qs&t=15s 
+
+
+
+
+
+
+
+
+
+
 
 
 
