@@ -1922,6 +1922,46 @@ https://math.unm.edu/~crisp/courses/math401/tao.pdf
 https://math.stackexchange.com/questions/373401/self-study-real-analysis-tao-or-rudin 
 https://learnaifromscratch.github.io/
 https://people.eecs.berkeley.edu/~jrs/61b/
+https://github.com/AllenInstitute
+https://math.stackexchange.com/questions/373401/self-study-real-analysis-tao-or-rudin
+https://mml-book.github.io/
+https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture 
+
+http://cs.brown.edu/courses/csci1310/2020/schedule.html
+http://www.cs.cornell.edu/courses/cs3410/2019sp/schedule/
+https://cs61c.org/su20/
+https://cs61c.org/su20/
+https://tube.midov.pl/videos/watch/playlist/339c1a78-dc9e-4688-a359-dfa1856995a2
+https://dlicata.wescreates.wesleyan.edu/teaching/fp-s20/assign.html 
+http://cs.brown.edu/courses/cs022/
+https://github.com/search?q=cs3110&type=
+https://sp18.datastructur.es/ 
+https://algs4.cs.princeton.edu/home/ 
+https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule 
+6.004 2015-2017 https://computationstructures.org/index.html
+6.004 fall 2019 https://6004.mit.edu/web/fall19FA19/labs
+related HN thread: https://news.ycombinator.com/item?id=22056567
+https://foundations-of-applied-mathematics.github.io/ 
+http://cs229.stanford.edu/proj2020spr/ 
+https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
+https://www.t3x.org/ 
+http://demo.clab.cs.cmu.edu/11711fa18/ 
+https://cs121.boazbarak.org/background/#self-study-using-mit-6-042j 
+http://15418.courses.cs.cmu.edu/spring2016/lectures 
+http://xyproblem.info/
+https://sol.gfxile.net/dontask.html
+https://papl.cs.brown.edu/2018/intro-tabular-data.html#%28part._.Transforming__.Cleansing__and_.Normalizing%29
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/ 
+https://pdos.csail.mit.edu/6.824/schedule.html
+https://www.cambridge.org/core/what-we-publish/textbooks 
+https://sp19.datastructur.es/ 
+http://www.cs.cornell.edu/courses/cs6820/2018fa/lectures.html
+https://thume.ca/2017/06/17/tree-diffing/
+https://boards.420chan.org/prog/thread/37033/a-ridiculous-sequence-of-courses 
+http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html?m=1
+https://www.kosbie.net/cmu/spring-19/15-110/schedule.html
+https://swtch.com/~rsc/regexp/grep1p.png
+    
 
 
 
