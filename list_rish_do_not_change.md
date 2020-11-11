@@ -2045,7 +2045,55 @@ https://handmadehero.org/
  https://infinitedescent.xyz/20180214-exercises-ibl/ 
  https://fullstackopen.com/en/ 
  https://15445.courses.cs.cmu.edu/fall2018/ 
- 
+ https://www.youtube.com/watch?v=COr13MfGnHk 
+ https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html
+ http://cs242.stanford.edu/f17/ 
+ http://www.cs.cornell.edu/courses/cs2043/2019sp/schedule.html 
+ https://softwarefoundations.cis.upenn.edu/ 
+ http://www.math.cmu.edu/users/handron/21_236/index.html
+ http://augmentingcognition.com/ltm.html 
+ http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/courses/ 
+ https://cs.wheaton.edu/~tvandrun/dmfp/ 
+ https://docs.google.com/document/d/1KkQiGRJEYeq0eAvkdXwkBcop7S0twj8tolnAnGL4uFo/edit 
+ https://htdp.org/ 
+ http://moocfi.github.io/courses/2013/programming-part-1/ 
+ https://www.cs.cmu.edu/~charlie/courses/17-214/2020-fall/ 
+ https://labuladong.gitbook.io/ 
+ https://people.eecs.berkeley.edu/~kubitron/courses/cs194-24-S14/index_lectures.html 
+ http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html 
+ https://projects.iq.harvard.edu/stat110/strategic-practice-problems 
+ https://tc.gts3.org/cs3210/2020/spring/lab.html 
+ https://www.futurelearn.com/courses/functional-programming-erlang/3
+ http://web.mit.edu/alexmv/6.001/ 
+ logic.stanford.edu/intrologic/homepage/index.html 
+ https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/
+ https://www.countablethoughts.com/ 
+ https://web.cs.wpi.edu/~cs2102/d18/ 
+ https://www.deeplearningbook.org/ 
+ http://www.math.smith.edu/~callahan/intromine.html 
+http://c9x.me/compile/bib/ 
+https://www.countablethoughts.com/ 
+https://com.puter.systems/20fa/ 
+https://web.cs.wpi.edu/~cs2102/d20/
+https://softwarefoundations.cis.upenn.edu/ 
+https://bernsteinbear.com/blog/compiling-a-lisp-0/ 
+http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html 
+https://www.cs.cmu.edu/~odonnell/toolkit20/ 
+https://owl.purdue.edu/
+https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking
+http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/ 
+https://www.craftinginterpreters.com/contents.html 
+https://math.mit.edu/~notzeb/rec.html
+https://bernsteinbear.com/blog/compiling-a-lisp-0/
+http://scipy-lectures.org/
+https://web.stanford.edu/class/cs142/projects.html 
+http://rosalind.info/problems/locations/ 
+https://web.stanford.edu/class/cs142/projects.html 
+https://www.sumofsquares.org/public/index.html 
+https://plfa.github.io/ 
+https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi19/onlinelectures.html 
+https://github.com/CMU-17-356/ 
+
 
 
 
