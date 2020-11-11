@@ -168,6 +168,26 @@ https://github.com/Developer-Y/cs-video-courses
 
 
 
+# Conferences 
+## Talks
+
+
+
+## Workshops 
+
+
+
+## Misc 
+
+
+
+
+
+
+
+
+
+
 
 
 
