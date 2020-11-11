@@ -1035,6 +1035,7 @@ https://www.crawdad.org/
 https://www.dallasopendata.com/
 https://www.data.gouv.fr/en/datasets/
 https://www.data.gv.at/
+https://github.com/AllenInstitute
 https://www.datacards.org/login/
 https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS
 https://www.dati.gov.it/
@@ -1906,6 +1907,7 @@ https://cs61c.org/fa20/
 https://atcold.github.io/pytorch-Deep-Learning/ 
 https://castel.dev/ 
 http://erikdemaine.org/supercollaboration/howto.pdf 
+https://www.reddit.com/r/learnprogramming/comments/bu6645/cornells_entire_machine_learning_class_cs_4780_is/
 
 
 
