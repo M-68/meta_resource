@@ -1961,7 +1961,91 @@ https://boards.420chan.org/prog/thread/37033/a-ridiculous-sequence-of-courses
 http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html?m=1
 https://www.kosbie.net/cmu/spring-19/15-110/schedule.html
 https://swtch.com/~rsc/regexp/grep1p.png
-    
+https://www.cs.cmu.edu/~15131/f17/
+https://github.com/donnemartin/system-design-primer
+15-462 Computer Graphics
+http://15462.courses.cs.cmu.edu/spring2019/home
+
+15-463 Computational Photography
+http://graphics.cs.cmu.edu/courses/15-463/
+
+⭐️ 15-312 Foundations of Programming Languages
+https://www.cs.cmu.edu/~rwh/courses/ppl/
+
+15-316 Software Foundations of Security & Privacy
+https://15316-cmu.github.io/index.html
+
+11-411 NATURAL LANGUAGE PROCESSING
+http://demo.clab.cs.cmu.edu/NLP/
+
+17-356 Software Engineering for Startups
+https://cmu-17-356.github.io
+https://github.com/CMU-17-356/
+
+15-455 Complexity theory
+http://www.cs.cmu.edu/~15455/index.html
+
+10-725 Convex Optimization
+(Full Course) 10-725 Convex Optimization
+
+6.858 Computer systems security
+https://css.csail.mit.edu/6.858/2019/schedule.html
+
+05-863 Intro to Human Computer Interaction
+https://www.cs.cmu.edu/~bam/uicourse/05863fall18/schedule.html
+
+
+AI Electives
+
+Andrew Ng ML Intro
+https://www.coursera.org/learn/machine-learning
+
+15-780 Graduate introduction to AI 
+http://www.cs.cmu.edu/afs/cs/Web/People/15780/#schedule
+lectures https://www.youtube.com/playlist?list=PL_Ig1a5kxu55zgIn3Tb5Pc5C62Yo2sYHf
+
+10-606/607 Math foundation for ML
+http://www.cs.cmu.edu/~mgormley/courses/606-607-f18/index.html
+https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA
+
+11-785 Deep learning
+http://deeplearning.cs.cmu.edu
+
+
+
+
+{
+15-458 Discrete differential geometry
+http://brickisland.net/DDGSpring2019/
+
+6.838 Shape analysis 
+http://groups.csail.mit.edu/gdpgroup/6838_spring_2019.html
+http://pages.cs.wisc.edu/~remzi/OSTEP/
+https://ops-class.org/
+http://augmentingcognition.com/ltm.html
+weblab.mit.edu/schedule/
+https://www.cs.cmu.edu/~15131/f17/
+http://www.cs.cmu.edu/~ckingsf/class/02-714/index.html 
+https://www.cl.cam.ac.uk/teaching/1718/cst/ 
+https://weblab.mit.edu/schedule/ 
+http://pages.cs.wisc.edu/~remzi/OSTEP/ 
+https://thume.ca/ray-tracer-site/ 
+http://www-cs-students.stanford.edu/~amitp/gameprog.html 
+https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine 
+https://handmadehero.org/
+ https://gameprogrammingpatterns.com/
+ https://elm-lang.org/ 
+ http://web.mit.edu/6.031/www/fa19/
+ https://cmu-17-356.github.io/ 
+ http://cs.brown.edu/courses/cs053/current/index.htm 
+ https://www.math.brown.edu/~treil/papers/LADW/LADW.html 
+ https://cmu-17-356.github.io/ 
+ https://regexr.com/ 
+ https://www.math.wisc.edu/~keisler/calc.html 
+ https://infinitedescent.xyz/20180214-exercises-ibl/ 
+ https://fullstackopen.com/en/ 
+ https://15445.courses.cs.cmu.edu/fall2018/ 
+ 
 
 
 
