@@ -1908,6 +1908,21 @@ https://atcold.github.io/pytorch-Deep-Learning/
 https://castel.dev/ 
 http://erikdemaine.org/supercollaboration/howto.pdf 
 https://www.reddit.com/r/learnprogramming/comments/bu6645/cornells_entire_machine_learning_class_cs_4780_is/
+https://github.com/alptheexplorer/epflLectureNotes
+https://functionalcs.github.io/curriculum/
+https://github.com/functionalCS
+
+https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_do_i_learn_topics_covered_by_a_typical_computer_science_degree.3F
+https://learnaifromscratch.github.io/
+https://www.seas.upenn.edu/~cis194/spring13/lectures.html
+http://toc.cryptobook.us/
+https://csml.club
+https://lms.umb.sk/pluginfile.php/111477/mod_page/content/5/TerenceTao_Analysis.I.Third.Edition.pdf
+https://math.unm.edu/~crisp/courses/math401/tao.pdf
+https://math.stackexchange.com/questions/373401/self-study-real-analysis-tao-or-rudin 
+https://learnaifromscratch.github.io/
+https://people.eecs.berkeley.edu/~jrs/61b/
+
 
 
 
