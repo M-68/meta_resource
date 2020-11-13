@@ -119,5 +119,6 @@
 - https://github.com/elyra-ai/elyra
 - https://github.com/quantumblacklabs/kedro
 - https://github.com/ahkarami/Deep-Learning-in-Production
+- https://github.com/zszazi/Deep-learning-in-cloud
 ## Privacy
 - https://github.com/brighter-ai/awesome-privacy-papers
