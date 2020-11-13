@@ -15,6 +15,8 @@ When in doubt open a issue.
 
 Or ask [here](https://chat.Whatsapp.Com/ff2qbyc7pmchaioylwxywv) come say Hi!
 
+Website Design Concept: https://www.dropbox.com/scl/fi/qvcdbctzpm88g122nfyxe/Website-Design.paper?dl=0&rlkey=bdcky24mlukupe4kuowh0x4fo 
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
