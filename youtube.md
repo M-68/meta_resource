@@ -161,7 +161,9 @@ https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8J58xLKBNFQFHRO3GrXxA9
 https://www.youtube.com/watch?v=7orQOW6fp2A&list=PLl0tHXI7SBjncgRrhL4DPEwDgUjUtk2_C&index=1
 https://www.youtube.com/watch?v=A2bFN3MyNDA&feature=youtu.be
 https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo 
+https://www.youtube.com/watch?v=PHm4bYziyug&list=PLAMniZX5MiiLXPrD4mpZ-O9oiwhev-5Uq&index=1
 
+https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ
 
 
 
