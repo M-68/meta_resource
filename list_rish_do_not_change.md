@@ -2095,7 +2095,9 @@ https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi19/onlinelectures.html
 https://github.com/CMU-17-356/ 
 http://rcmd.org/ts/
 https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213#slide=id.g2fbd5f3b50_4_67 
-  
+https://kennysong.github.io/adversarial.js/ 
+https://github.com/Unity-Technologies/ml-agents
+https://learn.unity.com/course/artificial-intelligence-for-beginners
 
 
 
