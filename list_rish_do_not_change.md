@@ -2098,9 +2098,8 @@ https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Ued
 https://kennysong.github.io/adversarial.js/ 
 https://github.com/Unity-Technologies/ml-agents
 https://learn.unity.com/course/artificial-intelligence-for-beginners
-
-
-
+http://www.cs.toronto.edu/~hinton/gradstuphd.html 
+https://github.com/theepiccode/Curated-Deep-Learning-Resources/blob/main/Must_Read_Papers.md
 
 
 
