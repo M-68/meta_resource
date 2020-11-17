@@ -2101,6 +2101,17 @@ https://learn.unity.com/course/artificial-intelligence-for-beginners
 http://www.cs.toronto.edu/~hinton/gradstuphd.html 
 https://github.com/theepiccode/Curated-Deep-Learning-Resources/blob/main/Must_Read_Papers.md
 https://pytorchlightning.ai/
+https://nbviewer.jupyter.org/github/Marigold/universal-portfolios/blob/master/modern-portfolio-theory.ipynb
+https://faculty.ucmerced.edu/mhyang/course/eecs275/matrix_computation.htm 
+https://scholar.google.ru/scholar?cluster=5254752863317146865 
+https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf 
+https://people.eecs.berkeley.edu/~jordan/ 
+https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/lectures/index.html 
+https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/00Indexhttp://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
+https://work.caltech.edu/telecourse.html 
+http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf 
+https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/lectures/index.html 
+
 
 
 
