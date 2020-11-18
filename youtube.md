@@ -161,7 +161,15 @@ https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8J58xLKBNFQFHRO3GrXxA9
 https://www.youtube.com/watch?v=7orQOW6fp2A&list=PLl0tHXI7SBjncgRrhL4DPEwDgUjUtk2_C&index=1
 https://www.youtube.com/watch?v=A2bFN3MyNDA&feature=youtu.be
 https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo 
+https://www.youtube.com/watch?v=PHm4bYziyug&list=PLAMniZX5MiiLXPrD4mpZ-O9oiwhev-5Uq&index=1
 
+https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ
+https://youtu.be/ulLx2iPTIcs
+https://youtu.be/98Xis1W1mMk
+https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9
+https://www.youtube.com/playlist?list=PLX2vGYjWbI0R08eWQkO7nQkGiicHAX7IX 
+https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd
+https://www.youtube.com/c/ProfGhristMath/playlists
 
 
 
