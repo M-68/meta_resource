@@ -1,4 +1,4 @@
-# Internships and Opportunities
+## Internships and Opportunities
 - https://www.bu.edu/summer/summer-study-internshi http://www.bu.edu/surf/
 - https://med.uc.edu/education/graduate-education/summer-undergraduate-research-fellowships
 - https://www.apa.org/education/undergrad/research-opportunities
@@ -9,6 +9,6 @@
 - https://www.mcgill.ca/engineering/students/undergraduate/research
 - http://amgenscholars.com/asia-program/
 - https://github.com/himahuja/Research-Internships-for-Undergraduates
-
+=======
 # Important Articles and Research Litrature
 https://www.cs.umd.edu/sites/default/files/scholarly_papers/PerathamW.pdf
