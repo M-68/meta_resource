@@ -2111,11 +2111,13 @@ https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/00Indexhttp://user
 https://work.caltech.edu/telecourse.html 
 http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf 
 https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/lectures/index.html 
+https://slideslive.com/38938675/xlxmert-paint-caption-and-answer-questions-with-multimodal-transformers
 
-
-
-
-
+https://danilorezende.com/wp-content/uploads/2020/07/ICML-2020-Tutorial-Slides.pdf
+https://stopa.io/post/269
+https://sites.google.com/new?ftv=1
+https://wiki.c2.com/?TuringComplete
+https://www.bbcmicrobot.com/
 
 
 
