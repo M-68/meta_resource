@@ -2119,6 +2119,8 @@ https://sites.google.com/new?ftv=1
 https://wiki.c2.com/?TuringComplete
 https://www.bbcmicrobot.com/
 
+http://www.cs.umd.edu/class/fall2020/cmsc828W/ 
+
 
 
 
