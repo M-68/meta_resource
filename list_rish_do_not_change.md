@@ -2120,7 +2120,19 @@ https://wiki.c2.com/?TuringComplete
 https://www.bbcmicrobot.com/
 
 http://www.cs.umd.edu/class/fall2020/cmsc828W/ 
-
+https://allenai.org/#projects 
+https://stopa.io/post/269?fbclid=IwAR3hTnOce3TSS1F_6Ha3NEyIsyXKCI8Qb5UoO9LrHmbK5pGtUMHRnA-gJbU 
+https://youtu.be/feAOZuID1HM
+https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwigmPWl8ZDtAhU-73MBHadxDCoQFjAAegQIBhAC&url=https%3A%2F%2Fweb.mit.edu%2Falexmv%2F6.037%2Fsicp.pdf&usg=AOvVaw1oh56aE7mvJyPVotsjzyEo
+https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
+https://computationalthinking.mit.edu/Fall20/
+https://mitpress.mit.edu/books/functional-differential-geometry
+https://haskellbook.com/
+https://softwarefoundations.cis.upenn.edu/current/index.html
+http://cs.brown.edu/courses/cs173/2012/
+https://lobste.rs/s/9o8lvk/books_written_style_similar_sicp
+https://www-cs-faculty.stanford.edu/~knuth/taocp.html
 
 
 
