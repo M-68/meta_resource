@@ -2133,7 +2133,7 @@ https://softwarefoundations.cis.upenn.edu/current/index.html
 http://cs.brown.edu/courses/cs173/2012/
 https://lobste.rs/s/9o8lvk/books_written_style_similar_sicp
 https://www-cs-faculty.stanford.edu/~knuth/taocp.html
-
+https://www.figma.com/resources/learn-design/ 
 
 
 

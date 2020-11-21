@@ -1,0 +1,14 @@
+
+
+
+
+
+
+Under development: https://github.com/EXYNOS-999/meta_resource 
+
+Organization: https://github.com/UROP-X
+
+
+ The aim of this group/repository is to centralize resources in Math, Computer Sciecne and Design. To do so, it builds off existing resources. Sometimes, such a meta resource already exists, in which case the website simply embeds it. Together, all the web pages in turn coalesce to form a meta-resource of meta-resources.
+ 
+ Inspiration from(read:copied):https://meta-meta-resources.org/
