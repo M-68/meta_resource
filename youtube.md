@@ -170,6 +170,7 @@ https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9
 https://www.youtube.com/playlist?list=PLX2vGYjWbI0R08eWQkO7nQkGiicHAX7IX 
 https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd
 https://www.youtube.com/c/ProfGhristMath/playlists
+https://www.youtube.com/watch?v=CRHKgOYXVe8&feature=emb_title 
 
 
 
