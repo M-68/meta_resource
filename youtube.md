@@ -171,7 +171,15 @@ https://www.youtube.com/playlist?list=PLX2vGYjWbI0R08eWQkO7nQkGiicHAX7IX
 https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd
 https://www.youtube.com/c/ProfGhristMath/playlists
 https://www.youtube.com/watch?v=CRHKgOYXVe8&feature=emb_title 
-
+https://youtu.be/FIroM06V2MA
+https://www.csail.mit.edu/research
+https://itp.nyu.edu/physcomp/labs/
+https://tisch.nyu.edu/itp/itp-resources
+http://creativecomputing.gse.harvard.edu/guide/curriculum.html
+https://itp.nyu.edu/classes/cc-f18/
+https://people.seas.harvard.edu/~cs224/spring17/index.html
+https://courses.csail.mit.edu/6.854/20/
+https://www.nytimes.com/interactive/2020/11/21/science/artificial-intelligence-fake-people-faces.html?smid=tw-share
 
 
 
