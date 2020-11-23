@@ -2149,9 +2149,8 @@ http://datasciencemasters.org/
 [8:11 PM, 11/22/2020] VIKRAM  SINGH: http://datasciencemasters.org/
 [8:12 PM, 11/22/2020] VIKRAM  SINGH: https://metacademy.org/
 https://ruder.io 
-
-
-
+https://www.rademakerlab.com/job-add 
+https://observablehq.com/@fil/the-observable-zealot
 
 
 
