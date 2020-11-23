@@ -2137,7 +2137,18 @@ https://www.figma.com/resources/learn-design/
 http://www.dear-data.com/all 
 https://github.com/mvillaloboz/open-source-cs-degree
 https://web.stanford.edu/class/cs106b/
-
+https://www.csail.mit.edu/research
+https://itp.nyu.edu/physcomp/labs/
+https://tisch.nyu.edu/itp/itp-resources
+http://creativecomputing.gse.harvard.edu/guide/curriculum.html
+https://itp.nyu.edu/classes/cc-f18/
+https://people.seas.harvard.edu/~cs224/spring17/index.html
+https://courses.csail.mit.edu/6.854/20/
+https://www.nytimes.com/interactive/2020/11/21/science/artificial-intelligence-fake-people-faces.html?smid=tw-share
+http://datasciencemasters.org/
+[8:11 PM, 11/22/2020] VIKRAM  SINGH: http://datasciencemasters.org/
+[8:12 PM, 11/22/2020] VIKRAM  SINGH: https://metacademy.org/
+https://ruder.io 
 
 
 
