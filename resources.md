@@ -2151,7 +2151,28 @@ http://datasciencemasters.org/
 https://ruder.io 
 https://www.rademakerlab.com/job-add 
 https://observablehq.com/@fil/the-observable-zealot
-
+https://distill.pub/ 
+https://irdta.eu/deeplearn2020/coursedescription/
+https://tanaypratap.com/ 
+https://archive.org/details/abw0362.0001.001.umich.edu/page/VIII/mode/2up
+https://www.wikiwand.com/en/Archimedes%27s_cattle_problem
+https://github.com/YadiraF/GAN  
+https://www.oacommunity.org/resources 
+http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF
+https://aimath.org/textbooks/
+https://drive.google.com/file/d/1e_9W8q9PL20iqOR-pfK89eILc_VtYaw1/view 
+https://www.youtube.com/watch?v=Jd0h015lYGE&feature=share&fbclid=IwAR1QeSzVhm1tNEoMlSA1aShvPIvhYkBcC6MQYCfii-uGDezdxdhhQg7v0Fg
+https://losslandscape.com/ 
+https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/00Index
+https://storage.googleapis.com/chimera-painter/index.html
+https://observablehq.com/
+https://catonmat.net/busy-beaver 
+https://observablehq.com/@observablehq/a-taste-of-observable 
+https://web.stanford.edu/~hastie/CASI/
+https://lexfridmanlibrary.com
+https://docs.google.com/presentation/d/1hj4-MQCxORoyED9oBw7uWdErnKgddKzQLQ1YrY5-8Hs/edit?usp=sharing 
+https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/?utm_campaign=Learning%20Posts&utm_content=145836696&utm_medium=social&utm_source=twitter&hss_channel=tw-3018841323
+https://github.com/linkedin/dagli
 
 
 
