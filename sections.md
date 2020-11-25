@@ -1,8 +1,8 @@
 Sections:
 
-1.Research Proposal Templates.
-2.Internships and Research Oppurtunities.
-3.Non Standard Courses.   //Ambiguous 
+1.Research Proposal Templates.      
+2.Internships and Research Oppurtunities.     
+3.Non Standard Courses.   //Ambiguous    
 4.Coursera,Edx and Easily Available Moocs.     //Ambiguous 
 5.Talks and Imp Conferences.        //Ambiguous 
 6.Books.  //sub-section
