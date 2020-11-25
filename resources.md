@@ -2173,6 +2173,7 @@ https://lexfridmanlibrary.com
 https://docs.google.com/presentation/d/1hj4-MQCxORoyED9oBw7uWdErnKgddKzQLQ1YrY5-8Hs/edit?usp=sharing 
 https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/?utm_campaign=Learning%20Posts&utm_content=145836696&utm_medium=social&utm_source=twitter&hss_channel=tw-3018841323
 https://github.com/linkedin/dagli
+https://github.com/commaai/openpilot 
 
 
 
