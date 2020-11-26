@@ -1,1 +1,2 @@
-for file in *.md ; do mv $file `echo $file | sed 's/\(.*\.\)md /\1csv/'` ; done
+for f in *.md; do mv -- "$f" "${f%.txt}.csv"; done
+
