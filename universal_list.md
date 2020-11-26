@@ -2429,7 +2429,12 @@ https://github.com/ebatty/MathToolsforNeuroscience
 
 
 
+//////////////////////////////////////////////BLOGS 
 
+
+https://research.google/teams/brain/pair/      
+https://bair.berkeley.edu/blog/ 
+ 
 
 
 
