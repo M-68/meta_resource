@@ -1,8 +1,7 @@
- ## Upcoming Conferences/Events/Submission Deadlines
  
  - https://github.com/skrish13/ml-contests-conf
 -  https://github.com/yzhao062/data-mining-conferences
- ## NLP 
+
 
  - https://github.com/mhagiwara/100-nlp-papers
  - https://github.com/madrugado/deep-learning-nlp-rl-papers
@@ -21,7 +20,7 @@
  - https://github.com/dmmiller612/lecture-summarizer
 -  https://github.com/idiap/fast-transformers
 
-## Semantic Search
+
 - https://github.com/NTMC-Community/awesome-neural-models-for-semantic-match
 - https://github.com/UKPLab/sentence-transformers
 - https://github.com/bojone/labse
@@ -43,18 +42,15 @@
 - https://github.com/PAIR-code/facets
 - https://github.com/jupyter-widgets/ipyleaflet
 
-## Explainablitity
+
 - https://github.com/marcotcr/lime
 - https://github.com/PAIR-code/lit
 - https://github.com/RasaHQ/whatlies
 - https://github.com/yzhao062/anomaly-detection-resources
 - https://github.com/PAIR-code/what-if-tool
 
-  
-## Researchers
 - https://www.quora.com/Who-are-the-most-respected-researchers-in-machine-learning-What-were-their-contributions
 
-## Computer Vision
 - https://github.com/microsoft/computervision-recipes
 - https://github.com/jbhuang0604/awesome-computer-vision
 - https://github.com/zck119/3dgan-release
@@ -67,10 +63,9 @@
 - https://github.com/aimagelab/meshed-memory-transformer
 - https://github.com/google-research/vision_transformer
 
-## Recommenders 
 - https://github.com/microsoft/recommenders
 
-## MultiModal
+
 - https://github.com/pliang279/awesome-multimodal-ml
 - https://github.com/vector-ai/vectorhub
 - https://github.com/Rudrabha/Lip2Wav
@@ -84,7 +79,6 @@
 - https://github.com/qmlcode/qml
 
 
-## Awesome
 - https://github.com/huggingface/transformers
 - https://github.com/ThilinaRajapakse/simpletransformers
 - https://github.com/lvwerra/trl
@@ -103,11 +97,9 @@
 - https://github.com/yassouali/awesome-semi-supervised-learning
 - https://github.com/microsoft/MMdnn 
 
-## Zero Shot Learning
 - https://github.com/sbharadwajj/awesome-zero-shot-learning
 
 
-## ML Production / Ops
 - https://github.com/alirezadir/Production-Level-Deep-Learning
 - https://github.com/chiphuyen/machine-learning-systems-design
 - https://github.com/cortexlabs/cortex
@@ -120,5 +112,7 @@
 - https://github.com/quantumblacklabs/kedro
 - https://github.com/ahkarami/Deep-Learning-in-Production
 - https://github.com/zszazi/Deep-learning-in-cloud
-## Privacy
+
+
+
 - https://github.com/brighter-ai/awesome-privacy-papers
