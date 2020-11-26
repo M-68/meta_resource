@@ -1,0 +1,1 @@
+for file in *.md ; do mv $file `echo $file | sed 's/\(.*\.\)md /\1csv/'` ; done
