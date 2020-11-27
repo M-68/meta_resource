@@ -158,6 +158,8 @@
 =======
 # Important Articles and Research Litrature
 https://www.cs.umd.edu/sites/default/files/scholarly_papers/PerathamW.pdf
+https://github.com/NiuTrans/ABigSurvey
+https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
 
 
