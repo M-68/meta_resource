@@ -135,7 +135,20 @@ Kleinberg, J., & Tardos, E.
 
 
 
-5.  Algorithms Unlocked  
+5.  Algorithms Unlocked
+
+Cormen, T. H.. “Algorithms Unlocked.” (2013). ISBN: 9780262518802 240 pp 
+
+
+For anyone who has ever wondered how computers solve problems, an engagingly written guide for nonexperts to the basics of computer algorithms.
+
+Have you ever wondered how your GPS can find the fastest way to your destination, selecting one route from seemingly countless possibilities in mere seconds? How your credit card account number is protected when you make a purchase over the Internet? The answer is algorithms. And how do these mathematical formulations translate themselves into your GPS, your laptop, or your smart phone? This book offers an engagingly written guide to the basics of computer algorithms. In Algorithms Unlocked, Thomas Cormen—coauthor of the leading college textbook on the subject—provides a general explanation, with limited mathematics, of how algorithms enable computers to solve problems.
+
+https://mitpress.mit.edu/books/algorithms-unlocked
+
+
+Thomas H. Cormen
+
 
 Math 
 
