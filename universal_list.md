@@ -155,6 +155,7 @@
 - https://www.mcgill.ca/engineering/students/undergraduate/research
 - http://amgenscholars.com/asia-program/
 - https://github.com/himahuja/Research-Internships-for-Undergraduates
+- https://www.cylab.cmu.edu/research/blockchain/research.html
 =======
 # Important Articles and Research Litrature
 https://www.cs.umd.edu/sites/default/files/scholarly_papers/PerathamW.pdf
@@ -211,6 +212,10 @@ https://archive.ics.uci.edu/ml/datasets.php
 https://www.cs.utexas.edu/~mooney/gnlp/
 https://pair-code.github.io/facets/
 https://storage.googleapis.com/openimages/web/factsfigures.html
+https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource
+https://info.umkc.edu/drbanderson/establishing-causality/
+
+
 
 
 
@@ -491,12 +496,12 @@ https://github.com/mikesprague/udacity-nanodegrees
    https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
    https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
 
-
+1
         
 
 ## Datasets
 
-
+https://cancer.sanger.ac.uk/cosmic
 ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/
 ftp://ftp.nyxdata.com/
 ftp://nhtsa.gov/FARS/
@@ -2087,7 +2092,7 @@ https://www.reddit.com/r/learnprogramming/comments/bu6645/cornells_entire_machin
 https://github.com/alptheexplorer/epflLectureNotes
 https://functionalcs.github.io/curriculum/
 https://github.com/functionalCS
-
+https://machinelearningflashcards.com/
 https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_do_i_learn_topics_covered_by_a_typical_computer_science_degree.3F
 https://learnaifromscratch.github.io/
 https://www.seas.upenn.edu/~cis194/spring13/lectures.html
