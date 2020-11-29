@@ -1,9 +1,30 @@
 ////////////////////////////////////////////////////ANKIT 
-
+ 
  ## Upcoming Conferences/Events/Submission Deadlines
  
  - https://github.com/skrish13/ml-contests-conf
--  https://github.com/yzhao062/data-mining-conferences
+ -  https://github.com/yzhao062/data-mining-conferences
+ ## Intro to C.S 
+ -https://tealsk12.gitbook.io/intro-cs/
+ -https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0
+ -https://learn.saylor.org/course/CS101
+ -https://www.khanacademy.org/computing/computer-science
+ -https://www.udacity.com/course/introduction-to-python--ud1110
+ -https://cs.nyu.edu/dynamic/courses/catalog/
+ -https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-111-introduction-to-computer-science              -         
+ -https://introcs.cs.princeton.edu/java/home/
+ -https://studio.code.org/courses?view=teacher
+ -https://www.carleton.edu/computer-science/courses/
+ -https://www2.eecs.berkeley.edu/Courses/CS/
+ -https://makecode.microbit.org/courses/csintro
+ -https://teachyourselfcs.com/
+ -https://chortle.ccsu.edu/cs151/cs151java.html
+ -https://cs.uiowa.edu/resources/course-descriptions
+ -https://techdevguide.withgoogle.com/resources/intro-to-computer-science-udacity/
+ -https://www.cs.washington.edu/education/courses/
+ -https://www.ucsd.edu/catalog/courses/CSE.html
+ -https://engineering.und.edu/academics/electrical-and-computer-science/courses-computer.html 
+ -https://tealsk12.gitbook.io/intro-cs
  ## NLP 
 
  - https://github.com/mhagiwara/100-nlp-papers
