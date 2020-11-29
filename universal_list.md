@@ -1,15 +1,9 @@
 ////////////////////////////////////////////////////ANKIT 
 
-  ## Upcoming Conferences/Events/Submission Deadlines
+ ## Upcoming Conferences/Events/Submission Deadlines
+ 
  - https://github.com/skrish13/ml-contests-conf
 -  https://github.com/yzhao062/data-mining-conferences
-- https://elvissaravia.substack.com/p/getting-started-with-applied-ml-research
-
-## Write better papers
-- http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf
-- https://dspace.mit.edu/handle/1721.1/41487
-- https://github.com/dair-ai/awesome-research-proposals-guide
-- https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/
  ## NLP 
 
  - https://github.com/mhagiwara/100-nlp-papers
@@ -27,8 +21,8 @@
  - https://github.com/microsoft/nlp-recipes
  - https://github.com/makcedward/nlp
  - https://github.com/dmmiller612/lecture-summarizer
- - https://github.com/idiap/fast-transformers
-- https://github.com/VinAIResearch/BERTweet
+-  https://github.com/idiap/fast-transformers
+
 ## Semantic Search
 - https://github.com/NTMC-Community/awesome-neural-models-for-semantic-match
 - https://github.com/UKPLab/sentence-transformers
@@ -41,7 +35,6 @@
 - https://github.com/UROP-X/context_rank
 - https://github.com/jina-ai/jina
 - https://github.com/NTMC-Community/MatchZoo
-- https://github.com/neuml/txtai
 
 
 ## DataViz
@@ -75,7 +68,7 @@
 - https://github.com/Yang7879/3D-BoNet
 - https://github.com/aimagelab/meshed-memory-transformer
 - https://github.com/google-research/vision_transformer
-- https://github.com/enochkan/awesome-gans-and-deepfakes
+
 ## Recommenders 
 - https://github.com/microsoft/recommenders
 
@@ -85,8 +78,6 @@
 - https://github.com/Rudrabha/Lip2Wav
 - https://github.com/Rudrabha/LipGAN
 - https://github.com/Rudrabha/Wav2Lip
-- https://github.com/gradslam/gradslam
-
 
 ## Quantum Machine Learning 
 - https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
@@ -113,14 +104,12 @@
 - https://github.com/deepklarity/jupyter-text2code
 - https://github.com/yassouali/awesome-semi-supervised-learning
 - https://github.com/microsoft/MMdnn 
-- https://github.com/lucidrains/mixture-of-experts
 
 ## Zero Shot Learning
 - https://github.com/sbharadwajj/awesome-zero-shot-learning
 
 
 ## ML Production / Ops
-- https://elvissaravia.substack.com/p/my-recommendations-to-learn-machine…
 - https://github.com/alirezadir/Production-Level-Deep-Learning
 - https://github.com/chiphuyen/machine-learning-systems-design
 - https://github.com/cortexlabs/cortex

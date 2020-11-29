@@ -1,4 +1,33 @@
-Sections:
+SPECIFIC_TOPIC/
+
+    learning resources/
+    tools+projects/
+        
+    opportunities/
+
+    people+researchers/
+
+    conferences+events/
+        workshops+talks/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 1.Research Proposal Templates.      
 2.Internships and Research Oppurtunities.     
