@@ -17,8 +17,43 @@ SPECIFIC_TOPIC/Introduction to Computer Science
 
 
 2. Data Structures and Algorithms by Alfred V. Aho Jeffrey D. Ullman John E. Hopcroft(1983-01-11) 
+
+
+
 3. Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science 
+
+
+
 4. The Art of Computer Programming
+
+
+Knuth, D. E. (1969). The Art of computer programming. Reading, Mass: Addison-Wesley.
+
+
+
+The bible of all fundamental algorithms and the work that taught many of today's software developers most of what they know about computer programming.
+
+–Byte, September 1995
+
+I can't begin to tell you how many pleasurable hours of study and recreation they have afforded me! I have pored over them in cars, restaurants, at work, at home... and even at a Little League game when my son wasn't in the line-up.
+
+–Charles Long
+
+If you think you're a really good programmer... read [Knuth's] Art of Computer Programming... You should definitely send me a resume if you can read the whole thing.
+
+–Bill Gates
+
+It's always a pleasure when a problem is hard enough that you have to get the Knuths off the shelf. I find that merely opening one has a very useful terrorizing effect on computers.
+
+–Jonathan Laventhol
+
+
+
+
+
+
+
+
 5. Robert Sedgewick and Kevin Wayne’s Algorithms 
 6. Algorithm Design, Jon Kleinberg
  
