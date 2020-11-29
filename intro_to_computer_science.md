@@ -2,7 +2,8 @@ SPECIFIC_TOPIC/Introduction to Computer Science
 
     ## learning resources/
     
-    
+        https://cs50.harvard.edu/college/2020/fall/
+
     
     
     
@@ -16,6 +17,7 @@ SPECIFIC_TOPIC/Introduction to Computer Science
     
     
     ## tools+projects/
+        https://scratch.mit.edu/users/cs50/
         
     
     
@@ -32,6 +34,7 @@ SPECIFIC_TOPIC/Introduction to Computer Science
     
     
     ## opportunities/
+        https://www.edx.org/macquarie-scholarship-application
 
     
     
@@ -64,6 +67,7 @@ SPECIFIC_TOPIC/Introduction to Computer Science
     
     
     ## people+researchers/
+        https://cs.harvard.edu/malan/
 
     
     
@@ -98,6 +102,9 @@ SPECIFIC_TOPIC/Introduction to Computer Science
     
     ## conferences+events/
         ## workshops+talks/ 
+        https://www.youtube.com/watch?v=gQ1y5NUD_RI
+
+
 
 
 
