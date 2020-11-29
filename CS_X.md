@@ -3,8 +3,9 @@ SPECIFIC_TOPIC/Introduction to Computer Science
 
 ### Books
 
-CLRS
-
+1. CLRS
+2. Data Structures and Algorithms by Alfred V. Aho Jeffrey D. Ullman John E. Hopcroft(1983-01-11) 
+3. 
 
 
 
