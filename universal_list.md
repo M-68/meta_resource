@@ -2096,7 +2096,7 @@ https://github.com/AllenInstitute
 https://math.stackexchange.com/questions/373401/self-study-real-analysis-tao-or-rudin
 https://mml-book.github.io/
 https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture 
-
+https://github.com/dipakkr/A-to-Z-Resources-for-Students#student-benefits-and-packs-v
 http://cs.brown.edu/courses/csci1310/2020/schedule.html
 http://www.cs.cornell.edu/courses/cs3410/2019sp/schedule/
 https://cs61c.org/su20/
@@ -2110,6 +2110,8 @@ https://algs4.cs.princeton.edu/home/
 https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule 
 6.004 2015-2017 https://computationstructures.org/index.html
 6.004 fall 2019 https://6004.mit.edu/web/fall19FA19/labs
+
+https://studio.code.org/courses
 related HN thread: https://news.ycombinator.com/item?id=22056567
 https://foundations-of-applied-mathematics.github.io/ 
 http://cs229.stanford.edu/proj2020spr/ 
