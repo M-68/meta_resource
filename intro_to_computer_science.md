@@ -1,7 +1,6 @@
 SPECIFIC_TOPIC/Introduction to Computer Science
 
     ## learning resources/
-    
         https://cs50.harvard.edu/college/2020/fall/
 
     
@@ -102,7 +101,10 @@ SPECIFIC_TOPIC/Introduction to Computer Science
     
     ## conferences+events/
         ## workshops+talks/ 
+        https://www.youtube.com/watch?v=7BObROUFCsE
         https://www.youtube.com/watch?v=gQ1y5NUD_RI
+
+
 
 
 
@@ -124,3 +126,4 @@ SPECIFIC_TOPIC/Introduction to Computer Science
     
     
     ## Refereneces 
+     
