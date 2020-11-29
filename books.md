@@ -1,6 +1,32 @@
 SPECIFIC_TOPIC/Introduction to Computer Science
 
 
+## Instructions
+PASTE EVERYTHING IN ONE SECTION OF THIS FILE AS DONE BELOW(Formatting not requited)
+1. Find world renowned algorithm/DS books 
+2. Find APA Reference of the Book 
+3. Find relatively long summary of the book 400-800 words 
+4. Find 2 high resolution Photos of the Cover(Simple SCan of the Cover)
+5. Find meta-data like the Link to the book(published:paid) publisher website if not then Amazon.COM as last resort. Find Publishing date.
+Find ISBN Number of all volumes. Add your name to at the end as Contributor: XYZ 
+6. Proof-read and create pull request.
+
+
+
+
+
+
+### To-Do @Rishabh
+[ ] Add multiple high-resolution pictures to the Books 
+[ ] Check for errors in current entries 
+[ ] Fix Airtable and fields and formula tab 
+[ ] Define scope of the Books and catagories 
+[ ] Remove unecessary fields 
+
+
+
+
+
 ### Books
 
 1. Introduction to Computer programming CLRS
