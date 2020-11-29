@@ -1,3 +1,0 @@
-https://www.youtube.com/watch?v=2IJPw_XsJkY&feature=emb_title 
-https://www.artxcode.io/projects 
-https://ars.electronica.art/keplersgardens/en/download/
