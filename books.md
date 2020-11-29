@@ -19,8 +19,28 @@ SPECIFIC_TOPIC/Introduction to Computer Science
 2. Data Structures and Algorithms by Alfred V. Aho Jeffrey D. Ullman John E. Hopcroft(1983-01-11) 
 
 
+Alfred V. Aho, John E. Hopcroft, and Jeffrey Ullman. 1983. <i>Data Structures and Algorithms</i> (1st. ed.). Addison-Wesley Longman Publishing Co., Inc., USA.
+
+
+This book presents the data structures and algorithms that underpin much of today's computer programming. The basis of this book is the material contained in the first six chapters of our earlier work, The Design and Analysis of Computer Algorithms. We have expanded that coverage and have added material on algorithms for external storage and memory management. As a consequence, this book should be suitable as a text for a first course on data structures and algorithms. The only prerequisite we assume is familiarity with some high-level programming language such as Pascal. 
+
+
+Alfred V. Aho Jeffrey D. Ullman John E. Hopcroft
+
+
+
 
 3. Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science 
+
+Forbus, K. (1985). Structure and Interpretation of Computer Programs, by H. Abelson, G.J. Sussman with J. Sussman: Artificial Intelligence.
+
+
+
+In this revised and updated edition, the editors have integrated a completely new set of contributions from the leading researchers in the field to describe the latest research in evolutionary medicine, providing a fresh summary of this rapidly expanding field 10 years after its predecessor was first compiled. It continues to adopt a broad approach to the subject, drawing on medically relevant research from evolutionary genetics, human behavioral ecology, evolutionary microbiology (especially experimental evolution of virulence and resistance), the evolution of aging and degenerative disease, and other aspects of biology or medicine where evolutionary approaches make important contributions. 
+
+https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html 
+
+H. Abelson, G.J. Sussman with J. Sussman 
 
 
 
@@ -55,9 +75,36 @@ It's always a pleasure when a problem is hard enough that you have to get the Kn
 
 
 5. Robert Sedgewick and Kevin Wayne’s Algorithms 
+
+
+Sedgewick, R., Wayne, K. (2011). Algorithms, 4th Edition.. Addison-Wesley. ISBN: 978-0-321-57351-3
+\
+
+This fourth edition of Robert Sedgewick and Kevin Wayne’s Algorithms is the leading textbook on algorithms today and is widely used in colleges and universities worldwide. This book surveys the most important computer algorithms currently in use and provides a full treatment of data structures and algorithms for sorting, searching, graph processing, and string processing--including fifty algorithms every programmer should know. In this edition, new Java implementations are written in an accessible modular programming style, where all of the code is exposed to the reader and ready to use.
+
+ The algorithms in this book represent a body of knowledge developed over the last 50 years that has become indispensable, not just for professional programmers and computer science students but for any student with interests in science, mathematics, and engineering, not to mention students who use computation in the liberal arts.
+
+
+ https://www.amazon.com/gp/product/032157351X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=algs4-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=032157351X
+
+https://www.amazon.com/Algorithms-Part-II-Robert-Sedgewick-ebook/dp/B00I50LKWY
+
+
+
+Sedgewick, R., Wayne, K.
+
+
+
+
 6. Algorithm Design, Jon Kleinberg
  
+Kleinberg, J., & Tardos, E. (2006). Algorithm design. Boston: Pearson/Addison-Wesley.
 
+Algorithm Design introduces algorithms by looking at the real-world problems that motivate them. The book teaches students a range of design and analysis techniques for problems that arise in computing applications. The text encourages an understanding of the algorithm design process and an appreciation of the role of algorithms in the broader field of computer science.
+
+https://www.amazon.com/exec/obidos/ASIN/0321295358/acmorg-20
+
+Kleinberg, J., & Tardos, E.
 
 
 
