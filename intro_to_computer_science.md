@@ -1,11 +1,100 @@
-SPECIFIC_TOPIC/
+SPECIFIC_TOPIC/Introduction to Computer Science
 
-    learning resources/
-    tools+projects/
+    ## learning resources/
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ## tools+projects/
         
-    opportunities/
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ## opportunities/
 
-    people+researchers/
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ## people+researchers/
 
-    conferences+events/
-        workshops+talks/ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ## conferences+events/
+        ## workshops+talks/ 
