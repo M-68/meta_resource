@@ -3,7 +3,7 @@ SPECIFIC_TOPIC/Introduction to Computer Science
 
 ## Instructions
 PASTE EVERYTHING IN ONE SECTION OF THIS FILE AS DONE BELOW(Formatting not requited)
-1. Find world renowned algorithm/DS books 
+1. Find world renowned algorithm/DS books (Discuss on Whatsapp first)
 2. Find APA Reference of the Book 
 3. Find relatively long summary of the book 400-800 words 
 4. Find 2 high resolution Photos of the Cover(Simple SCan of the Cover)
