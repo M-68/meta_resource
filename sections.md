@@ -2,15 +2,26 @@ SPECIFIC_TOPIC/
 
     learning resources/
     tools+projects/
-        
     opportunities/
-
     people+researchers/
-
     conferences+events/
         workshops+talks/ 
+    references/
 
 
+
+catagories of information available
+
+books 
+research papers 
+blogs/ text content 
+youtube videos 
+courses 
+course handouts
+projects 
+tools 
+podcasts 
+misc 
 
 
 
