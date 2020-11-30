@@ -7,8 +7,8 @@ This branch has been made for the purpose of quick ,smooth deployment to Airtabl
 
 ### Books & Contributors
 
-1. Algorithms Unlocked   @Ankit 
-
+1. Algorithms Unlocked  Thomas.H. Cormen @Ankit 
+2. Introduction to the Analysis of Algorithms Sedgewick, Robert, Flajolet, Philippe   @Rishabh
 
 _(Add you names with Books you want to cover)_
 
