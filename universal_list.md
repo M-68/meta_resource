@@ -2469,6 +2469,7 @@ https://github.com/yenchenlin/awesome-NeRF
 https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/ 
 https://aap.cornell.edu/academics/architecture 
 https://openlearning.mit.edu/courses-programs/open-learning-library
+https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY 
 
 
 
