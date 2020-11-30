@@ -2468,7 +2468,7 @@ https://neuronline.sfn.org/training?type={BBEC89EB-9633-4FBC-85BE-287D01F7A9C9}
 https://github.com/yenchenlin/awesome-NeRF 
 https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/ 
 https://aap.cornell.edu/academics/architecture 
-
+https://openlearning.mit.edu/courses-programs/open-learning-library
 
 
 
