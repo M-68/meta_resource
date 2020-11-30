@@ -24,8 +24,10 @@ Find ISBN Number of all volumes. Add your name to at the end as Contributor: XYZ
 [ ] Remove unecessary fields 
 [ ] Sync order of Books w/ Airtable 
 [ ] Add tags to books in Airtable / sort|search by  tags
-
-
+[ ] Add corresponding resources in notes of each book.
+[ ]Work out Edition System or eliminate
+[ ] Universal Citation system/ Change APA ref system 
+[ ] Warning on Citation System 
 
 
 
@@ -158,6 +160,47 @@ https://mitpress.mit.edu/books/algorithms-unlocked
 
 
 Thomas H. Cormen
+
+
+
+
+
+
+
+
+6. 
+
+An introduction to the analysis of algorithms
+
+https://airtable.com/shrMDYFv3uFlFxAAY
+
+978-0-201-40009-0
+
+Robert Sedgewick and Philippe Flajolet. 1996. An introduction to the analysis of algorithms. Addison-Wesley Longman Publishing Co., Inc., USA.
+
+Robert Sedgewick, Philippe Flajolet
+
+
+
+Despite growing interest, basic information on methods and models for mathematically analyzing algorithms has rarely been directly accessible to practitioners, researchers, or students. An Introduction to the Analysis of Algorithms, Second Edition, organizes and presents that knowledge, fully introducing primary techniques and results in the field.
+
+ Robert Sedgewick and the late Philippe Flajolet have drawn from both classical mathematics and computer science, integrating discrete mathematics, elementary real analysis, combinatorics, algorithms, and data structures. They emphasize the mathematics needed to support scientific studies that can serve as the basis for predicting algorithm performance and for comparing different algorithms on the basis of performance.
+
+Techniques covered in the first half of the book include recurrences, generating functions, asymptotics, and analytic combinatorics. Structures studied in the second half of the book include permutations, trees, strings, tries, and mappings. Numerous examples are included throughout to illustrate applications to the analysis of algorithms that are playing a critical role in the evolution of our modern computational infrastructure.
+
+
+"[Sedgewick and Flajolet] are not only worldwide leaders of the field, they also are masters of exposition. I am sure that every serious computer scientist will find this book rewarding in many ways."
+
+―From the Foreword by Donald E. Knuth 
+
+https://www.pearson.com/us/higher-education/program/Sedgewick-Introduction-to-the-Analysis-of-Algorithms-An-2nd-Edition/PGM152286.html
+
+978-0-201-40009-0
+
+
+
+
+
 
 
 Math 
