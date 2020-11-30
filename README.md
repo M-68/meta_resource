@@ -8,9 +8,15 @@ This branch has been made for the purpose of quick ,smooth deployment to Airtabl
 ### Books & Contributors
 
 1. Algorithms Unlocked  Thomas.H. Cormen @Ankit 
+Published: https://airtable.com/tblSvfFHlLU9PBpHw/viwpJK73lwMBJvrJb/recqmVR5d3B3MEsey
+
+
+
 2. Introduction to the Analysis of Algorithms Sedgewick, Robert, Flajolet, Philippe   @Rishabh
 
+
 _(Add you names with Books you want to cover)_
+Resource for finding books: https://mitpress.mit.edu/topics/computer-science 
 
 ## Instructions to contribute 
 
