@@ -3,7 +3,7 @@ SPECIFIC_TOPIC/Introduction to Computer Science
 
 ## Instructions
 PASTE EVERYTHING IN ONE SECTION OF THIS FILE AS DONE BELOW(Formatting not requited)
-1. Find world renowned algorithm/DS books (Discuss on Whatsapp first)
+1. Find world renowned algorithm/DS books (Discuss on Whatsapp first) Format Book, Edition(see other examples)
 2. Find APA Reference of the Book 
 3. Find relatively long summary of the book 400-800 words 
 4. Find 2 high resolution Photos of the Cover(Simple SCan of the Cover)
@@ -27,6 +27,7 @@ Find ISBN Number of all volumes. Add your name to at the end as Contributor: XYZ
 
 
 
+
 ### Books
 
 1. Introduction to Computer programming CLRS
@@ -45,7 +46,7 @@ Find ISBN Number of all volumes. Add your name to at the end as Contributor: XYZ
 2. Data Structures and Algorithms by Alfred V. Aho Jeffrey D. Ullman John E. Hopcroft(1983-01-11) 
 
 
-Alfred V. Aho, John E. Hopcroft, and Jeffrey Ullman. 1983. <i>Data Structures and Algorithms</i> (1st. ed.). Addison-Wesley Longman Publishing Co., Inc., USA.
+Alfred V. Aho, John E. Hopcroft, and Jeffrey Ullman. 1983. <i>Data Structures and Algorithms (1st. ed.). Addison-Wesley Longman Publishing Co., Inc., USA.
 
 
 This book presents the data structures and algorithms that underpin much of today's computer programming. The basis of this book is the material contained in the first six chapters of our earlier work, The Design and Analysis of Computer Algorithms. We have expanded that coverage and have added material on algorithms for external storage and memory management. As a consequence, this book should be suitable as a text for a first course on data structures and algorithms. The only prerequisite we assume is familiarity with some high-level programming language such as Pascal. 
@@ -135,14 +136,23 @@ Kleinberg, J., & Tardos, E.
 
 
 
-5.  Algorithms Unlocked
+5.  Algorithms Unlocked  //////which edition?
 
-Cormen, T. H.. “Algorithms Unlocked.” (2013). ISBN: 9780262518802 240 pp 
+Cormen, T. H. (2013). Algorithms unlocked.
+
+
+ISBN: 9780262518802 (/////Which edition?)
 
 
 For anyone who has ever wondered how computers solve problems, an engagingly written guide for nonexperts to the basics of computer algorithms.
 
 Have you ever wondered how your GPS can find the fastest way to your destination, selecting one route from seemingly countless possibilities in mere seconds? How your credit card account number is protected when you make a purchase over the Internet? The answer is algorithms. And how do these mathematical formulations translate themselves into your GPS, your laptop, or your smart phone? This book offers an engagingly written guide to the basics of computer algorithms. In Algorithms Unlocked, Thomas Cormen—coauthor of the leading college textbook on the subject—provides a general explanation, with limited mathematics, of how algorithms enable computers to solve problems.
+
+
+---------
+
+//////Find professional summary 
+
 
 https://mitpress.mit.edu/books/algorithms-unlocked
 
