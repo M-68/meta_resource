@@ -137,12 +137,12 @@ Kleinberg, J., & Tardos, E.
 
 
 
-5.  Algorithms Unlocked  //////which edition?
+5.  Algorithms Unlocked, 2013 
 
 Cormen, T. H. (2013). Algorithms unlocked.
 
 
-ISBN: 9780262518802 (/////Which edition?)
+ISBN: 9780262518802 , 2013
 
 
 For anyone who has ever wondered how computers solve problems, an engagingly written guide for nonexperts to the basics of computer algorithms.
@@ -152,7 +152,6 @@ Have you ever wondered how your GPS can find the fastest way to your destination
 
 ---------
 
-//////Find professional summary 
 
 
 https://mitpress.mit.edu/books/algorithms-unlocked
