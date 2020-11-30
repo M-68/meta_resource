@@ -22,7 +22,8 @@ Find ISBN Number of all volumes. Add your name to at the end as Contributor: XYZ
 [ ] Fix Airtable and fields and formula tab 
 [ ] Define scope of the Books and catagories 
 [ ] Remove unecessary fields 
-
+[ ] Sync order of Books w/ Airtable 
+[ ] Add tags to books in Airtable / sort|search by  tags
 
 
 
