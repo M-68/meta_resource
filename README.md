@@ -1,6 +1,6 @@
 # deploy branch
 
-This is the deploy branch. The current-default branch , **master** is not the default currently.
+Current working/defaut branch: **deploy**, **master** is not the default currently.
 This branch has been made for the purpose of quick ,smooth deployment to Airtable.
 
 

@@ -2464,6 +2464,10 @@ https://github.com/ebatty/MathToolsforNeuroscience
 
 https://research.google/teams/brain/pair/      
 https://bair.berkeley.edu/blog/ 
+https://neuronline.sfn.org/training?type={BBEC89EB-9633-4FBC-85BE-287D01F7A9C9}
+https://github.com/yenchenlin/awesome-NeRF 
+https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/ 
+https://aap.cornell.edu/academics/architecture 
 
 
 
