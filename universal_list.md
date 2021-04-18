@@ -441,7 +441,7 @@ Talks/Tutorials:
 - [Deep Reinforcement Learning Slides @ NIPS 2016](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)
 - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/user/introduction.html)
 - [Advanced Deep Learning & Reinforcement Learning (UCL 2018, DeepMind)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
--[Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 https://github.com/ijelliti/Deeplearning.ai-Natural-Language-Processing-Specialization
 
 Other Projects:
@@ -459,13 +459,9 @@ Selected Papers:
 - [Asynchronous Methods for Deep Reinforcement Learning (2016-02)](http://arxiv.org/abs/1602.01783)
 - [Deep Reinforcement Learning from Self-Play in Imperfect-Information Games (2016-03)](http://arxiv.org/abs/1603.01121)
 - [Mastering the game of Go with deep neural networks and tree search](https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf)
-
-
-
 - [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/RLbook2018.pdf)
 - [David Silver's Reinforcement Learning Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - https://www.visualdata.io/discovery
-- 
 - https://guides.library.cmu.edu/machine-learning/datasets
 - https://bdd-data.berkeley.edu
 - https://ischoolonline.berkeley.edu/blog/open-data-sets/
@@ -479,15 +475,12 @@ Selected Papers:
 - https://lionbridge.ai/datasets/the-best-25-datasets-for-natural-language-processing/
 - https://www.dataquest.io/blog/free-datasets-for-projects/
 - https://github.com/manfreddiaz/awesome-autonomous-vehicles#datasets
-- 
 - https://cloud.google.com/public-datasets/
 - https://github.com/dangkhoasdc/awesome-ai-residency
 - https://github.com/ananyaarun/deeplearning-biology
 - https://github.com/ananyaarun/deeplearning-biology
-- 
 - https://mitibmwatsonailab.mit.edu/research/blog/clevrer-the-first-video-dataset-for-neuro-symbolic-reasoning/
 - https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
-- 
 - https://research.google/teams/brain/pair/
 - https://www.elementsofai.com/eu2019fi
 - https://www.goodreads.com/book/show/17986418-naked-statistics
@@ -1380,17 +1373,11 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://neuronline.sfn.org/scientific-research/machine-learning-in-neuroscience-fundamentals-and-possibilities
 - https://wcarvalho.github.io/ML-Brain-Resources/
 - https://www.simonsfoundation.org/collaborations/global-brain/online-resources-for-systems-and-computational-neuroscience/
-- 
-- 
--     
-- 
-- 
 - https://www.photon-ai.com/enigma_brainage
 - https://www.bradyneal.com/causal-inference-course
 - https://science.sciencemag.org/content/369/6507/eaay9792
 - https://ml-jku.github.io/hopfield-layers/
 - https://summerschooldresden.de/
-- 
 - https://untitled-ai.github.io/understanding-self-supervised-contrastive-learning.html
 - https://learn-neuroimaging.github.io/tutorials-and-resources/
 - https://pages.awscloud.com/GLOBAL-other-LN-accelerated-computing-free-trial-2020-interest.html
@@ -1403,7 +1390,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - http://www.wolfram.com/notebooks/
 - https://elifesciences.org/labs/dc5acbde/welcome-to-a-new-era-of-reproducible-publishing
 - http://distill.pub/
-- 
 - https://nasa.tumblr.com/post/627071808839041024/the-search-for-starless-planets?linkId=97922172
 - https://listart.mit.edu/public-art-map
 - https://www.epfl.ch/education/continuing-education/non-certifying-continuing-education/
@@ -1415,23 +1401,17 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://www.facebook.com/100001650615045/posts/3310312925700362/?extid=ZiJjFm2sA0Yqi8jx&d=n
 - https://www.facebook.com/groups/trust.biologist/permalink/1415183942008229/
 - https://human.capital/deltafellowship
-- 
 - https://www.nserc-crsng.gc.ca/Innovate-Innover/COVID-19/challenges-defis_eng.asp
 - https://covid19resources.ca/index.html
 - https://covid19resources.ca/expertise.html
 - https://magazines-static.raspberrypi.org/issues/full_pdfs/000/000/405/original/HW_13_Digital_Edition_V2.pdf?1591606147
-- 
 - https://github.com/sshkhr/awesome-mlss/blob/master/README.md
-- 
-- 
 - https://www.jpl.nasa.gov/news/news.php?feature=7637
 - https://www.technologyreview.com/2020/04/09/998979/radio-corona-apr-10-shion-lim-on-prospects-for-covid-19-diagnostics-treatments-and-vaccines/
 - https://www.quantamagazine.org/finally-a-problem-that-only-quantum-computers-will-ever-be-able-to-solve-20180621/
 - https://theaisummer.com/gan-computer-vision/
 - https://curie.fr/landing/ai4curie
 - https://ai.googleblog.com/2020/04/advancing-self-supervised-and-semi.html?m=1
-- 
-- 
 - https://www.facebook.com/118107518236480/posts/2750804638300075/?d=n
 - https://www.mitpressjournals.org/doi/pdf/10.1162/978-0-262-31709-2-ch033
 - https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark
@@ -1442,10 +1422,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - http://lavazza.captivsales.com/
 - https://www.futurelearn.com/courses/introduction-to-bacterial-genomics/5/steps/657536
 - https://science.nasa.gov/citizenscience
-- 
-- 
-- 
-- 
 - https://m.youtube.com/watch?v=3jv_z9GRKqY&feature=youtu.be&d=n
 - https://www.facebook.com/6454/posts/10111694328259221/?d=n
 - https://blog.airtable.com/introducing-airtable-for-students/
@@ -1468,9 +1444,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://www.space.com/nasa-venus-rover-challenge-aree.html
 - https://www.herox.com/VenusRover
 - https://www.getsmarter.com/courses/mit-human-computer-interaction-for-uxd/course_registrations/step_1
-- 
-- 
-- 
 - https://www.nvidia.com/en-us/gtc/sessions/training/
 - https://www.cambridge.org/core/what-we-publish/textbooks/listing
 - https://buildyourfuture.withgoogle.com/programs/apprenticeship-programs/
@@ -1493,9 +1466,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://forums.fast.ai/t/recommended-python-learning-resources/26888
 - https://www.pythonlikeyoumeanit.com/Module5_OddsAndEnds/Writing_Good_Code.html
 - https://learnxinyminutes.com/docs/python/
-- 
-- 
-- 
 - https://certificate.usfca.edu/register/di-application
 - https://blog.openmined.org/apheris-openmined-pytorch-announcement/
 - https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-defcon-level/
@@ -1508,8 +1478,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://arxiv.org/abs/1802.01528
 - https://explained.ai/matrix-calculus/index.html
 - http://yufeizhao.com/a34/
-- 
-- 
 - https://github.com/dsgiitr/graph_nets
 - https://buildyourfuture.withgoogle.com/
 - http://news.mit.edu/2020/artificial-intelligence-identifies-new-antibiotic-0220
@@ -1520,10 +1488,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://openai.com/blog/openai-scholars-spring-2020/
 - https://arxiv.org/abs/1610.06918
 - http://datahacker.rs/spell-ai/
-- 
-- 
-- 
-- 
 - https://spell.run/
 - https://www.technologyreview.com/s/615094/why-private-micro-networks-could-be-the-future-of-how-we-connect/
 - https://journals.aps.org/prxquantum
@@ -1531,10 +1495,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://www.facebook.com/436074696425765/posts/3069012136465328/?d=n
 - https://www.comp.nus.edu.sg/programmes/
 - https://cbmm.mit.edu/video/how-will-we-do-mathematics-2030
-- 
-- 
-- 
-- 
 - https://www.widsconference.org/datathon.html
 - https://rc.library.uta.edu/uta-ir/bitstream/handle/10106/28108/KANWAR-THESIS-2019.pdf?sequence=1&isAllowed=y
 - https://github.com/georgezouq/awesome-deep-reinforcement-learning-in-finance
@@ -1542,7 +1502,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://arxiv.org/pdf/1808.09940.pdf
 - https://ai.googleblog.com/2020/01/can-you-trust-your-models-uncertainty.html?m=1
 - https://forms.gle/dU1Z7gDD41fzLDA3A
-- 
 - https://www.fast.ai/2019/07/08/fastai-nlp/
 - https://soundcloud.com/theaipodcast/what-are-generative-adversarial-networks-ian-goodfellow-explains
 - https://airtable.com/shrwVC7gPOuTJkxW0/tblUf4zxlIMLjwrbv?blocks=hide
@@ -1560,18 +1519,12 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://www.udacity.com/course/linux-command-line-basics--ud595
 - https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_Model_Optimization_Techniques.html
 - https://towardsdatascience.com/introduction-to-openvino-897e705a1f0a
-- 
-- 
 - https://link.medium.com/86OazY4dx2
 - https://medium.com/@subarna.lamsal1/exploring-titanic-dataset-using-microsofts-sandance-175eb04b3ac2?source=userActivityShare-b0b5839eb328-1576723419
 - https://stackoverflow.com/questions/12200580/numpy-function-for-simultaneous-max-and-min
 - https://www.techstars.com/apply/
 - https://morioh.com/p/deabd3cf8eb8?sfns=mo
 - http://openaccess.thecvf.com/ICCV2019.py
-- 
-- 
-- 
-- 
 - https://dev.to/
 - https://www.aiesec.in/registerge?sfns=mo
 - https://medium.com/@decodoku
@@ -1586,8 +1539,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://www.google.co.in/search?client=safari&hl=en-in&sxsrf=ACYBGNQ3nD6TU9BFmXJFtJHFDyjjL8yCTQ:1575872202154&ei=yubtXczyCL-b4-EPmIyXgAQ&q=q#+microsoft&oq=q#+micro&gs_l=mobile-gws-wiz-serp.1.1.0l2j0i22i30l5j0i22i10i30.5147.66097731.0.00.574.1639.0j4j2j5-101.46i39i275j0i7i30j0i20i263j0i10.a7WCvYGscJA
 - https://www.linkedin.com/in/austinkodra
 - https://www.quantamagazine.org/abstractions/
-- 
-- 
 - https://www.addvaluetech.com/satcom-iot-via-lora-wan/
 - https://en.wikipedia.org/wiki/LoRa?wprov=sfti1
 - https://www.google.co.in/search?client=safari&hl=en-in&sxsrf=ACYBGNT8SgjtEWz6lewV1Tsr-81PiBchwg:1575829171544&ei=sz7tXeLyINGd4-EP5fmyoAo&q=LoRa+network+iot+satellite+gateway&oq=LoRa+network+iot+satellite+gateway&gs_l=mobile-gws-wiz-serp.3.15690.2196022311.2.10.300.4907.0j12j11j101.0i71j35i39j0i20i263j0j0i22i30j33i160j0i333j33i22i29i30j33i21.lDwmjH1Z-7k
@@ -1664,8 +1615,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - http://rascal.nianet.org/competition-basics/
 - https://www.giss.nasa.gov/edu/
 - https://www.giss.nasa.gov/edu/res/Dulaney_FutureTemperatureProjections.pdf
-- 
-- 
 - https://twitter.com/clementdelangue/status/1201934486650400768
 - https://filmfestival.wearewater.org/en/about_302911
 - https://medium.com/@vpapaluta06/how-to-build-an-enigma-machine-virtualisation-in-python-b5476a1fd922?source=userActivityShare-b0b5839eb328-1575459937
@@ -1700,8 +1649,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/
 - https://www.intel.com/content/www/us/en/research/neuromorphic-community.html?sfns=mo
 - https://qhack.ai/software.html
-- 
-- 
 - https://www.oracle.com/in/blockchain/'
 - https://docs.oracle.com/en/cloud/paas/blockchain-cloud/user/whats-oracle-blockchain-cloud-service.html
 - https://www.youtube.com/watch?v=Lr3EFKayP0o
@@ -1712,8 +1659,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://www.ibm.com/garage/method
 - https://www.ibm.com/cloud/garage/architectures
 - https://prod.playground.plutus.iohkdev.io/
-- 
-- 
 - https://castel.dev/post/lecture-notes-1/
 - https://github.com/alebcay/awesome-shell#shells
 - https://www.orbit-lab.org/wiki/Tutorials/k0SDR/Tutorial25
@@ -1721,29 +1666,22 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://www.orbit-lab.org/
 - https://pytorch.org/tutorials/
 - https://www.kaggle.com/edx/course-study
-- 
-- 
 - https://playacademy.exceedlms.com/student/catalog
 - https://campsite.bio/
 - https://officechai.com/startups/former-unicorn-shopclues-gets-acquired-singapore-based-e-commerce-platform-70-100-million?sfns=mo
 - https://www.quantamagazine.org/gamma-ray-data-reveal-surprises-about-the-sun-20190501?sfns=mo
 - https://www.cocheno.com/about-me/
 - https://in.linkedin.com/in/supreeth-sudhakaran-menon-5aa282174
-- 
-- 
 - https://medium.com/vaibhav-malpanis-blog/get-free-google-home-and-2400-google-cloud-credits-f34274e76d73
 - https://medium.com/vaibhav-malpanis-blog/my-experience-at-aws-developer-summit-2019-ee401744dbe6
 - http://student.mit.edu/cgi-docs/student.html
 - https://web.stanford.edu/~anayebi/projects/CS_239_Final_Project_Writeup.pdf
 - https://selfdrivingcars.mit.edu/resources/
-- 
 - https://medium.com/vaibhav-malpanis-blog/get-free-google-home-and-2400-google-cloud-credits-f34274e76d73
 - https://medium.com/vaibhav-malpanis-blog/my-experience-at-aws-developer-summit-2019-ee401744dbe6
 - http://student.mit.edu/cgi-docs/student.html
 - https://web.stanford.edu/~anayebi/projects/CS_239_Final_Project_Writeup.pdf
 - https://selfdrivingcars.mit.edu/resources/
-- 
-- 
 - https://www.spaceappschallenge.org/about/judging/
 - https://huggingface.co/
 - http://www.cs.toronto.edu/~hinton/gradstuphd.html
@@ -1830,14 +1768,10 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://spinningup.openai.com/en/latest/
 - https://openai.com/blog/better-language-models/
 - https://openai.com/blog/emergent-tool-use/
-- 
-- 
-- 
 - http://newcamp.co/
 - https://www.dataquest.io/
 - https://leucosite.com/Microsoft-Edge-uXSS/?q
 - https://machinelearningmastery.com/probability-resources-for-machine-learning/
-- 
 - https://eng.uber.com/michelangelo/
 - https://reproducibility-challenge.github.io/neurips2019/
 - https://t.co/5byS0rqZPF?amp=1
@@ -1845,28 +1779,21 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://blogs.nvidia.com/blog/2019/08/21/drive-labs-autonomous-vehicle-ride/
 - https://research.qut.edu.au/creativelab/about/scholarships/?fbclid=IwAR00MW6dkjHlCCo5Tcvv-4fEENFHZ8BaogWPEuB0Y_cKKM_mZMhXr8SM3uc
 - http://www.esa.int/Our_Activities/Preparing_for_the_Future/Discovery_and_Preparation/Seeking_innovative_ideas_for_exploring_lunar_caves
-- 
 - https://www.nvidia.com/en-us/research/ai-playground/
 - https://nvlabs.github.io/SPADE/
 - http://mrl.snu.ac.kr/research/ProjectScalable/Page.htm
 - https://royalsociety.org/science-events-and-lectures/scientific-meetings/
-- 
-- 
 - https://morioh.com/p/c80c2b14cd3b
 - https://benclinkinbeard.com/d3in5days/
 - https://mila.quebec/en/
 - https://github.com/bayesgroup/deepbayes-2019/tree/master/lectures/day1
 - https://github.com/facebookresearch/qmnist/blob/master/README.md
-- 
-- 
 - https://www.shimonschocken.com/teaching
 - https://www.shimonschocken.com/tools
 - https://on24static.akamaized.net/event/20/49/41/5/rt/1/documents/resourceList1566829654994/quantumcomputingwebinaraugust2620191566829653795.pdf
 - https://cdn2.hubspot.net/hubfs/4994459/Quantum Computing/Ten_Questions NEW.pdf
 - https://ghc.anitab.org/news/commentary-perspectives/osd-mentor-ghc-19/
 - https://anitaborg.volunteerlocal.com/volunteer/?id=40918
-- 
-- 
 - https://www.facebook.com/groups/251560641854558/permalink/938851249792157?sfns=mo
 - https://www.facebook.com/groups/492568497754278/permalink/943610775983379?sfns=mo
 - https://news.harvard.edu/gazette/story/2019/08/harvard-undergraduates-take-on-summer-research-projects?utm_medium=social&utm_campaign=hu-facebook-general&utm_source=facebook&sfns=mo
@@ -1912,9 +1839,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://www.youtube.com/watch?v=EtsXgODHMWk&feature=share
 - https://www.youtube.com/watch?v=eTxyviU0Ddo&feature=share
 - https://reps.mozilla.org/u/ranjithraj/
-- 
-- 
-- 
 - https://www.abmgood.com/marketing/knowledge_base/next_generation_sequencing_introduction.php
 - https://www.intel.com/content/www/us/en/healthcare-it/healthcare-overview.html
 - https://datahub.io/blog/attribute-relation-file-format-arff
@@ -1952,10 +1876,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://github.com/sonusourav/A-to-Z-Resources-for-Students 
 - https://github.com/vicky002/AlgoWiki 
 - https://functionalcs.github.io/curriculum/ 
-- 
-- 
-- 
-- 
 - https://github.com/ujjwalkarn/Machine-Learning-Tutorials 
 - https://github.com/josephmisiti/awesome-machine-learning 
 - https://github.com/collections/machine-learning
@@ -1967,11 +1887,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 -   https://github.com/NajiElKotob/Awesome-ML 
 -   https://sgfin.github.io/learning-resources/ 
 -   https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524 
--   
-- 
-- 
-- 
-- 
 - https://twitter.com/mit_csail/status/1160221769002881037
 - https://twitter.com/kdnuggets/status/1160284186755969026
 - https://twitter.com/tunguz/status/1160344564978221056
@@ -2032,9 +1947,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://github.com/didi/delta
 - https://twitter.com/techreview/status/1158822046224306176
 - https://twitter.com/techreview/status/1158785655700369409
-- 
-- 
-- 
 - https://mars.nasa.gov/participate/send-your-name/learn
 - https://www.nasa.gov/press-release/nasa-adds-events-to-celebration-of-50th-anniversary-of-historic-moon-landing
 - https://www.nasa.gov/stem/forstudents
@@ -2064,9 +1976,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://github.com/Developer-Y/math-science-video-lectures
 - https://github.com/Developer-Y 
 - https://github.com/Developer-Y
-- 
-- 
-- 
 - https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA
 - https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E
 - https://www.youtube.com/watch?v=feAOZuID1HM&list=WL&index=24&t=998s 
@@ -2084,8 +1993,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://www.youtube.com/watch?v=Yr1mOzC93xs&list=WL&index=128&t=13s 
 - https://www.youtube.com/watch?v=Dp-mQ3HxgDE&list=WL&index=139&t=16s 
 - https://www.youtube.com/watch?v=cUTMhmVh1qs&t=15s 
-- 
-- 
 - https://www.classcentral.com/subject/cs 
 - https://learninglab.si.edu/about/research
 - https://stanfordpython.com/#/ 
@@ -2129,7 +2036,6 @@ https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.pn
 - https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule 
 - 6.004 2015-2017 https://computationstructures.org/index.html
 - 6.004 fall 2019 https://6004.mit.edu/web/fall19FA19/labs
-- 
 - https://studio.code.org/courses
 - related HN thread: https://news.ycombinator.com/item?id=22056567
 - https://foundations-of-applied-mathematics.github.io/ 
@@ -2303,13 +2209,11 @@ http://deeplearning.cs.cmu.edu
 - http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf 
 - https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/lectures/index.html 
 - https://slideslive.com/38938675/xlxmert-paint-caption-and-answer-questions-with-multimodal-transformers
-- 
 - https://danilorezende.com/wp-content/uploads/2020/07/ICML-2020-Tutorial-Slides.pdf
 - https://stopa.io/post/269
 - https://sites.google.com/new?ftv=1
 - https://wiki.c2.com/?TuringComplete
 - https://www.bbcmicrobot.com/
-- 
 - http://www.cs.umd.edu/class/fall2020/cmsc828W/ 
 - https://allenai.org/#projects 
 - https://stopa.io/post/269?fbclid=IwAR3hTnOce3TSS1F_6Ha3NEyIsyXKCI8Qb5UoO9LrHmbK5pGtUMHRnA-gJbU 
@@ -2400,13 +2304,11 @@ http://deeplearning.cs.cmu.edu
 - http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf 
 - https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/lectures/index.html 
 - https://slideslive.com/38938675/xlxmert-paint-caption-and-answer-questions-with-multimodal-transformers
-- 
 - https://danilorezende.com/wp-content/uploads/2020/07/ICML-2020-Tutorial-Slides.pdf
 - https://stopa.io/post/269
 - https://sites.google.com/new?ftv=1
 - https://wiki.c2.com/?TuringComplete
 - https://www.bbcmicrobot.com/
-- 
 - http://www.cs.umd.edu/class/fall2020/cmsc828W/ 
 - https://allenai.org/#projects 
 - https://stopa.io/post/269?fbclid=IwAR3hTnOce3TSS1F_6Ha3NEyIsyXKCI8Qb5UoO9LrHmbK5pGtUMHRnA-gJbU 
@@ -2432,8 +2334,8 @@ http://deeplearning.cs.cmu.edu
 
 ///////////////////////////////////////////////////COMP_CREATIITY 
 
-https://www.youtube.com/watch?v=2IJPw_XsJkY&feature=emb_title 
-https://www.artxcode.io/projects 
+- https://www.youtube.com/watch?v=2IJPw_XsJkY&feature=emb_title 
+- https://www.artxcode.io/projects 
 
 
 //////////////////////////////////////////////////MEHUL 
@@ -2447,12 +2349,11 @@ https://www.artxcode.io/projects
 - https://quantumalgorithmzoo.org/
 - https://www.edx.org/course/quantum-cryptography
 - https://www.edx.org/course/hardware-of-quantum-computer
-- 
 
 
 /////////////////////////////////////////////COMP_NEURO
 
-https://github.com/ebatty/MathToolsforNeuroscience
+- https://github.com/ebatty/MathToolsforNeuroscience
 
 
 
@@ -2460,206 +2361,196 @@ https://github.com/ebatty/MathToolsforNeuroscience
 //////////////////////////////////////////////BLOGS 
 
 
-https://research.google/teams/brain/pair/      
-https://bair.berkeley.edu/blog/ 
-https://neuronline.sfn.org/training?type={BBEC89EB-9633-4FBC-85BE-287D01F7A9C9}
-https://github.com/yenchenlin/awesome-NeRF 
-https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/ 
-https://aap.cornell.edu/academics/architecture 
-https://openlearning.mit.edu/courses-programs/open-learning-library
-https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY 
+- https://research.google/teams/brain/pair/      
+- https://bair.berkeley.edu/blog/ 
+- https://neuronline.sfn.org/training?type={BBEC89EB-9633-4FBC-85BE-287D01F7A9C9}
+- https://github.com/yenchenlin/awesome-NeRF 
+- https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/ 
+- https://aap.cornell.edu/academics/architecture 
+- https://openlearning.mit.edu/courses-programs/open-learning-library
+- https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY 
 
 
 # No Code
 
 ### Tutorials:
 
-www.makerpad.com (Or check out their youtube for free conent)
-www.buildcamp.io (For bubble )
-www.university.webflow.com (gret webflow tutorials)
-https://www.learnfrommakers.com/
+- www.makerpad.com (Or check out their youtube for free conent)
+- www.buildcamp.io (For bubble )
+- www.university.webflow.com (gret webflow tutorials)
+- https://www.learnfrommakers.com/
 
 ### Landing Pages (for validating ideas, newsletter signups, projects etc):
 
-www.carrd.co
-Dorik.io
-www.unicornplatform.com
-www.mailerlite.com
-https://www.umso.com/
-www.leadpages.com
+- www.carrd.co
+- Dorik.io
+- www.unicornplatform.com
+- www.mailerlite.com
+- https://www.umso.com/
+- www.leadpages.com
 
 ### Website builders:
 
-www.webflow.com
-www.softr.io
-www.ampstor.co
-Web-app Builders:
-www.bubble.io
-www.ycode.com (coming soon ;))
-www.bildr.com
-www.pory.io
-www.appgyver.com
-www.budibase.com
-www.softr.io
-www.tadabase.io
+- www.webflow.com
+- www.softr.io
+- www.ampstor.co
+- Web-app Builders:
+- www.bubble.io
+- www.ycode.com (coming soon ;))
+- www.bildr.com
+- www.pory.io
+- www.appgyver.com
+- www.budibase.com
+- www.softr.io
+- www.tadabase.io
 
 ### Mobile app builders:
 
-www.createwithplay.com (beta)
-www.adalo.com
-www.bravostudio.app
-www.draftbit.com (beta I think?)
-www.thunkable.com
-www.yourvone.com
+- www.createwithplay.com (beta)
+- www.adalo.com
+- www.bravostudio.app
+- www.draftbit.com (beta I think?)
+- www.thunkable.com
+- www.yourvone.com
 
 ### Automation/Logic:
 
-www.zapier.com
-www.integromat.com
-www.parabola.io
-www.useparagon.com
-www.tray.io
-www.automate.io
-www.ifttt.com
-www.n8n.io
+- www.zapier.com
+- www.integromat.com
+- www.parabola.io
+- www.useparagon.com
+- www.tray.io
+- www.automate.io
+- www.ifttt.com
+- www.n8n.io
 
 ### Databases:
 
-www.airtable.com (fav)
-www.googlesheets.com
-www.notion.com
-www.coda.io
-www.rows.com
-Backend as a service (for turning static apps into dynamic ex. webflow)
-www.busywork.co
-www.cloudcanal.io
-www.8base.com
-www.buildwithrebase.com (beta)
+- www.airtable.com (fav)
+- www.googlesheets.com
+- www.notion.com
+- www.coda.io
+- www.rows.com
+- Backend as a service (for turning static apps into dynamic ex. webflow)
+- www.busywork.co
+- www.cloudcanal.io
+- www.8base.com
+- www.buildwithrebase.com (beta)
 
 ### Billing:
 
-www.servicebot.io (fav)
-www.gumroad.com
-www.stripe.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- www.servicebot.io (fav)
+- www.gumroad.com
+- www.stripe.com
 
 
 
 (Other than Andrew Ng )
 Resources for ML,DL,RL,NLP,etc.
 
-AI Adventures Google 
+- AI Adventures Google 
+
 https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2
 
-Deep Learning MIT by Alexander Amini
+- Deep Learning MIT by Alexander Amini
 
 https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 
-NLP by IIT Madras
+- NLP by IIT Madras
+
 https://www.youtube.com/playlist?list=PLyqSpQzTE6M_EcNgdZ2qOtTZe7YI4Eedb
 
-NLP , Dan Jurafsky (God)Stanford
+- NLP , Dan Jurafsky (God)Stanford
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ
 
-Natural Language Understanding Stanford
+- Natural Language Understanding Stanford
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
 
-CS224N NLP by Chris Manning , Stanford
+- CS224N NLP by Chris Manning , Stanford
+
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html#coursework
 
-Deep Learning , IIT Madras
+- Deep Learning , IIT Madras
 
 https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA
 
-Deep Learning (with PyTorch) NYU
+- Deep Learning (with PyTorch) NYU
 
 https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
 
-PyTorch
+- PyTorch
+
 https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
 
-Object Detection Intuition (etc)
+- Object Detection Intuition (etc)
+
 https://www.youtube.com/playlist?list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S
 
-Information Retrieval (Edinburgh etc)
+- Information Retrieval (Edinburgh etc)
+
 https://www.youtube.com/playlist?list=PL8aInuUJXpIdndRHkUGr3EH3Gdbc6AUlf
 
-RL (literally all ) by DeepMind
+- RL (literally all) by DeepMind
 
 https://twitter.com/DeepMind/status/1258028153584472067?s=19
 
 https://m.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF
 
-Applied ML , Columbia 
+- Applied ML , Columbia 
+
 https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA
 
-ML Playlists (Univ of Washington)
+- ML Playlists (Univ of Washington)
 
 https://m.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50
 
-ML Basics (Stats etc)
+- ML Basics (Stats etc)
 
 https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
 
-Mining Massive Datasets  Stanford
+- Mining Massive Datasets  Stanford
+
 https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV
 
-Model Deployment(Krish Naik)
+- Model Deployment(Krish Naik)
+
 https://www.youtube.com/playlist?list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1
 
-Robotics and Motion Sensing ,University of Bonn
+- Robotics and Motion Sensing ,University of Bonn
+
 https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v
 
-CS231N by Andrej Karpathy
+- CS231N by Andrej Karpathy
 
 https://m.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC#dialog
 
-Meta Learning Stanford
+- Meta Learning Stanford
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
 
 https://github.com/luspr/awesome-ml-courses
 
-Other deep learning Courses and Summer Schools:
+- Other deep learning Courses and Summer Schools:
 
 https://deep-learning-drizzle.github.io/index.html#probgm
 
-Springer Free Books:
+- Springer Free Books:
 
 https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-discipline=%22Computer+Science%22
 
-
-
-
-
-
-CMU group
+- CMU group
 https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA
 
-UCSD Computer Graphics
+- UCSD Computer Graphics
 https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E
 
-UC Berkeley Computer Science 162, 001 - Fall 2010
+- UC Berkeley Computer Science 162, 001 - Fall 2010
 https://www.youtube.com/watch?v=feAOZuID1HM&list=WL&index=24&t=998s
 
-From Deep Learning of Disentangled Representations to Higher-level Cognition
+- From Deep Learning of Disentangled Representations to Higher-level Cognition
+
 https://www.youtube.com/watch?v=Yr1mOzC93xs&list=WL&index=128&t=13s 
 
 - https://www.youtube.com/watch?v=LBpqoj2nOQo&list=WL&index=29&t=1410s
@@ -2737,6 +2628,7 @@ https://www.youtube.com/watch?v=Yr1mOzC93xs&list=WL&index=128&t=13s
 
 
 # Conferences 
+
 ## Talks
 
 
