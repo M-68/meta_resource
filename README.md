@@ -37,7 +37,7 @@ To contribute to the meta_resources database, follow these steps:
 
 *Congradulations! You're now a contributor!*
 
-## Contrbuting Guidelines
+## Contributing Guidelines
 
 Before contributing to the database, be sure to read the [Contribution Guidelines](https://github.com/M-68/meta_resource/blob/deploy/CONTRIBUTING.md)(in the works).
 
