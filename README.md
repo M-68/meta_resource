@@ -16,7 +16,7 @@ We maintain a well organised [airtable](https://airtable.com/) database of the r
 
 You can check the main database and search, sort or filter resources and find the best ones for your needs or just browse through the database, trying to find inspiration in the resources.
 
-Each resource is formated as a tuple of **(description, link, type, contributor)**where,
+Each resource is formated as a tuple of **(description, link, type, contributor)** where,
 - **Description** is a short description of what the resource is about.
 - **link** is the hyperlink to the resource, or a download link.
 - **type** is the type of the resource, which can be one of the following:
