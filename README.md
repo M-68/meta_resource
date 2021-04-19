@@ -57,7 +57,7 @@ The Code of Conduct is meant to ensure a seamless collaboration between the memb
 - The discussions in the aforementioned online communities must be polite, formal and in alignment with the goals of the community.
 - Spamming the database with illegal or unacceptable resources will lead to ban from the community.
 - The project maintainers will have sole discretion in case of any disputes arising out of the use of the resources or contributions.
-- Adhere to the [Contribution Guidelines](https://github.com/M-68/meta_resource/blob/deploy/CONTRIBUTING.md)(in the works) to ensure the best experience for everyone.
+- Adhere to the [Contribution Guidelines](https://github.com/M-68/meta_resource/blob/deploy/CONTRIBUTING.md) to ensure the best experience for everyone.
 
 ### Apart from this, a few basic rules for contributors are:
 
