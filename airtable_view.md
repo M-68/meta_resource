@@ -202,7 +202,6 @@
 - http://crcns.org/data-sets
 - https://github.com/dangkhoasdc/awesome-ai-residency
 - https://github.com/Rudrabha/Lip2Wav
-- ftp://ftp.nyxdata.com/
 - https://github.com/UKPLab/sentence-transformers
 - https://github.com/makcedward/nlp
 - https://github.com/facebookresearch/fastText
