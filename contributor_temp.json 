@@ -1,0 +1,52 @@
+ "contributors": [
+    {
+      "login": "Agrover112",
+      "name": "Agrover112",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/42321810?v=4",
+      "profile": "https://github.com/Agrover112",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "VikramxD",
+      "name": "Vikramjeet Singh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/72499426?v=4",
+      "profile": "https://github.com/VikramxD",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "notmehul",
+      "name": "Mehul Srivastava",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55837394?v=4",
+      "profile": "http://notmehul.co",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "binarypheonix",
+      "name": "Astitv Shandilya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21365550?v=4",
+      "profile": "http://binarypheonix.com",
+      "contributions": [
+        "code",
+        "content",
+        "data",
+        "doc",
+        "design",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "platform",
+        "question",
+        "review",
+        "tool",
+        "test",
+        "userTesting"
+      ]
+    }
+  ],
