@@ -6,23 +6,27 @@
   "commit": false,
   "contributors": [
     {
-      "login": "Agrover112",
-      "name": "Agrover112",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/42321810?v=4",
-      "profile": "https://github.com/Agrover112",
+      "login": "EXYNOS-999",
+      "name": "RISHABH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55334249?v=4",
+      "profile": "http://notrishabh.co",
       "contributions": [
-        "design"
-      ]
-    },
-    {
-      "login": "VikramxD",
-      "name": "Vikramjeet Singh",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/72499426?v=4",
-      "profile": "https://github.com/VikramxD",
-      "contributions": [
+        "code",
         "content",
         "data",
-        "doc"
+        "doc",
+        "design",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "platform",
+        "question",
+        "review",
+        "tool",
+        "test",
+        "userTesting"
+
       ]
     }
   ],
