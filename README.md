@@ -77,8 +77,7 @@ To contribute to the meta_resources database, follow these steps:
 
 ## Contributing Guidelines
 
-Before contributing to the database, be sure to read the [Contribution Guidelines](https://github.com/M-68/meta_resource/blob/deploy/CONTRIBUTING.md)(in the works).
-
+Before contributing to the database, be sure to read the [Contribution Guidelines](https://github.com/M-68/meta_resource/blob/deploy/CONTRIBUTING.md)
 ## Connect With Us
 
 To reach out to us, or connect with the M68 community, Join our [Slack Channel](https://app.slack.com/client/T010C0CP9K6/C010EDD9S3H/details/top) or send us a [mail](mailto:exynos999@outlook.com)
@@ -139,5 +138,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Social
+
+[M-68]()   
+[Rish: Maintainer](https://twitter.com/neuro_rish)
+
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
