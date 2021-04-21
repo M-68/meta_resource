@@ -61,5 +61,5 @@
   "projectOwner": "M-68",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": false
 }
