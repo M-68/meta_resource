@@ -49,6 +49,21 @@ Each resource is formated as a tuple of **(description, link, type, contributor)
 
 ![](https://github.com/M-68/meta_resource/blob/deploy/content/scripts_2.png)
 
+
+
+## Use data in your own project
+
+*Create a copy of this data , where you can build on it by adding your own fields, creating custom views, or combining with other data, embed it on your site*
+
+**Embed code** 
+
+```  
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrbwIwvU4YP6XwJU?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+```
+
+Or visit this [link](https://airtable.com/shrbwIwvU4YP6XwJU/embed)
+
+
 ## How to Contribute
 
 To contribute to the meta_resources database, follow these steps:
@@ -69,15 +84,13 @@ To reach out to us, or connect with the M68 community, Join our [Slack Channel](
 
 ## Code of Conduct
 
-### **Introduction**
-
 The Code of Conduct is meant to ensure a seamless collaboration between the members of the community and to drive our primary goals. We created it not because we anticipate bad behavior, but because we believe that articulating our values and obligations to one another reinforces the already exceptional level of respect among the members of the community and because having a code provides us with clear avenues to correct our culture should it ever stray from that course. This Code of Conduct applies to community members and M68 team members in all the communities online (including but not limited to IRC, support chat, the M68 Slack group, Twitter, and WhatsApp).
 
 ### Some of the regulations to keep in mind are:
 - The resources contributed **must** not be illegal or pirated in any way, shape or form.
 - The community should be open to and supportive of each other.
 - The discussions in the aforementioned online communities must be polite, formal and in alignment with the goals of the community.
-- Spamming the database with illegal or unacceptable resources will lead to ban from the community.
+- Spamming the database with illegal or unacceptable resources will result in a ban from the community.
 - The project maintainers will have sole discretion in case of any disputes arising out of the use of the resources or contributions.
 - Adhere to the [Contribution Guidelines](https://github.com/M-68/meta_resource/blob/deploy/CONTRIBUTING.md) to ensure the best experience for everyone.
 
@@ -90,20 +103,6 @@ The Code of Conduct is meant to ensure a seamless collaboration between the memb
 1. Contributors should attempt to adhere to the prevailing code-style.
 
 
-
-## Use data in your own project
-
-*Create a copy of this data , where you can build on it by adding your own fields, creating custom views, or combining with other data, embed it on your site*
-
-**Embed code** 
-
-```  
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrbwIwvU4YP6XwJU?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-```
-
-Or visit this [link](https://airtable.com/shrbwIwvU4YP6XwJU/embed)
-
-
 ## License
 
 This project is licensed under the [MIT License](https://github.com/M-68/meta_resource/blob/deploy/LICENSE.md)
@@ -111,9 +110,6 @@ This project is licensed under the [MIT License](https://github.com/M-68/meta_re
 ## Releases
 
 Declaring formal releases remains the prerogative of the project maintainer.
-
-
-
 
 ## Policy Changes
 
