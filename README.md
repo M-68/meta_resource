@@ -24,12 +24,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Agrover112"><img src="https://avatars3.githubusercontent.com/u/42321810?v=4" width="100px;" alt=""/><br /><sub><b>Agrover112</b></sub></a><br /><a href="#design-Agrover112" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/Agrover112"><img src="https://avatars3.githubusercontent.com/u/42321810?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Agrover112</b></sub></a><br /><a href="#design-Agrover112" title="Design">🎨</a> <a href="https://github.com/M-68/meta_resource/commits?author=Agrover112" title="Code">💻</a> <a href="#content-Agrover112" title="Content">🖋</a> <a href="#data-Agrover112" title="Data">🔣</a> <a href="https://github.com/M-68/meta_resource/commits?author=Agrover112" title="Documentation">📖</a> <a href="#example-Agrover112" title="Examples">💡</a> <a href="#ideas-Agrover112" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-Agrover112" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-Agrover112" title="Maintenance">🚧</a> <a href="#platform-Agrover112" title="Packaging/porting to new platform">📦</a> <a href="#question-Agrover112" title="Answering Questions">💬</a> <a href="https://github.com/M-68/meta_resource/pulls?q=is%3Apr+reviewed-by%3AAgrover112" title="Reviewed Pull Requests">👀</a> <a href="#tool-Agrover112" title="Tools">🔧</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
