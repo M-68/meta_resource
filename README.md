@@ -1,6 +1,6 @@
 # meta_resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 #### [ *Visit project website*](https://airtable.com/shrbwIwvU4YP6XwJU/tblTuQ8HV5dqpEl6D)
@@ -129,8 +129,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-
     <td align="center"><a href="http://notrishabh.co"><img src="https://avatars.githubusercontent.com/u/55334249?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RISHABH</b></sub></a><br /><a href="https://github.com/M-68/meta_resource/commits?author=EXYNOS-999" title="Code">💻</a> <a href="#content-EXYNOS-999" title="Content">🖋</a> <a href="#data-EXYNOS-999" title="Data">🔣</a> <a href="https://github.com/M-68/meta_resource/commits?author=EXYNOS-999" title="Documentation">📖</a> <a href="#design-EXYNOS-999" title="Design">🎨</a> <a href="#example-EXYNOS-999" title="Examples">💡</a> <a href="#ideas-EXYNOS-999" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-EXYNOS-999" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-EXYNOS-999" title="Maintenance">🚧</a> <a href="#platform-EXYNOS-999" title="Packaging/porting to new platform">📦</a> <a href="#question-EXYNOS-999" title="Answering Questions">💬</a> <a href="https://github.com/M-68/meta_resource/pulls?q=is%3Apr+reviewed-by%3AEXYNOS-999" title="Reviewed Pull Requests">👀</a> <a href="#tool-EXYNOS-999" title="Tools">🔧</a> <a href="https://github.com/M-68/meta_resource/commits?author=EXYNOS-999" title="Tests">⚠️</a> <a href="#userTesting-EXYNOS-999" title="User Testing">📓</a></td>
+    <td align="center"><a href="https://github.com/VikramxD"><img src="https://avatars.githubusercontent.com/u/72499426?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vikramjeet Singh</b></sub></a><br /><a href="#content-VikramxD" title="Content">🖋</a> <a href="#data-VikramxD" title="Data">🔣</a> <a href="https://github.com/M-68/meta_resource/commits?author=VikramxD" title="Documentation">📖</a></td>
   </tr>
 </table>
 
