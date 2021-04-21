@@ -30,7 +30,7 @@ Each resource is formated as a tuple of **(description, link, type, contributor)
  - People/Labs/Organisations
  - Opportunities/Jobs
  - Conferences/Workshops/Talks
-- **contributor** is the name of the person who has contributed to the resource.
+- **contributor** is the name of the person who  contributed  the resource.
 
 
 ## Preview
