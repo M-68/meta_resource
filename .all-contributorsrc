@@ -26,7 +26,17 @@
         "tool",
         "test",
         "userTesting"
-
+      ]
+    },
+    {
+      "login": "VikramxD",
+      "name": "Vikramjeet Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72499426?v=4",
+      "profile": "https://github.com/VikramxD",
+      "contributions": [
+        "content",
+        "data",
+        "doc"
       ]
     }
   ],
