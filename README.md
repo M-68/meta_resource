@@ -1,5 +1,6 @@
 # meta_resources
 
+#### [ *Visit project website*](https://airtable.com/shrbwIwvU4YP6XwJU/tblTuQ8HV5dqpEl6D)
 -----------------------------------------
 
 ## What is it
@@ -88,6 +89,21 @@ The Code of Conduct is meant to ensure a seamless collaboration between the memb
 1. Internal pull-requests to solicit feedback are *encouraged* for any other non-trivial contribution but left to the discretion of the contributor.
 1. Contributors should attempt to adhere to the prevailing code-style.
 
+
+
+## Use data in your own project
+
+*Create a copy of this data , where you can build on it by adding your own fields, creating custom views, or combining with other data, embed it on your site*
+
+**Embed code** 
+
+```  
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrbwIwvU4YP6XwJU?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+```
+
+Or visit this [link](https://airtable.com/shrbwIwvU4YP6XwJU/embed)
+
+
 ## License
 
 This project is licensed under the [MIT License](https://github.com/M-68/meta_resource/blob/deploy/LICENSE.md)
@@ -95,6 +111,9 @@ This project is licensed under the [MIT License](https://github.com/M-68/meta_re
 ## Releases
 
 Declaring formal releases remains the prerogative of the project maintainer.
+
+
+
 
 ## Policy Changes
 
