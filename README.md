@@ -24,13 +24,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Agrover112"><img src="https://avatars3.githubusercontent.com/u/42321810?v=4" width="100px;" alt=""/><br /><sub><b>Agrover112</b></sub></a><br /><a href="#design-Agrover112" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/VikramxD"><img src="https://avatars0.githubusercontent.com/u/72499426?v=4" width="100px;" alt=""/><br /><sub><b>Vikramjeet Singh</b></sub></a><br /><a href="#content-VikramxD" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Agrover112"><img src="https://avatars3.githubusercontent.com/u/42321810?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Agrover112</b></sub></a><br /><a href="#design-Agrover112" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/VikramxD"><img src="https://avatars0.githubusercontent.com/u/72499426?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vikramjeet Singh</b></sub></a><br /><a href="#content-VikramxD" title="Content">🖋</a> <a href="#data-VikramxD" title="Data">🔣</a> <a href="https://github.com/M-68/meta_resource/commits?author=VikramxD" title="Documentation">📖</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
