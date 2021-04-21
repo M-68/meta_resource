@@ -1,0 +1,38 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "EXYNOS-999",
+      "name": "RISHABH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55334249?v=4",
+      "profile": "http://notrishabh.co",
+      "contributions": [
+        "code",
+        "content",
+        "data",
+        "doc",
+        "design",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "platform",
+        "question",
+        "review",
+        "tool",
+        "test",
+        "userTesting"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "meta_resource",
+  "projectOwner": "M-68",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
