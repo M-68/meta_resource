@@ -46,10 +46,9 @@ Each resource is formated as a tuple of **(description, link, type, contributor)
 ![](https://github.com/M-68/meta_resource/blob/deploy/content/scripts.png)
 
 
-![](https://github.com/M-68/meta_resource/blob/deploy/content/scripts_2.png)0
+![](https://github.com/M-68/meta_resource/blob/deploy/content/scripts_2.png)
 
-##
- How to Contribute
+## How to Contribute
 
 To contribute to the meta_resources database, follow these steps:
 - Open [the submission form.](https://airtable.com/shrJ7bvP1gnZAGLZn) 
