@@ -31,11 +31,34 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "binarypheonix",
+      "name": "Astitv Shandilya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21365550?v=4",
+      "profile": "http://binarypheonix.com",
+      "contributions": [
+        "code",
+        "content",
+        "data",
+        "doc",
+        "design",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "platform",
+        "question",
+        "review",
+        "tool",
+        "test",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "meta_resource",
-  "projectOwner": "EXYNOS-999",
+  "projectOwner": "M-68",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
