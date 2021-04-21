@@ -20,13 +20,15 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/72499426?v=4",
       "profile": "https://github.com/VikramxD",
       "contributions": [
-        "content"
+        "content",
+        "data",
+        "doc"
       ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "meta_resource",
-  "projectOwner": "EXYNOS-999",
+  "projectOwner": "M-68",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
