@@ -6,12 +6,12 @@
 #### [ *Visit project website*](https://airtable.com/shrbwIwvU4YP6XwJU/tblTuQ8HV5dqpEl6D)
 -----------------------------------------
 
-## What is it
+## What is it?
 
 meta_resources is an initiative by M68 to collect, oragnise and store the world's largest decentralised collection of open data and to make it accessible to everyone. It was born out of the belief that the internet is full of useful resources that remain hidden from the people who can benefit from them. By building and maintaining an organised database of such resouces, we can help each other learn and work, smarter. 
 
 
-## Our Moto
+## Our Motto
 
 Resources, by the people, of the people, for the people.
 
@@ -30,10 +30,11 @@ Each resource is formated as a tuple of **(description, link, type, contributor)
  - People/Labs/Organisations
  - Opportunities/Jobs
  - Conferences/Workshops/Talks
-- **contributor** is the name of the person who contributed the resource.
+- **contributor** is the name of the person who has contributed to the resource.
 
 
 ## Preview
+
 
 ![](https://github.com/M-68/meta_resource/blob/deploy/content/total_records.png)
 
@@ -75,7 +76,7 @@ To contribute to the meta_resources database, follow these steps:
 - Click submit to add the resource to the database.
 - Open [the main database](https://airtable.com/shrDN5mYU3dExG5x8/tblTuQ8HV5dqpEl6D) to see your contributions.
 
-*Congradulations! You're now a contributor!*
+*Congratulations! You're now a contributor!*
 
 ## Contributing Guidelines
 
