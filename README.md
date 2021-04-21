@@ -1,6 +1,6 @@
 # meta_resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 #### [ *Visit project website*](https://airtable.com/shrbwIwvU4YP6XwJU/tblTuQ8HV5dqpEl6D)
