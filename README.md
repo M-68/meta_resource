@@ -6,6 +6,7 @@
 
 meta_resources is an initiative by M68 to collect, oragnise and store the world's largest decentralised collection of open data and to make it accessible to everyone. It was born out of the belief that the internet is full of useful resources that remain hidden from the people who can benefit from them. By building and maintaining an organised database of such resouces, we can help each other learn and work, smarter. 
 
+
 ## Our Moto
 
 Resources, by the people, of the people, for the people.
@@ -26,6 +27,11 @@ Each resource is formated as a tuple of **(description, link, type, contributor)
  - Opportunities/Jobs
  - Conferences/Workshops/Talks
 - **contributor** is the name of the person who contributed the resource.
+
+
+## Preview
+
+
 
 ## How to Contribute
 
